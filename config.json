@@ -1,0 +1,9 @@
+{
+  "query_template": "events in pittsburgh this {period}",
+  "period": "week",
+  "cadence_hours": 6,
+  "timezone": "America/New_York",
+  "calendar_name": "Pittsburgh Events",
+  "max_events": 25,
+  "model": "claude-sonnet-5"
+}
