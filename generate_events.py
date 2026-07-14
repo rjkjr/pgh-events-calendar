@@ -25,6 +25,7 @@ client = anthropic.Anthropic()
 
 
 def research_events(query: str) -> str:
+    today = datetime.now(TZ)
     response = client.messages.create(
         model=MODEL,
         max_tokens=4096,
@@ -33,16 +34,31 @@ def research_events(query: str) -> str:
         system=(
             "You are a local events researcher for Pittsburgh, PA. Use web search "
             "to find real, currently-scheduled events from the top search results. "
-            "Only include events you found actual evidence for — do not invent events."
+            "Only include events you found actual evidence for — do not invent events. "
+            f"Today's real date is {today.strftime('%A, %B %d, %Y')}. Search results "
+            "often surface pages from a prior year's recurring event — always resolve "
+            "each event to its next actual occurrence on or after today's date, and "
+            "report the correct year explicitly. Discard any event whose confirmed "
+            "date has already passed relative to today."
         ),
         messages=[{
             "role": "user",
             "content": (
                 f"Search for \"{query}\" and compile a thorough, well-organized list "
                 f"of up to {CONFIG['max_events']} events happening in Pittsburgh, PA "
-                "for this period. For each event, report: the event name, date(s), "
-                "start time if known, venue or location, a one-sentence description, "
-                "and the source URL if available."
+                "for this period, starting from today. For each event, report on its "
+                "own labeled lines:\n"
+                "- Event name\n"
+                "- Date(s) with the correct year\n"
+                "- Start time (and end time) if known\n"
+                "- Venue / location (be as specific as the source allows)\n"
+                "- One-sentence description\n"
+                "- Source URL: the exact web address of the page you found this "
+                "event on (an event detail page or venue calendar page — prefer a "
+                "direct link over a generic homepage). Copy the full https:// URL "
+                "verbatim from the search results; do not invent, shorten, or guess "
+                "URLs. If you genuinely have no URL for an event, write 'Source URL: "
+                "none'."
             ),
         }],
     )
@@ -66,7 +82,16 @@ def extract_structured_events(research_text: str) -> list[dict]:
                 f"exactly this shape (no markdown fences, no prose, output ONLY the "
                 f"JSON array):\n{schema_hint}\n\n"
                 "Times are 24-hour local Pittsburgh time (America/New_York). If a "
-                "date is ambiguous or missing, omit that event. Research notes:\n\n"
+                "date is ambiguous or missing, omit that event. Today's real date is "
+                f"{datetime.now(TZ).strftime('%Y-%m-%d')} — every start_date/end_date "
+                "must be on or after today; if the notes give a date before today, "
+                "correct it to the next occurrence of that date.\n"
+                "For 'url': copy the event's Source URL verbatim from the notes when "
+                "one is given; use null only when the notes say 'none' or give no URL. "
+                "Never fabricate or guess a URL.\n"
+                "For 'location': copy the venue/location text from the notes; use an "
+                "empty string only if the notes give no location.\n"
+                "Research notes:\n\n"
                 f"{research_text}"
             ),
         }],
@@ -117,22 +142,39 @@ def build_ics(events: list[dict]) -> str:
             lines.append(f"DTSTART;VALUE=DATE:{start_date.replace('-', '')}")
             lines.append(f"DTEND;VALUE=DATE:{end_dt.strftime('%Y%m%d')}")
         else:
+            # A timed event spanning multiple calendar days (e.g. "7-9PM, July 15
+            # through July 18") means the same time window repeats each day, not
+            # one continuous block from day-1-start to day-N-end. Model that as a
+            # daily-recurring VEVENT anchored to start_date, not a multi-day span.
             start_local = datetime.strptime(f"{start_date} {start_time}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
-            end_date = ev.get("end_date") or start_date
             end_time = ev.get("end_time")
             if end_time:
-                end_local = datetime.strptime(f"{end_date} {end_time}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
+                end_local = datetime.strptime(f"{start_date} {end_time}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
+                if end_local <= start_local:
+                    end_local += timedelta(days=1)  # crosses midnight
             else:
                 end_local = start_local + timedelta(hours=2)
             lines.append(f"DTSTART:{start_local.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
             lines.append(f"DTEND:{end_local.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
 
+            end_date = ev.get("end_date") or start_date
+            if end_date != start_date:
+                until_local = datetime.strptime(f"{end_date} {start_time}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
+                until_utc = until_local.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+                lines.append(f"RRULE:FREQ=DAILY;UNTIL={until_utc}")
+
         location = ev.get("location") or ""
         description = ev.get("description") or ""
-        url = ev.get("url")
+
+        # Only treat a value as a real URL if it's an http(s) link — guard against
+        # the model emitting "none"/"" or a bare fragment.
+        raw_url = (ev.get("url") or "").strip()
+        url = raw_url if raw_url.lower().startswith(("http://", "https://")) else ""
+
         if url:
             description = f"{description}\\n\\n{url}"
-        lines.append(f"LOCATION:{escape_ics(location)}")
+        if location:
+            lines.append(f"LOCATION:{escape_ics(location)}")
         lines.append(f"DESCRIPTION:{escape_ics(description)}")
         if url:
             lines.append(f"URL:{url}")
