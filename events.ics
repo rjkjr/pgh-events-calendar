@@ -6,228 +6,165 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:94ea17fc-309c-55ea-ba8c-d12097083501@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Chamber Music Pittsburgh — Independence Day Concert
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260715
-LOCATION:City of Asylum and St. Nicholas Croatian Catholic Church\, Pittsburgh\, PA
-DESCRIPTION:Chamber Music Pittsburgh celebrates America with a setlist featuring composers connected to Pittsburgh.
-END:VEVENT
-BEGIN:VEVENT
 UID:621db16a-9525-5138-a9ff-49ae5d2a9e93@pghwidget
-DTSTAMP:20260714T005845Z
+DTSTAMP:20260714T012445Z
 SUMMARY:Meditation Mondays at Heinz Chapel
 DTSTART:20260713T160000Z
 DTEND:20260713T170000Z
 LOCATION:Heinz Memorial Chapel\, University of Pittsburgh
-DESCRIPTION:A weekly guided meditation session open to the community.
+DESCRIPTION:A weekly meditation session held at Heinz Memorial Chapel.
 END:VEVENT
 BEGIN:VEVENT
-UID:7dff262c-5fe9-5d64-b6ce-5ce8a045250c@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Monday Night Recovery Run
-DTSTART:20260713T223000Z
-DTEND:20260714T003000Z
-LOCATION:Fleet Feet Bakery Square\, 186 Bakery Square Blvd.
-DESCRIPTION:A relaxed recovery run of one\, three or six miles.
-END:VEVENT
-BEGIN:VEVENT
-UID:e8436c7a-d362-5f24-82bc-70bff191b590@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Workshops & Classes Event
+UID:908227fe-e64f-515a-94aa-d1c69beed594@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Public Theater Workshops & Classes
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-LOCATION:O'Reilly Theater (Pittsburgh Public Theater)
-DESCRIPTION:A scheduled workshop/class series hosted by Pittsburgh Public Theater.
+LOCATION:O'Reilly Theater\, Downtown
+DESCRIPTION:A workshops-and-classes program presented by Pittsburgh Public Theater.
 END:VEVENT
 BEGIN:VEVENT
-UID:58ecb07a-1c7b-5df9-aed5-c6c1b4a530c3@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:MCG Jazz Concert at Arts Landing
+UID:5b17473f-6ff7-599b-84a4-935654124686@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:DJO with Pond
+DTSTART:20260715T000000Z
+DTEND:20260715T020000Z
+LOCATION:Stage AE\, North Shore
+DESCRIPTION:A concert by Djo with opener Pond.
+END:VEVENT
+BEGIN:VEVENT
+UID:4df5be3f-edae-514f-ac8b-e519813d4df8@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:youbet w/ Plea (21+)
+DTSTART:20260715T000000Z
+DTEND:20260715T020000Z
+LOCATION:Club Cafe\, South Side
+DESCRIPTION:A 21-and-over concert featuring youbet with support from Plea.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee8371b-3593-505b-99b8-1e6db1c26dfc@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:MCG Jazz Concert Series
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-LOCATION:Arts Landing\, Downtown Pittsburgh
-DESCRIPTION:Free live music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.
+LOCATION:Arts Landing\, Cultural District
+DESCRIPTION:A free live-music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.
 END:VEVENT
 BEGIN:VEVENT
-UID:b8ba4a33-6f9c-5b55-82fd-4b8294afbe85@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Radiant Strings Live Performance
-DTSTART:20260714T220000Z
-DTEND:20260714T230000Z
-LOCATION:Bakery Square Courtyard
-DESCRIPTION:A live performance by Radiant Strings\, blending classical refinement with modern edge.
+UID:a5743527-e298-589b-985d-a984df0ec37f@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Memphis May Fire with Caskets
+DTSTART:20260715T220000Z
+DTEND:20260716T000000Z
+LOCATION:Roxian Theatre\, McKees Rocks
+DESCRIPTION:A rock concert featuring Memphis May Fire with Caskets.
 END:VEVENT
 BEGIN:VEVENT
-UID:44d12848-858d-5e16-b01a-39388d1b9993@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:PGH Cheers & Chess Social Club
-DTSTART:20260714T230000Z
-DTEND:20260715T010000Z
-LOCATION:Aslin Beer Co.
-DESCRIPTION:A low-stakes social chess night with 18 boards\, food\, and drinks for players of all levels.
+UID:a8423e13-ef8d-515c-88b5-5f4e1d00917e@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:DUSTBOWLCHAMPION x Computer Kill
+DTSTART:20260716T000000Z
+DTEND:20260716T020000Z
+LOCATION:Club Cafe\, South Side
+DESCRIPTION:A co-headlining show pairing DUSTBOWLCHAMPION with Computer Kill.
 END:VEVENT
 BEGIN:VEVENT
-UID:da896cdd-1afb-5f4f-9a8c-9edd5e8da79e@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Bob the Drag Queen (Comedy)
-DTSTART:20260715T230000Z
-DTEND:20260719T013000Z
-LOCATION:Pittsburgh Improv\, 166 East Bridge St.\, Homestead
-DESCRIPTION:Comedy performances by drag performer and comedian Bob the Drag Queen\; 21+.
+UID:0bcd4dba-d080-5dcb-a5e7-158d700ee0ef@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Trampled by Turtles with Richy Mitch & The Coalminers
+DTSTART:20260716T220000Z
+DTEND:20260717T000000Z
+LOCATION:Roxian Theatre\, McKees Rocks
+DESCRIPTION:A folk/bluegrass concert featuring Trampled by Turtles with Richy Mitch & The Coalminers.
 END:VEVENT
 BEGIN:VEVENT
-UID:b3f97fb7-3e6e-5aa5-a0f6-b4fdaf418b0a@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Quantum Theatre presents "The Tempest"
-DTSTART:20260715T233000Z
-DTEND:20260716T013000Z
-LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd.\, Rankin
-DESCRIPTION:Quantum Theatre presents The Tempest at the Carrie Blast Furnaces.
-END:VEVENT
-BEGIN:VEVENT
-UID:0a483123-aee5-5fb1-8237-88933026df3f@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Fleet Feet Thursday Night Run
-DTSTART:20260716T223000Z
-DTEND:20260717T003000Z
-LOCATION:Fleet Feet Bakery Square
-DESCRIPTION:Run into the weekend with routes of one\, three and six miles offered.
-END:VEVENT
-BEGIN:VEVENT
-UID:42b9cd60-fd44-5e55-ac71-389d415756fe@pghwidget
-DTSTAMP:20260714T005845Z
+UID:8d7d428e-4166-59f8-9aa3-6fed3e7ada6d@pghwidget
+DTSTAMP:20260714T012445Z
 SUMMARY:Pittsburgh Symphony Orchestra Concert
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-LOCATION:Heinz Hall\, Downtown Pittsburgh
-DESCRIPTION:A scheduled orchestral concert by the Pittsburgh Symphony Orchestra.
+LOCATION:Heinz Hall\, Cultural District
+DESCRIPTION:A concert performance by the Pittsburgh Symphony Orchestra.
+END:VEVENT
+BEGIN:VEVENT
+UID:17bba4e4-0a04-5d73-8866-8f1f5e152efd@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Downtown Partnership Free Concert Series
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260720
+LOCATION:Arts Landing\, Cultural District
+DESCRIPTION:A free\, family-friendly live music series presented by the Pittsburgh Downtown Partnership.
 END:VEVENT
 BEGIN:VEVENT
 UID:c49975a3-8987-5a30-8f7b-e754e6a5f421@pghwidget
-DTSTAMP:20260714T005845Z
+DTSTAMP:20260714T012445Z
 SUMMARY:Pittsburgh Musical Theater Production
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260720
 LOCATION:Gargaro Theater
-DESCRIPTION:A live musical theater production presented by Pittsburgh Musical Theater.
+DESCRIPTION:A Broadway/musical theater production staged by Pittsburgh Musical Theater.
 END:VEVENT
 BEGIN:VEVENT
-UID:6aabe8e0-345e-5f90-953a-fe334ebc7c0d@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Picklesburgh 2026
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260720
-LOCATION:Downtown Pittsburgh — Warhol and Clemente Bridges\, Allegheny Riverfront Park\, Market Square\, Fort Duquesne Blvd.\, Sixth Street\, PPG Plaza\, and Arts Landing
-DESCRIPTION:A free four-day festival dedicated to the humble pickle.
+UID:53cf9f5c-df90-5853-b734-d7e2e8111311@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Orleans
+DTSTART:20260718T001500Z
+DTEND:20260718T021500Z
+LOCATION:South Park Amphitheater\, South Park Township
+DESCRIPTION:South Park Amphitheater will be welcoming Orleans on July 17th as part of the free Allegheny County summer concert series.
 END:VEVENT
 BEGIN:VEVENT
-UID:f128ddb0-5b92-578d-94e0-59a4410b8c8e@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Pittsburgh Downtown Partnership Concert Series at Arts Landing
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260720
-LOCATION:Arts Landing\, Downtown Pittsburgh
-DESCRIPTION:A free live music/family/variety concert series presented by the Pittsburgh Downtown Partnership.
+UID:fcc8048e-2ddd-5ca3-b91a-d556aef1dc30@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Mötley Crüe with Tesla and Extreme
+DTSTART:20260717T223000Z
+DTEND:20260718T003000Z
+LOCATION:The Pavilion at Star Lake\, Burgettstown
+DESCRIPTION:A rock concert featuring Mötley Crüe with Tesla and Extreme.
 END:VEVENT
 BEGIN:VEVENT
-UID:503372a8-d9d3-5138-965e-6f3bd653ae35@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Family Fest at Arts Landing
-DTSTART:20260716T140000Z
-DTEND:20260716T160000Z
-LOCATION:803 Penn Ave.\, Downtown Pittsburgh
-DESCRIPTION:A festival for families with kids 13 and under featuring performances\, games\, and activities.
+UID:3440b346-3bf2-5911-a8f0-10987b25b62d@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Thunderbirds vs. Indianapolis AlleyCats
+DTSTART:20260717T230000Z
+DTEND:20260718T010000Z
+LOCATION:Highmark Stadium\, South Side
+DESCRIPTION:A professional ultimate frisbee match between the Pittsburgh Thunderbirds and Indianapolis AlleyCats.
 END:VEVENT
 BEGIN:VEVENT
-UID:e49d7df6-77d5-52cf-8592-ca5fc07a93c1@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Wildflower Fest
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260720
-LOCATION:Freedom Farms
-DESCRIPTION:Pick a bouquet\, meet farm animals\, pony rides\, sunflower maze\, corn pit\, food vendors\, live music and crafts.
-END:VEVENT
-BEGIN:VEVENT
-UID:6d2e5466-c483-5e64-a268-306395037e37@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Open Salsa Dancing
-DTSTART:20260718T000000Z
-DTEND:20260718T020000Z
-LOCATION:Bakery Square Courtyard
-DESCRIPTION:A free evening of salsa dancing with pros guiding attendees.
-END:VEVENT
-BEGIN:VEVENT
-UID:19ae7a7e-ec49-5500-8b11-96e750ddb1a9@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Summer Fridays at the Frick
-DTSTART:20260717T210000Z
-DTEND:20260717T230000Z
-LOCATION:The Frick Pittsburgh\, 7227 Reynolds St.\, Point Breeze
-DESCRIPTION:Weekly Friday evening event at the Frick museum grounds\; $5 admission.
-END:VEVENT
-BEGIN:VEVENT
-UID:89b3a443-2507-50c0-9ce7-406ff55cff2e@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Orleans in Concert
+UID:cf5f0b6c-562a-59b1-85de-e3a1e1cf8a25@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Symphony Orchestra Performance
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-LOCATION:South Park Amphitheater
-DESCRIPTION:South Park Amphitheater welcomes Orleans.
+LOCATION:Off-site performance
+DESCRIPTION:A live music performance by the Pittsburgh Symphony Orchestra.
 END:VEVENT
 BEGIN:VEVENT
-UID:11909f34-891b-5a99-9a51-fcfc1cab35b7@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Cyril Neville in Concert
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-LOCATION:Hartwood Acres Amphitheater
-DESCRIPTION:Hartwood Acres Amphitheater hosts Cyril Neville.
-END:VEVENT
-BEGIN:VEVENT
-UID:b38adb2a-5b2a-5de4-9c38-e2d259c05368@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Silent Disco Pickle Party
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-LOCATION:The Plaza at North Shore
-DESCRIPTION:A pickle party with a silent disco featuring a live DJ running multiple channels through headphones.
-END:VEVENT
-BEGIN:VEVENT
-UID:f32227cb-9c42-5782-beb5-0e8432a4fe98@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Pittsburgh Vintage Grand Prix — Race Weekend
+UID:57addcce-3207-59ee-a202-c6c5f79566f3@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Symphony Orchestra Weekend Concerts
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
-LOCATION:Schenley Park\, Oakland
-DESCRIPTION:The nation's largest vintage street race and premier motorsport festival with car shows\, parties\, and parades.
+LOCATION:Heinz Hall
+DESCRIPTION:A weekend concert series by the Pittsburgh Symphony Orchestra.
 END:VEVENT
 BEGIN:VEVENT
-UID:e71bf61a-4f57-5b6f-b28f-0bb45f147dc6@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:Tim McGraw: Pawn Shop Guitar Tour (with 49 Winchester)
-DTSTART:20260718T230000Z
-DTEND:20260719T010000Z
-LOCATION:The Pavilion at Star Lake\, 665 Route 18\, Burgettstown
-DESCRIPTION:Country star Tim McGraw returns to The Pavilion at Star Lake on the Pawn Shop Guitar Tour with special guest 49 Winchester.
+UID:8ed918d4-1c5b-5e1b-b8e7-8639d9665323@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Cyril Neville
+DTSTART:20260720T001500Z
+DTEND:20260720T021500Z
+LOCATION:Hartwood Acres Amphitheater\, Allison Park
+DESCRIPTION:Hartwood Acres Amphitheater will be hosting Cyril Neville on July 19th as part of the free Allegheny County summer concert series.
 END:VEVENT
 BEGIN:VEVENT
-UID:f96aaa3b-989d-5ddc-b7ab-3a0ba7aa6d71@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:I Made It! Market
-DTSTART:20260718T150000Z
-DTEND:20260718T200000Z
-LOCATION:The Waterfront\, 149 W. Bridge St.\, Homestead
-DESCRIPTION:A local artisan/maker market held at The Waterfront shopping district.
-END:VEVENT
-BEGIN:VEVENT
-UID:61e71ad3-676e-5ad9-b99d-5334cb527784@pghwidget
-DTSTAMP:20260714T005845Z
-SUMMARY:AWCommunity Day: STEAM
-DTSTART:20260718T160000Z
-DTEND:20260718T190000Z
-LOCATION:August Wilson African American Cultural Center\, 980 Liberty Ave.\, Downtown
-DESCRIPTION:A free\, all-ages community STEAM event\; open house style.
+UID:3a51f250-d6ff-56d0-a40b-8915d1213f38@pghwidget
+DTSTAMP:20260714T012445Z
+SUMMARY:Pittsburgh Vintage Grand Prix
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+LOCATION:Schenley Park & venues across the region
+DESCRIPTION:Race Weekend of the Pittsburgh Vintage Grand Prix.
 END:VEVENT
 END:VCALENDAR
