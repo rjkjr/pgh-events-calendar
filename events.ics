@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PGHWIDGET//Pittsburgh Events//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Pittsburgh Events
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3946f0d1-c5c9-5577-b5c2-c3181226fe8c@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Big Butler Fair
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250712
+LOCATION:Big Butler Fairgrounds
+DESCRIPTION:The largest agricultural fair in Western Pennsylvania\, featuring food\, fireworks\, carnival rides\, games\, demolition derbies\, concerts\, and truck pulls.
+END:VEVENT
+BEGIN:VEVENT
+UID:72c010a8-d76e-5214-84bb-aa15ba27007d@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Robinson Mall Carnival
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250712
+LOCATION:The Mall at Robinson
+DESCRIPTION:Six days of rides\, lights\, sweet treats\, and family fun with funnel cakes and carnival classics.
+END:VEVENT
+BEGIN:VEVENT
+UID:78744dfb-b5ea-5875-b9be-836490f74213@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Pittsburgh Music Festival (formerly Blues and Roots Festival)
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250713
+LOCATION:Pittsburgh Brewing Company\, Creighton
+DESCRIPTION:Two-day celebration of local music and community on the Iron City Stages\, benefiting Band Together and Autism Pittsburgh.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc81511-659a-5aa1-bf15-a90fbf30a9c8@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Pittsburgh Vintage Grand Prix
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250720
+LOCATION:Various locations
+DESCRIPTION:The nation's only vintage street race and largest vintage race event\, spanning 10 days with two race weekends\, car shows\, parties\, parades and motorsport events.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ccc060-ec3d-5308-8563-e4d81b1e65db@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Coconut Joe's Tiki Bar Dog Event
+DTSTART:20250711T160000Z
+DTEND:20250711T200000Z
+LOCATION:Coconut Joe's Tiki Bar
+DESCRIPTION:An afternoon of live acoustic music\, adoptable dogs\, vendors\, raffles\, and contests.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b2b098b-f07f-5959-9630-286b39468385@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Carnegie International (59th Edition)
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20270104
+LOCATION:Carnegie Museum of Art\, Mattress Factory\, Children's Museum of Pittsburgh\, Kamin Science Center\, Thelma Lovette YMCA
+DESCRIPTION:The longest-running exhibition of international art in North America\, described as the most collaborative and far-reaching edition to date.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0626ad-2ede-58c8-9942-28872be50761@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Summer Flower Show: Alice's Adventures in Wonderland
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250928
+LOCATION:Phipps Conservatory and Botanical Gardens
+DESCRIPTION:A journey down the rabbit hole with beloved story book scenes brought to life in each room of the conservatory.
+END:VEVENT
+BEGIN:VEVENT
+UID:c869cb6e-0f7a-5862-91bd-4efb19c0d2cb@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:French Moderns: Matisse / Renoir / Degas
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20251012
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:Encompassing realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, exemplifying the avant-garde movements that defined modern art.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c4337c-fa0f-5882-aeeb-0d9a5fe971f5@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Trust Magic Live Show
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250713
+LOCATION:Liberty Magic (Harris Theater complex)\, Downtown
+DESCRIPTION:Ongoing magic show residency presented by Pittsburgh Cultural Trust.
+END:VEVENT
+BEGIN:VEVENT
+UID:831b0bc9-71ac-5887-a321-a2b0deb3a2bb@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Book Talk & Discussion
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+LOCATION:The Clemente Museum
+DESCRIPTION:Hosted discussion with authors on a book related to the museum's focus.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8574e9c-cde4-5e9c-aa1a-f43fbd057022@pghwidget
+DTSTAMP:20260714T005523Z
+SUMMARY:Pittsburgh CLO Broadway Production
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250713
+LOCATION:Benedum Center\, Downtown
+DESCRIPTION:Musical theater production presented by Pittsburgh CLO.
+END:VEVENT
+END:VCALENDAR
