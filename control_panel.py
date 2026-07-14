@@ -6,6 +6,7 @@ config.json, and manually trigger a refresh (which runs generate_events.py,
 regenerates events.ics, and pushes it to GitHub).
 """
 import json
+import os
 import queue
 import subprocess
 import sys
@@ -17,6 +18,49 @@ from tkinter import messagebox, scrolledtext, ttk
 REPO_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = REPO_DIR / "config.json"
 FEED_URL = "https://raw.githubusercontent.com/rjkjr/pgh-events-calendar/main/events.ics"
+
+# launchd scheduled job that runs generate_events.py automatically.
+LAUNCHD_LABEL = "com.rjkjr.pghevents"
+PLIST_PATH = Path.home() / "Library" / "LaunchAgents" / f"{LAUNCHD_LABEL}.plist"
+
+
+def write_launchd_plist(interval_seconds: int) -> None:
+    """(Re)write the launchd plist with the given StartInterval."""
+    plist = f"""<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>{LAUNCHD_LABEL}</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>{sys.executable}</string>
+        <string>{REPO_DIR / "generate_events.py"}</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>{REPO_DIR}</string>
+    <key>StartInterval</key>
+    <integer>{interval_seconds}</integer>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>StandardOutPath</key>
+    <string>{REPO_DIR / "launchd.log"}</string>
+    <key>StandardErrorPath</key>
+    <string>{REPO_DIR / "launchd.log"}</string>
+</dict>
+</plist>
+"""
+    PLIST_PATH.write_text(plist)
+
+
+def reload_launchd_job() -> None:
+    """Reload the launchd job so a changed plist takes effect."""
+    domain = f"gui/{os.getuid()}"
+    # bootout may fail if not currently loaded — that's fine.
+    subprocess.run(["launchctl", "bootout", f"{domain}/{LAUNCHD_LABEL}"],
+                   capture_output=True, text=True)
+    subprocess.run(["launchctl", "bootstrap", domain, str(PLIST_PATH)],
+                   check=True, capture_output=True, text=True)
 
 # (config key, label, widget kind). "text" = free text, "int" = integer entry.
 FIELDS = [
@@ -111,12 +155,33 @@ class ControlPanel(tk.Tk):
         new = self._collect_config()
         if new is None:
             return False
+        old_cadence = self.config_data.get("cadence_hours")
         with open(CONFIG_PATH, "w") as f:
             json.dump(new, f, indent=2)
             f.write("\n")
         self.config_data = new
         self._append_log(f"Saved settings to {CONFIG_PATH.name}.\n")
+
+        new_cadence = new.get("cadence_hours")
+        if new_cadence != old_cadence:
+            self._apply_cadence(new_cadence)
         return True
+
+    def _apply_cadence(self, hours: int):
+        """Reprogram the launchd auto-refresh schedule to the new cadence."""
+        try:
+            write_launchd_plist(int(hours) * 3600)
+            reload_launchd_job()
+            self._append_log(
+                f"Auto-refresh schedule updated to every {hours} hour(s).\n"
+            )
+        except subprocess.CalledProcessError as e:
+            detail = (e.stderr or e.stdout or "").strip()
+            self._append_log(
+                f"Saved config, but couldn't reload the launchd schedule: {detail}\n"
+            )
+        except Exception as e:  # noqa: BLE001
+            self._append_log(f"Saved config, but couldn't update the schedule: {e}\n")
 
     def copy_feed_url(self):
         self.clipboard_clear()
