@@ -6,207 +6,42 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f2b5d278-7d62-5e99-9d21-f1e7a3c2483c@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Picklesburgh
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260720
-LOCATION:Downtown Pittsburgh — Sister Bridges\, Market Square\, Arts Landing\, and PPG Plaza
-DESCRIPTION:Picklesburgh is back with an extra day of fermented fun\, debuting its largest footprint yet\, encompassing two of Pittsburgh's Sister Bridges\, Market Square\, Arts Landing and PPG Plaza\, in a four-day format kicking off Thursday.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
-URL:https://www.pittsburghmagazine.com/7-things-to-do-in-july/
+UID:754d76ca-0dda-5e31-9ce1-3acef362dda7@pghwidget
+DTSTAMP:20260715T164736Z
+SUMMARY:DUSTBOWLCHAMPION x Computer Kill
+DTSTART:20260716T000000Z
+DTEND:20260716T020000Z
+LOCATION:Club Cafe\, Pittsburgh
+DESCRIPTION:A live indie/rock show taking place at the intimate South Side music club Club Cafe.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh?categoryId=KZFzniwnSyZfZ7v7nJ
+URL:https://www.ticketmaster.com/discover/pittsburgh?categoryId=KZFzniwnSyZfZ7v7nJ
 END:VEVENT
 BEGIN:VEVENT
-UID:8be32e3c-fc15-566e-8968-6f6c6d542238@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Pittsburgh Symphony Orchestra Concert
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-LOCATION:Heinz Hall\, 600 Penn Ave.\, Downtown
-DESCRIPTION:A live concert performance by the Pittsburgh Symphony Orchestra.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:75c75475-ce17-56c9-8ba6-01cc5458d042@pghwidget
-DTSTAMP:20260715T120712Z
+UID:1c56bed1-b163-5ee3-bb25-fbf1dc8cd4ee@pghwidget
+DTSTAMP:20260715T164736Z
 SUMMARY:Trust Magic
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown
-DESCRIPTION:An ongoing magic-show residency hosted by the Pittsburgh Cultural Trust at its intimate Liberty Magic venue.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Liberty Magic\, Downtown Pittsburgh
+DESCRIPTION:An intimate close-up magic show series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:b553747e-ba68-576f-904b-eb39bda9b7dd@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Pittsburgh Vintage Grand Prix (Race Weekend)
-DTSTART;VALUE=DATE:20260718
+UID:fb24dfc2-0ee5-553a-afae-ec86baa72048@pghwidget
+DTSTAMP:20260715T164736Z
+SUMMARY:Picklesburgh
+DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260720
-LOCATION:Schenley Park\, Oakland
-DESCRIPTION:The Pittsburgh Vintage Grand Prix is the nation's largest vintage street race and a premier motorsport festival\, blending the excitement of racing with car shows\, parties\, and parades — all set against the scenic backdrop of Pittsburgh.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+LOCATION:Cultural District / Downtown Pittsburgh
+DESCRIPTION:Picklesburgh is returning to a four-day schedule\, running Thursday\, July 16\, through Sunday\, July 19.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:16086ddd-4004-5f09-8879-8047e8483eef@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Kennywood's All-American Summer
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A recurring holiday-themed weekend celebration continuing every Saturday and Sunday through July 26.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:ee2cd821-70a2-5791-9abb-3aeab3a97e71@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Stars at Riverview Concert Series
-DTSTART:20260718T230000Z
-DTEND:20260719T003000Z
-RRULE:FREQ=DAILY;UNTIL=20260725T230000Z
-LOCATION:Riverview Park\, near the Allegheny Observatory
-DESCRIPTION:Music lovers gather on the hillside in the shadow of the Allegheny Observatory to listen to live music\, absolutely free\, on Saturdays in July.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:85265aa6-a21e-5d61-99dd-cacfecae06cd@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Bach\, Beethoven\, and Brunch
-DTSTART:20260719T143000Z
-DTEND:20260719T160000Z
-RRULE:FREQ=DAILY;UNTIL=20260726T143000Z
-LOCATION:Mellon Park
-DESCRIPTION:A different local ensemble performs a classical music concert each Sunday\, with past performers including the Pittsburgh Symphony Orchestra and others.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:9f72717d-f5e1-5be2-8a16-2892507bb040@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Neighborhood Flea
-DTSTART;VALUE=DATE:20260719
+UID:6d72bbb9-8926-54ec-a506-b4ba919b2184@pghwidget
+DTSTAMP:20260715T164736Z
+SUMMARY:Pittsburgh Vintage Grand Prix (PVGP)
+DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260720
-LOCATION:SouthSide Works
-DESCRIPTION:A curated pop-up marketplace with 125-plus vendors selling vintage collectibles\, antiques\, handmade wares\, original artwork\, home decor\, fashions and small-batch foods\, plus rotating local DJs and food trucks.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:1a506b21-72f4-5fe1-9a74-f14803c77af6@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Neighborhood Flea Night Market
-DTSTART:20260725T220000Z
-DTEND:20260726T020000Z
-LOCATION:Schenley Plaza
-DESCRIPTION:An after-hours edition of the market hosting 85 vendors and lawn games at Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:5a39f100-3afd-5b30-afe3-a8aa5a36b2fc@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Harambee Ujima Black Arts and Culture Festival
-DTSTART:20260715T190000Z
-DTEND:20260715T210000Z
-RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
-LOCATION:N. Homewood Avenue at Kelly Street\, Homewood
-DESCRIPTION:A community festival celebrating Black arts and culture in the Homewood neighborhood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:09959302-8efe-5133-8b8c-efa081d2fbe4@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Tekko 2026
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260727
-LOCATION:David L. Lawrence Convention Center\, 1000 Fort Duquesne Blvd.\, Downtown
-DESCRIPTION:Tekko is Pennsylvania's largest anime convention\, attracting nearly 12\,000 unique and diverse fans from across the country and world\, featuring Japanese arcade games\, J-rock\, J-fashion\, Japanese pop culture\, and educational programming.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:578d1e10-5b7c-5e87-84c2-566c1d084119@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:O.A.R. (concert)
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, North Shore
-DESCRIPTION:A live concert performance by the rock band O.A.R.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:13a3dd65-de14-5b96-96c4-561c9352a7b5@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Dave Matthews Band (concert)
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown
-DESCRIPTION:A live concert by Dave Matthews Band as part of the venue's summer touring season.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:37e1a4a6-927d-59c3-8e5d-f9314659961c@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:South Park Amphitheater / Hartwood Acres Summer Concert Series
-DTSTART:20260717T233000Z
-DTEND:20260718T013000Z
-RRULE:FREQ=DAILY;UNTIL=20260906T233000Z
-LOCATION:South Park Amphitheater (Fridays) and Hartwood Acres (Sundays)
-DESCRIPTION:The 2026 schedule includes diverse musical genres and local arts organizations performing at the South Park Amphitheater on Fridays and at Hartwood Acres on Sundays.\\n\\nhttps://www.pittsburghparent.com/six-pittsburgh-cant-miss-events-this-july/
-URL:https://www.pittsburghparent.com/six-pittsburgh-cant-miss-events-this-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:df64c2fe-d7b0-5571-8098-ed6aa237a4a9@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Hprizm: Sound of the City (art exhibit)
-DTSTART:20260715T150000Z
-DTEND:20260715T210000Z
-LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown
-DESCRIPTION:A free contemporary sound/media art exhibition at the Cultural Trust's Wood Street Galleries.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:fd51559e-5697-525b-80d4-1151b4f4f9ea@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Silent Book Club at Aslin Beer
-DTSTART:20260721T220000Z
-DTEND:20260722T010000Z
-LOCATION:Aslin Beer Co.
-DESCRIPTION:A relaxed\, no-pressure evening of reading held monthly\, where guests bring the book they're currently enjoying\, grab a beer\, enjoy food\, and meet fellow book lovers.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:48e7033a-adc3-5cb4-b500-97c6f17f3bc4@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Markets at the Terminal
-DTSTART:20260718T150000Z
-DTEND:20260718T190000Z
-LOCATION:The Terminal\, Strip District
-DESCRIPTION:A weekly market where guests can shop from local vendors while enjoying music by a DJ.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:356cec00-e316-5e73-a083-a7b074261c1c@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Salsa n' Suds
-DTSTART:20260720T213000Z
-DTEND:20260721T010000Z
-LOCATION:The Terminal\, Strip District
-DESCRIPTION:A weekly salsa lesson followed by social dancing\, welcoming both seasoned dancers and first-timers.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:5ffb846f-8601-5741-9ea2-58cd5ca2c9f2@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:Love Island USA on the Big Screen
-DTSTART:20260722T010000Z
-DTEND:20260722T030000Z
-LOCATION:Bakery Square Courtyard
-DESCRIPTION:A weekly outdoor screening event with a BYOB/blanket setup\, canceled if it rains.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:8680aa1f-985d-59e0-b8bd-242be44cbb30@pghwidget
-DTSTAMP:20260715T120712Z
-SUMMARY:PGH Cheers & Chess Social Club
-DTSTART:20260721T230000Z
-DTEND:20260722T010000Z
-LOCATION:Aslin Beer Co.
-DESCRIPTION:A low-stakes\, social chess night with 18 available boards\, food and drinks\, for players of all levels.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+LOCATION:Schenley Park & venues around Pittsburgh (Oakland area)
+DESCRIPTION:Race weekend July 18-19\, part of the Pittsburgh Vintage Grand Prix events through July 19.
 END:VEVENT
 END:VCALENDAR
