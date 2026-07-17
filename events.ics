@@ -6,225 +6,204 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:b8debbd3-e72b-5837-955c-d344c206c239@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Picklesburgh
-DTSTART;VALUE=DATE:20260716
+UID:75a7a34a-8f58-5dbd-8224-3d4ee39e1310@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Picklesburgh 2026
+DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
 LOCATION:Downtown Pittsburgh — Market Square\, Arts Landing\, PPG Plaza\, and two of the Sister Bridges
-DESCRIPTION:Pittsburgh's beloved pickle festival returns in its largest format yet\, featuring pickle-themed food\, drinks\, and the popular pickle juice drinking and eating contests.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:c48a55f1-249a-5e83-9f1b-0e07073c41bd@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Pittsburgh Vintage Grand Prix – Race Weekend
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260720
-LOCATION:Schenley Park\, Oakland
-DESCRIPTION:An annual multi-weekend celebration of classic automobiles culminating in a vintage car race through Schenley Park.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:4fb78541-fc50-59bb-9c21-6890dc7229d4@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Pittsburgh Symphony Orchestra Concert
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-LOCATION:Heinz Hall\, Downtown
-DESCRIPTION:A live orchestral performance by the Pittsburgh Symphony Orchestra.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:97589574-998c-516b-a3c0-18f3ece213a0@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:AWAACC Visual Arts Exhibition
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260720
-LOCATION:August Wilson African American Cultural Center\, Downtown
-DESCRIPTION:A visual arts program hosted by the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:d378a855-ee8b-5255-b8bf-1aafe06d3a77@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:South Park Amphitheater Concert: Orleans
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:Live outdoor concert as part of Allegheny County's free summer amphitheater series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:4ce60954-4fe6-5656-ae3c-2a876692017a@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Antique Skyscrapers Rooftop Tours
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260720
-LOCATION:Downtown Pittsburgh (rooftops of four Downtown landmarks\, including the Koppers and Frick buildings)
-DESCRIPTION:A guided rooftop tour exploring Pittsburgh's architectural history\, led by historian Mark Houser.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
+DESCRIPTION:Pittsburgh's briniest festival\, named the No. 1 specialty food festival in the U.S. five times over\, celebrates the city's love of all things pickled\, debuting its largest footprint yet across two Sister Bridges\, Market Square and Arts Landing.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
 URL:https://www.pittsburghmagazine.com/7-things-to-do-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:fd8477f8-cbc5-5bab-9a89-99cc4cb73fbd@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Pittsburgh Ballet Theatre Free Dance & Fitness Classes
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-LOCATION:Arts Landing\, Downtown
-DESCRIPTION:Free dance and fitness classes for ages 14+\, ranging from barre and pilates to hip hop.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
-URL:https://www.pittsburghmagazine.com/7-things-to-do-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:cb7939f4-3744-5d85-b181-5d5b8c5702de@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Hartwood Acres Amphitheater Concert: Cyril Neville
-DTSTART:20260720T001500Z
-DTEND:20260720T021500Z
-LOCATION:Hartwood Acres Park Amphitheater
-DESCRIPTION:A free outdoor concert in Allegheny County's summer amphitheater series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:85265aa6-a21e-5d61-99dd-cacfecae06cd@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Bach\, Beethoven\, and Brunch
-DTSTART:20260719T143000Z
-DTEND:20260719T160000Z
-LOCATION:Mellon Park
-DESCRIPTION:A weekly classical music series featuring a different local ensemble each Sunday morning.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:c62fb159-8120-53ec-99c8-3585c002a4a1@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Stars at Riverview Concert Series
-DTSTART:20260718T230000Z
-DTEND:20260719T003000Z
-LOCATION:Riverview Park
-DESCRIPTION:Free live music on the hillside near the Allegheny Observatory\, often followed by an outdoor movie screening.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:23550a66-d84e-5bd4-ae60-6d5581bfd414@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:All-American Summer at Kennywood
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A patriotic-themed weekend celebration at Kennywood amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+UID:3720a15e-cdac-5368-a6ec-771147dddeb2@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Pittsburgh Vintage Grand Prix — Schenley Park Race Day
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+LOCATION:Schenley Park\, Pittsburgh
+DESCRIPTION:PVGP features nine days packed with 14 high-octane happenings that bring thrills and elegance to venues around the region\, culminating in Schenley Park Race Day.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:c9e42cec-46b2-5fcc-a543-afbf7a587cb7@pghwidget
-DTSTAMP:20260716T143034Z
+DTSTAMP:20260717T104221Z
 SUMMARY:Neighborhood Flea Night Market
 DTSTART:20260725T220000Z
 DTEND:20260726T020000Z
 LOCATION:Schenley Plaza\, Oakland
-DESCRIPTION:An evening pop-up market with 85 vendors and lawn games\, a night-time spinoff of the SouthSide Works flea market.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+DESCRIPTION:An after-hours edition of the popular flea market hosting 85 vendors and lawn games.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
 URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:739f6f0f-2872-5635-abd0-f1682924d0bf@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:O.A.R.
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, North Shore
-DESCRIPTION:Live concert by the rock band O.A.R.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:46d2f471-0802-55d7-8517-3a8b1598022a@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:South Park Amphitheater Concert: Ruthie Foster
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:A free outdoor concert featuring blues/soul artist Ruthie Foster.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:27cceb9c-6727-53b3-b28f-c3e45fdbc49f@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Dave Matthews Band
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown
-DESCRIPTION:Live concert by the Dave Matthews Band.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:f0bd3d58-037a-501f-a0c0-d7603a6b0d8d@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Hartwood Acres Amphitheater Concert: Arrested Development
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-LOCATION:Hartwood Acres Park Amphitheater
-DESCRIPTION:A free outdoor concert featuring the hip-hop group Arrested Development.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:1cab141b-c1aa-5621-8b33-228f5514399e@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Pittsburgh Underwear Ride
-DTSTART:20260730T233000Z
-DTEND:20260731T013000Z
-LOCATION:Corner of Butler Street and 46th Street\, Lawrenceville
-DESCRIPTION:A free\, quirky community bike ride through Lawrenceville.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1e3c8ed-8074-53bb-9ac5-8f2cc2a5a2fd@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Tiffany with Stereo Scandal and Mimic
-DTSTART:20260730T220000Z
-DTEND:20260731T000000Z
-LOCATION:Jergel's Rhythm Grille\, 103 Slade Ln.\, Warrendale
-DESCRIPTION:1980s pop icon Tiffany performs live with supporting acts Stereo Scandal and Mimic.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:3334bd5c-c83d-52e7-bf4f-81aae1e4437e@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Cat Power: The Greatest Tour
-DTSTART:20260730T230000Z
-DTEND:20260731T010000Z
-LOCATION:Mr. Smalls Theatre\, 400 Lincoln Ave.\, Millvale
-DESCRIPTION:Singer-songwriter Cat Power performs on her "The Greatest Tour."\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:2d9de2bd-a00c-5487-b5aa-a134573508e0@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:South Park Amphitheater Concert: Don McLean
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:A free outdoor concert featuring legendary singer-songwriter Don McLean.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:71fd5da3-984e-55c6-9074-e6ef18c281b1@pghwidget
-DTSTAMP:20260716T143034Z
-SUMMARY:Hprizm: Sound of the City
-DTSTART:20260731T150000Z
-DTEND:20260731T210000Z
-RRULE:FREQ=DAILY;UNTIL=20270131T160000Z
-LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown
-DESCRIPTION:A new art exhibition/sound installation opening at Wood Street Galleries\, free to the public.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
 UID:54703def-0d82-5e66-a0d0-54c44a317c5f@pghwidget
-DTSTAMP:20260716T143034Z
+DTSTAMP:20260717T104221Z
 SUMMARY:Harambee Ujima Black Arts and Culture Festival
 DTSTART:20260731T190000Z
 DTEND:20260731T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
 LOCATION:N. Homewood Avenue at Kelly Street\, Homewood
-DESCRIPTION:A community festival celebrating Black arts and culture in the Homewood neighborhood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+DESCRIPTION:A multi-day community festival celebrating Black arts and culture in the Homewood neighborhood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:4de4b028-f623-5636-ae11-c7a3c672963e@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Kennywood — All-American Summer
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260727
+LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
+DESCRIPTION:A recurring weekend celebration of Americana-themed programming at the amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbb9820-eef8-5b4a-b0fc-5c3a1f87ee61@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Orleans (South Park Amphitheater series)
+DTSTART:20260718T001500Z
+DTEND:20260718T021500Z
+LOCATION:South Park Amphitheater\, South Park\, Allegheny County
+DESCRIPTION:Classic rock band Orleans performs as part of the county parks' summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:fffa4560-dce8-51b9-99cc-2c87b12814ea@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Cyril Neville (Hartwood Acres Amphitheater series)
+DTSTART:20260720T001500Z
+DTEND:20260720T021500Z
+LOCATION:Hartwood Acres Amphitheater\, Allegheny County
+DESCRIPTION:Part of the 2026 season lineup at Hartwood Acres Amphitheater\, featuring New Orleans funk legend Cyril Neville.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:7588fb9e-2be1-5c1e-b776-43ef9e9c3b6d@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Ruthie Foster (South Park Amphitheater series)
+DTSTART:20260725T001500Z
+DTEND:20260725T021500Z
+LOCATION:South Park Amphitheater\, South Park\, Allegheny County
+DESCRIPTION:Blues/Americana singer-songwriter Ruthie Foster performs in the county's free summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:97519986-5907-50f7-abcf-94d3f459f16e@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Arrested Development (Hartwood Acres Amphitheater series)
+DTSTART:20260727T001500Z
+DTEND:20260727T021500Z
+LOCATION:Hartwood Acres Amphitheater\, Allegheny County
+DESCRIPTION:Hip-hop group Arrested Development plays the Hartwood Acres summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:3584b94c-7457-5abb-84e1-76500724c34a@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Don McLean (South Park Amphitheater series)
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+LOCATION:South Park Amphitheater\, South Park\, Allegheny County
+DESCRIPTION:Singer-songwriter Don McLean closes out July's South Park concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:739f6f0f-2872-5635-abd0-f1682924d0bf@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:O.A.R.
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+LOCATION:Stage AE\, North Shore
+DESCRIPTION:Part of the 2026 concert lineup at Stage AE\, jam band O.A.R. performs.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:27cceb9c-6727-53b3-b28f-c3e45fdbc49f@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Dave Matthews Band
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+LOCATION:The Pavilion at Star Lake\, Burgettstown
+DESCRIPTION:Dave Matthews Band brings a stop of their tour to The Pavilion at Star Lake as part of the summer concert calendar.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e87bea1-8257-5f54-bc69-9e68c4687f4d@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Bach\, Beethoven\, and Brunch
+DTSTART:20260719T143000Z
+DTEND:20260719T160000Z
+LOCATION:Mellon Park\, Pittsburgh
+DESCRIPTION:A different local ensemble performs a classical music concert each Sunday morning in the park.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd60924-311c-5314-8769-10bfe7f430c9@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Stars at Riverview concert series
+DTSTART:20260718T230000Z
+DTEND:20260719T003000Z
+LOCATION:Riverview Park\, Pittsburgh (near Allegheny Observatory)
+DESCRIPTION:Music lovers gather on the hillside in the shadow of the Allegheny Observatory to listen to free live music.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:56b426f0-6ed6-596e-acce-e42711f44cc6@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Pittsburgh Ballet Theatre free dance & fitness classes
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260927
+LOCATION:Arts Landing\, Downtown Pittsburgh
+DESCRIPTION:Free dance and fitness classes ranging from barre and pilates to contemporary dance and hip hop\, open to ages 14 and up at all experience levels.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
+URL:https://www.pittsburghmagazine.com/7-things-to-do-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e0f362-f9fd-5372-84b3-6b562e19b200@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Trust Magic (Liberty Magic residency series)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260802
+LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown
+DESCRIPTION:An ongoing magic performance series at the Cultural Trust's intimate magic venue.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:e20db1f2-f956-5c7e-8e0f-f78ac5995794@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Hprizm: Sound of the City (art exhibit)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20270201
+LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown
+DESCRIPTION:A free sound-art exhibition on view at the Cultural Trust's Wood Street Galleries.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb22686c-5b83-52f5-89fa-b0e7fe7f0d11@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Pittsburgh Musical Theater production (Gargaro Theater)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+LOCATION:Gargaro Theater\, Pittsburgh
+DESCRIPTION:A Broadway/musical theater production presented by Pittsburgh Musical Theater (specific show title not listed in source).\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8d7bd5ff-15a4-5720-a1d1-8a1ff4123007@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:Stage 62 production (Greer Cabaret Theater)
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260727
+LOCATION:Greer Cabaret Theater\, Downtown
+DESCRIPTION:A Broadway/musical theater production staged by the community theater group Stage 62 (specific show title not listed in source).\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7e839bee-2f2a-51b4-a3ca-ae0d93c86620@pghwidget
+DTSTAMP:20260717T104221Z
+SUMMARY:AWAACC Visual Arts exhibit
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+LOCATION:August Wilson African American Cultural Center
+DESCRIPTION:A visual arts program presented by the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 END:VCALENDAR
