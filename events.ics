@@ -6,305 +6,183 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:4e336037-6286-5876-8599-9f5520ff6c0d@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Candlelight: Coldplay & Imagine Dragons
-DTSTART:20260718T004500Z
-DTEND:20260718T024500Z
-LOCATION:Trinity Episcopal Cathedral\, Pittsburgh
-DESCRIPTION:A multi-sensory candlelit tribute concert featuring the music of Coldplay and Imagine Dragons.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:f310abe3-7f7c-5b6e-8b4b-88f5ff48eb17@pghwidget
-DTSTAMP:20260717T165410Z
+UID:a1f5f16b-b87a-5569-ba0e-1bb0fde4d61b@pghwidget
+DTSTAMP:20260719T161952Z
 SUMMARY:Picklesburgh
-DTSTART;VALUE=DATE:20260717
+DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260720
-LOCATION:Downtown Pittsburgh — Market Square\, Arts Landing\, and two of the city's Sister Bridges
-DESCRIPTION:A free\, four-day festival celebrating all things pickled\, named USA Today's #1 Specialty Food Festival for four consecutive years\, expanding to its biggest footprint yet.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+LOCATION:Downtown Pittsburgh — Market Square\, Arts Landing\, and two of the Sister Bridges
+DESCRIPTION:The free four-day festival returns to two of Pittsburgh's Sister Bridges\, as well as both Market Square and Arts Landing\, making this the biggest Picklesburgh ever.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:225b004c-ee24-5776-8df7-41639b4821ef@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:America's Mile
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-LOCATION:Pittsburgh's North Shore
-DESCRIPTION:A race event with multiple heats (MOVE Mile\, Heroes' Mile\, Elite Mile) open to all ages and abilities against a North Shore backdrop.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:84c6f65b-f280-573a-87c9-3d5ff2798e72@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Pittsburgh Symphony Orchestra: Danny Elfman's Music from the Films of Tim Burton
-DTSTART:20260718T233000Z
-DTEND:20260719T013000Z
-LOCATION:Heinz Hall\, 600 Penn Ave.\, Downtown Pittsburgh
-DESCRIPTION:The Pittsburgh Symphony Orchestra performs Danny Elfman's iconic film scores from Tim Burton movies.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:bb74eb02-3da2-51ea-829d-82a0cc453dfe@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Schenley Park Car Show and Races (Pittsburgh Vintage Grand Prix)
-DTSTART:20260718T120000Z
-DTEND:20260718T140000Z
-RRULE:FREQ=DAILY;UNTIL=20260719T120000Z
-LOCATION:The Bob O'Connor Golf Course at Schenley Park\, Pittsburgh
-DESCRIPTION:The nation's largest vintage street race and motorsport festival\, featuring an International Car Show with nearly 3\,000 classic\, antique\, and exotic vehicles plus a vintage car race.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:07144046-9e8e-5c74-bea5-bea3bf55651d@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Pennsylvania World Cup Fan Zone
-DTSTART:20260719T180000Z
-DTEND:20260719T200000Z
-LOCATION:Acrisure Stadium\, Pittsburgh
-DESCRIPTION:A free\, multi-day celebration welcoming soccer fans to watch select 2026 FIFA World Cup matches at the home of the Steelers and Panthers.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:05b75596-cb24-5a2f-a08f-e88d25db534d@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Zayn (Zayn Malik)
-DTSTART:20260719T230000Z
-DTEND:20260720T010000Z
-LOCATION:PPG Paints Arena\, Pittsburgh
-DESCRIPTION:Pop/R&B singer Zayn Malik performs live in concert.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:b311b2b9-1493-5b20-a0cd-70630aaf2755@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:1st Annual Ketch'um All Con
+UID:e2baab2a-794f-5325-bec9-4e370b6a979f@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Pittsburgh Vintage Grand Prix – Schenley Park Race Day
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-LOCATION:Heinz History Center\, Pittsburgh
-DESCRIPTION:A collectibles convention for buying\, selling\, and trading Pokémon\, Funko Pops\, sports cards\, vintage toys\, and more.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+LOCATION:Schenley Park\, Oakland
+DESCRIPTION:PVGP features nine days packed with 14 high-octane happenings that bring thrills and elegance to venues around the region\, culminating with Schenley Park Race Day on July 19.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:60667b3d-d7fc-5728-88e0-fe293a945116@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Pennsylvania World Cup Fan Zone
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+LOCATION:Acrisure Stadium\, North Shore
+DESCRIPTION:The Pennsylvania World Cup Fan Zone in Pittsburgh is a free\, multi-day celebration welcoming soccer fans.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:2b54b4ec-818b-5f61-b204-f6b87c0e7870@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Trust Magic
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:An intimate magic show series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:df096d33-5d57-5062-87ee-dd27bb932cb1@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Stage 62 Broadway & Musical Theater Production
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A local musical theater production staged in the Cultural District's cabaret venue.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:fc46e2cf-93d6-5c5e-ba04-5ef260be48bb@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Pittsburgh Musical Theater Production
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260720
-LOCATION:Gargaro Theater\, Pittsburgh
-DESCRIPTION:A Broadway-style musical theater production presented by Pittsburgh Musical Theater.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:0e87bea1-8257-5f54-bc69-9e68c4687f4d@pghwidget
-DTSTAMP:20260717T165410Z
+UID:85265aa6-a21e-5d61-99dd-cacfecae06cd@pghwidget
+DTSTAMP:20260719T161952Z
 SUMMARY:Bach\, Beethoven\, and Brunch
 DTSTART:20260719T143000Z
 DTEND:20260719T160000Z
-LOCATION:Mellon Park\, Pittsburgh
-DESCRIPTION:A weekly classical music concert series featuring a rotating lineup of local ensembles\, paired with brunch and non-alcoholic mimosas.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+LOCATION:Mellon Park
+DESCRIPTION:A different local ensemble performs a classical music concert each Sunday morning in Mellon Park in July.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:36a3d239-cc1c-59dd-8299-a5acb59354ca@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Stars at Riverview
-DTSTART:20260718T230000Z
-DTEND:20260719T003000Z
-LOCATION:Riverview Park\, Pittsburgh
-DESCRIPTION:A free outdoor live music series held on the hillside near the Allegheny Observatory.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+UID:331badb2-8cf0-5814-8e26-5ce817dd5195@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Bach\, Beethoven\, and Brunch
+DTSTART:20260726T143000Z
+DTEND:20260726T160000Z
+LOCATION:Mellon Park
+DESCRIPTION:A different local ensemble performs a classical music concert each Sunday morning in Mellon Park in July.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:b9c577fc-db22-5c00-a849-05ab8f90366f@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Love Island USA on the Big Screen
-DTSTART:20260722T010000Z
-DTEND:20260722T030000Z
-LOCATION:Bakery Square Courtyard\, Pittsburgh
-DESCRIPTION:A free weekly outdoor screening event where fans gather to watch the reality show together.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:886acb87-3ee2-5611-999d-a1e6c3110f27@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Tekko 2026
-DTSTART;VALUE=DATE:20260723
+UID:047fc54a-02c2-5b41-a11b-eddf9b1d11b6@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Kennywood All-American Summer
+DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260727
-LOCATION:David L. Lawrence Convention Center\, Pittsburgh
-DESCRIPTION:Pennsylvania's largest anime convention\, featuring Japanese pop culture\, J-rock\, cosplay\, arcade games\, and more.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
+DESCRIPTION:All-American Summer continues every Saturday and Sunday through Sun.\, July 26\, included with regular admission.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:a63542d8-10c2-5568-9342-c3179443c91b@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:O.A.R.
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, Pittsburgh
-DESCRIPTION:Rock band O.A.R. performs live in concert.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:dfe949a2-9bde-5033-bbdb-79aec10d4924@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Dave Matthews Band
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA (Pittsburgh area)
-DESCRIPTION:The Dave Matthews Band performs live in concert at the outdoor amphitheater.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:97fde2fb-8cbb-5072-9fa0-2a022f019565@pghwidget
-DTSTAMP:20260717T165410Z
+UID:1a506b21-72f4-5fe1-9a74-f14803c77af6@pghwidget
+DTSTAMP:20260719T161952Z
 SUMMARY:Neighborhood Flea Night Market
 DTSTART:20260725T220000Z
 DTEND:20260726T020000Z
-LOCATION:Schenley Plaza\, Oakland\, Pittsburgh
-DESCRIPTION:An 85-vendor night market with lawn games\, an after-hours spinoff of the regular Sunday Neighborhood Flea market.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+LOCATION:Schenley Plaza
+DESCRIPTION:Keep shopping after-hours when the Neighborhood Flea Night Market hosts 85 vendors and lawn games at Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
 URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:d70bfd27-f993-5d76-b305-47a5e4fbadfc@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Neighborhood Flea (weekly market)
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-LOCATION:SouthSide Works\, Pittsburgh
-DESCRIPTION:A curated pop-up marketplace with 125-plus vendors selling vintage collectibles\, antiques\, handmade wares\, and food trucks.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+UID:1cab141b-c1aa-5621-8b33-228f5514399e@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Pittsburgh Underwear Ride
+DTSTART:20260730T233000Z
+DTEND:20260731T013000Z
+LOCATION:Corner of Butler Street and 46th Street\, Lawrenceville
+DESCRIPTION:A free outdoor community bike ride event through Lawrenceville.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:db4a51f7-cf3d-587a-a3e2-0e17c50b99e6@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Nate Bargatze
-DTSTART:20260730T230000Z
-DTEND:20260731T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260731T230000Z
-LOCATION:PPG Paints Arena\, Pittsburgh
-DESCRIPTION:Comedian Nate Bargatze performs two nights of stand-up comedy.\\n\\nhttps://www.axs.com/venues/102352/ppg-paints-arena-pittsburgh-tickets
-URL:https://www.axs.com/venues/102352/ppg-paints-arena-pittsburgh-tickets
+UID:407decc7-321a-5480-a44a-8dd7668f8e52@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Hprizm: Sound of the City (art exhibit opening)
+DTSTART:20260731T150000Z
+DTEND:20260731T210000Z
+RRULE:FREQ=DAILY;UNTIL=20270131T160000Z
+LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown
+DESCRIPTION:A free sound-and-art installation opening downtown as part of the Pittsburgh Cultural Trust's gallery programming.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:66f49b62-8998-5643-9e0e-93f328b80e42@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Carnegie International (59th Edition)
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20270104
-LOCATION:Carnegie Museum of Art\, Mattress Factory\, Children's Museum of Pittsburgh\, Kamin Science Center\, and Thelma Lovette YMCA
-DESCRIPTION:The longest-running exhibition of international contemporary art in North America\, organized every four years by the Carnegie Museum of Art.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:54703def-0d82-5e66-a0d0-54c44a317c5f@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Harambee Ujima Black Arts and Culture Festival
+DTSTART:20260731T190000Z
+DTEND:20260731T210000Z
+RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
+LOCATION:N. Homewood Avenue at Kelly Street\, Homewood
+DESCRIPTION:A festival continuing through Sun.\, Aug. 2 at N. Homewood Avenue at Kelly Street in Homewood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:70f326b8-d796-5073-8967-25ad3ae03814@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:AWAACC Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition hosted at the August Wilson Cultural Center.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:61a598fa-cd91-5854-978f-dde27ad52cae@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Zayn Malik
+DTSTART:20260721T000000Z
+DTEND:20260721T020000Z
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave.\, Uptown
+DESCRIPTION:A stop on Zayn Malik's arena tour bringing pop/R&B to Pittsburgh's largest indoor venue.\\n\\nhttps://allevents.in/pittsburgh/ppg%20paints%20arena
+URL:https://allevents.in/pittsburgh/ppg%20paints%20arena
 END:VEVENT
 BEGIN:VEVENT
-UID:008292cd-f1c0-5695-bb14-05a935c5f11e@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Market Square Farmers Market
-DTSTART:20260723T140000Z
-DTEND:20260723T180000Z
-LOCATION:Market Square\, Downtown Pittsburgh
-DESCRIPTION:A beloved Downtown staple market recently returned to the newly renovated Market Square.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:4640df4b-055b-5255-bd81-d346134905d2@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:O.A.R. with Lisa Loeb & Gavin DeGraw
+DTSTART:20260723T213000Z
+DTEND:20260723T233000Z
+LOCATION:Stage AE\, 400 North Shore Dr.
+DESCRIPTION:Stage AE hosts the show with doors opening at 5:30PM\, outdoors rain or shine.\\n\\nhttps://promowestlive.com/pittsburgh/stage-ae
+URL:https://promowestlive.com/pittsburgh/stage-ae
 END:VEVENT
 BEGIN:VEVENT
-UID:9ebf2251-e40b-5fc6-b930-e774c74418cb@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Squirrel Hill Farmers Market
-DTSTART:20260719T130000Z
-DTEND:20260719T170000Z
-LOCATION:Beacon/Bartlett parking lot\, 5737 Beacon St.\, Squirrel Hill
-DESCRIPTION:A neighborhood farmers market offering fresh produce and local goods.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:2709958a-9263-5de0-8b28-e4d34554cf1c@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Dave Matthews Band
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
+DESCRIPTION:Dave Matthews Band performs at The Pavilion at Star Lake as part of the upcoming 2026 concert lineup.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:4f60638f-68ac-5580-ba48-4b467ceb4242@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Lawrenceville Farmers Market
-DTSTART:20260721T190000Z
-DTEND:20260721T230000Z
-LOCATION:Bay 41\, 115 41st St.\, Lawrenceville
-DESCRIPTION:A weekly neighborhood farmers market in Lawrenceville.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:40c5fa79-ee34-5df0-8943-287948cbcf73@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Ruthie Foster
+DTSTART:20260725T001500Z
+DTEND:20260725T021500Z
+LOCATION:South Park Amphitheater
+DESCRIPTION:South Park Amphitheater welcomes Ruthie Foster.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:f8f640c6-8893-59d4-ac0b-dba26c143921@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Bellevue Farmers Market
-DTSTART:20260722T190000Z
-DTEND:20260722T230000Z
-LOCATION:Bayne Park\, 34 North Balph Ave.\, Bellevue
-DESCRIPTION:A weekly farmers market in Bellevue Borough.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:a7d155c9-6d73-56e6-90c6-859706e12e0c@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:311\, Ocean Alley & Rome
+DTSTART:20260725T200000Z
+DTEND:20260725T220000Z
+LOCATION:Stage AE\, 400 North Shore Dr.
+DESCRIPTION:Stage AE features doors opening at 4:00PM\, outdoors rain or shine.\\n\\nhttps://promowestlive.com/pittsburgh/stage-ae
+URL:https://promowestlive.com/pittsburgh/stage-ae
 END:VEVENT
 BEGIN:VEVENT
-UID:37a3a050-445a-5888-b7d5-583c063f6a1d@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Mt. Lebanon Farmers Market
-DTSTART:20260722T200000Z
-DTEND:20260722T230000Z
-LOCATION:975 Washington Road (Mt. Lebanon United Lutheran Church lot)\, Mt. Lebanon
-DESCRIPTION:A weekly farmers market held in a church parking lot in Mt. Lebanon.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:cb1506cc-483b-5cb9-ba5a-059d7b8c9cad@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Arrested Development
+DTSTART:20260727T001500Z
+DTEND:20260727T021500Z
+LOCATION:Hartwood Acres Amphitheater
+DESCRIPTION:Hartwood Acres Amphitheater will host Arrested Development.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:242d7b27-34a1-5ade-a532-a60b03aed111@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Ross Township Farmers Market
-DTSTART:20260722T190000Z
-DTEND:20260722T230000Z
-LOCATION:920 Perry Highway (across from St. John's Church)\, Ross Township
-DESCRIPTION:A weekly farmers market in Ross Township.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:d1e3c8ed-8074-53bb-9ac5-8f2cc2a5a2fd@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Tiffany with Stereo Scandal and Mimic
+DTSTART:20260731T000000Z
+DTEND:20260731T020000Z
+LOCATION:Jergel's Rhythm Grille\, 103 Slade Ln.\, Warrendale
+DESCRIPTION:Tiffany performs with Stereo Scandal and Mimic at 8 p.m.\, doors at 6 p.m.\, at Jergel's Rhythm Grille.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:47c493e2-5d70-5ee8-b86d-050b0ddca725@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:Bethel Park Farmers Market
-DTSTART:20260721T190000Z
-DTEND:20260721T230000Z
-LOCATION:South Park\, off Corrigan Drive near the ice skating rink\, Bethel Park
-DESCRIPTION:A weekly farmers market near South Park's ice rink.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-END:VEVENT
-BEGIN:VEVENT
-UID:8f3741fc-3287-5abe-9c9d-fb36f1968915@pghwidget
-DTSTAMP:20260717T165410Z
-SUMMARY:East End Farmstand
-DTSTART:20260720T190000Z
-DTEND:20260720T230000Z
-LOCATION:Liberty Green Park\, 100 Larimer Ave.\, East End
-DESCRIPTION:A CitiParks-run neighborhood farm stand in the East End.\\n\\nhttps://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
-URL:https://nextpittsburgh.com/latest-news/the-nextpittsburgh-guide-to-pittsburgh-farmers-markets/
+UID:93ac281b-a7fa-5b18-91a1-ce5987c81e22@pghwidget
+DTSTAMP:20260719T161952Z
+SUMMARY:Cat Power: The Greatest Tour
+DTSTART:20260731T000000Z
+DTEND:20260731T020000Z
+DESCRIPTION:Cat Power performs as part of The Greatest Tour.
 END:VEVENT
 END:VCALENDAR
