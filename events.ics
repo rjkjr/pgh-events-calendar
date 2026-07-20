@@ -6,144 +6,244 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:905e8f60-70b4-5fef-baca-4fd98f65f5a0@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Pittsburgh Public Theater — Workshops & Classes
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-LOCATION:O'Reilly Theater\, Downtown Pittsburgh
-DESCRIPTION:A theater education/workshop session hosted by Pittsburgh Public Theater as part of the Cultural Trust's ongoing calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:2c5136c3-4e40-573e-b1c9-3bbd8bf92b33@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Stage 62 — Broadway & Musical Theater Production
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A local musical-theater run continuing into the week of July 20–26.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:19a1c861-a82b-56c2-8b46-e5616343483e@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Trust Magic Series (Show A)
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:An ongoing close-up magic show presented by the Pittsburgh Cultural Trust\, running through early August.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:6e777012-9ff5-5784-9cf9-8d72c6cd2667@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Trust Magic Series (Show B)
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260928
-LOCATION:Liberty Magic\, Downtown Pittsburgh
-DESCRIPTION:A second\, longer-running Trust Magic production continuing through late September.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:ef0bb872-2f85-53eb-8a38-66bb15db28ee@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:AWAACC Visual Arts Exhibition
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual-arts exhibition on view at the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:a79ddf52-0503-5335-b268-5b33fd0055cf@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Pittsburgh Ballet Theatre Free Dance & Fitness Classes
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260927
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:Free weekly dance and fitness classes — including barre\, pilates\, contemporary\, and hip hop — for ages 14+ hosted by Pittsburgh Ballet Theatre.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:c9e42cec-46b2-5fcc-a543-afbf7a587cb7@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Neighborhood Flea Night Market
-DTSTART:20260725T220000Z
-DTEND:20260726T020000Z
-LOCATION:Schenley Plaza\, Oakland
-DESCRIPTION:An after-hours edition of the Pittsburgh Flea featuring roughly 85 vendors plus lawn games in Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:47f6eac6-74f5-5ff4-b067-6fd8547e448e@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Lakeland Orchard & Winery — Blueberries\, Live Bluegrass\, and BBQ
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260727
-LOCATION:Lakeland Orchard & Winery\, Scott Township (Pittsburgh area)
-DESCRIPTION:A ticketed weekend event with pick-your-own blueberries\, lumberjack shows\, live bluegrass music\, and local brewery/winery tastings.\\n\\nhttps://www.visitpa.com/blog/post/july-events-festivals/
-URL:https://www.visitpa.com/blog/post/july-events-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:7a8e2604-f17f-5a6d-8401-ec1dfb3aa960@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:O.A.R. with Lisa Loeb (and Gavin DeGraw)
+UID:fb6d7d8a-9d77-55a4-8dd3-3dfda09e736c@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:O.A.R.
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, North Shore\, Pittsburgh
-DESCRIPTION:A live concert featuring rock band O.A.R. with support from Lisa Loeb.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+LOCATION:Stage AE
+DESCRIPTION:O.A.R. is playing at Stage AE on July 23.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:27cceb9c-6727-53b3-b28f-c3e45fdbc49f@pghwidget
-DTSTAMP:20260720T160319Z
+UID:6056812b-1a51-51ad-999d-e6b3022d2f61@pghwidget
+DTSTAMP:20260720T222048Z
 SUMMARY:Dave Matthews Band
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown
-DESCRIPTION:A live concert from Dave Matthews Band at the region's premier outdoor amphitheater.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+LOCATION:The Pavilion at Star Lake
+DESCRIPTION:Dave Matthews Band performs at The Pavilion at Star Lake on July 24.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:fee2a006-6a4b-5cee-8574-2794e776cf92@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:All-American Summer at Kennywood
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A patriotic-themed weekend celebration series at Kennywood amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+UID:12979b6c-7c75-5898-9ad7-45ebb09dbb62@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Stars at Riverview Concert Series
+DTSTART:20260725T230000Z
+DTEND:20260726T003000Z
+LOCATION:Riverview Park (near the Allegheny Observatory)
+DESCRIPTION:Free hillside concert series beneath the Allegheny Observatory on Saturdays in July.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:377a59b1-1c67-5aa9-93b8-941e5dd0c03c@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Harambee Ujima Black Arts and Culture Festival
+UID:5bb69e24-01e9-5f78-848c-d6d9f68b3ee9@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Bach\, Beethoven & Brunch
+DTSTART:20260726T143000Z
+DTEND:20260726T160000Z
+LOCATION:Mellon Park
+DESCRIPTION:A different local ensemble performs a free classical concert each Sunday morning.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:4896d188-c951-5d89-897b-be38807d14a9@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:TEKKO 2026
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+LOCATION:David L. Lawrence Convention Center\, Downtown
+DESCRIPTION:Pennsylvania's largest anime convention\, attracting nearly 12\,000 unique and diverse attendees.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6041ee9c-f7c9-5652-bc00-a98ef73840d8@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Harambe Ujima Black Arts and Culture Festival
 DTSTART:20260720T190000Z
 DTEND:20260720T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
 LOCATION:N. Homewood Avenue at Kelly Street\, Homewood
-DESCRIPTION:A multi-day festival celebrating Black arts and culture in Pittsburgh's Homewood neighborhood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+DESCRIPTION:A community arts and culture festival celebrating Black art in the Homewood neighborhood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:5f90d1ae-2a7a-52ed-8f1b-9ca2ff73cb14@pghwidget
-DTSTAMP:20260720T160319Z
+UID:f8b6640b-4ede-5c1e-a669-52077a37b833@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Kennywood – All-American Summer
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
+DESCRIPTION:A recurring holiday-themed weekend celebration continuing every Saturday and Sunday through the end of July at Kennywood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:658bdd9d-2fca-5860-8682-1898663912ad@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Lakeland Orchard & Winery: Blueberries\, Live Bluegrass\, and BBQ
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+LOCATION:Lakeland Orchard & Winery\, Scott Township
+DESCRIPTION:Blueberry picking\, Blueberry King Slush\, cobbler\, lumberjack shows\, live music\, and local brewery/winery tastings.\\n\\nhttps://www.visitpa.com/blog/post/july-events-festivals/
+URL:https://www.visitpa.com/blog/post/july-events-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a506b21-72f4-5fe1-9a74-f14803c77af6@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Neighborhood Flea Night Market
+DTSTART:20260725T220000Z
+DTEND:20260726T020000Z
+LOCATION:Schenley Plaza
+DESCRIPTION:After-hours night market with 85 vendors and lawn games at Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:87a536aa-8455-5262-94a0-779bd81ed98b@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Neighborhood Flea (Sunday Market)
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+LOCATION:SouthSide Works
+DESCRIPTION:Curated pop-up marketplace with 125-plus vendors selling vintage collectibles\, antiques\, handmade wares\, original artwork\, home decor\, fashion\, and small-batch foods.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f722a4-e141-50aa-86f3-c2b786fd7c0e@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Pittsburgh Pirates vs. Chicago Cubs & Arizona Diamondbacks
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260730
+LOCATION:PNC Park
+DESCRIPTION:Back-to-back home series against the Cubs and Diamondbacks.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:82cfe543-734e-5e17-b686-2fedd8738b36@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Pittsburgh Riverhounds SC Home Matches
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260730
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:The Riverhounds have home games on July 25th and 29th.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e24862-89dd-5e83-8098-e24e4e16e98a@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Stage 62 Broadway/Musical Theater Production
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260727
+LOCATION:Greer Cabaret Theater
+DESCRIPTION:A musical theater production presented by local company Stage 62\, running into the final weekend of July.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:bab651bd-ca42-516d-afad-df6c28947ea9@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Trust Magic (Liberty Magic residency show)
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260802
+LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown
+DESCRIPTION:An ongoing magic performance series at the Pittsburgh Cultural Trust's intimate Liberty Magic venue.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6ff4d6-972c-545b-a377-a21b377c06e6@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Pittsburgh Ballet Theatre — Free Workshops & Classes
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260927
+LOCATION:Arts Landing
+DESCRIPTION:Free ballet workshops and classes offered outdoors at Arts Landing in the Cultural District.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb0fb95-040f-5572-9cdb-5f920afca390@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:French Moderns: Matisse / Renoir / Degas
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20261012
+LOCATION:The Frick Pittsburgh\, Point Breeze
+DESCRIPTION:Exhibition encompassing realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism.\\n\\nhttps://www.thefrickpittsburgh.org/exhibitions
+URL:https://www.thefrickpittsburgh.org/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:c2d0e948-471d-54e7-b508-39b2da9942e3@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Andy Warhol Museum — Special Program
+DTSTART:20260726T143000Z
+DTEND:20260726T190000Z
+LOCATION:The Andy Warhol Museum\, North Shore
+DESCRIPTION:A special daytime program at the Warhol Museum featuring artist Sharif Bey's work.\\n\\nhttps://www.warhol.org/
+URL:https://www.warhol.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:e39b87cd-e678-5b25-b50f-01ed6848c83a@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Andy Warhol Museum — Featured Exhibition
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20261013
+LOCATION:The Andy Warhol Museum\, North Shore
+DESCRIPTION:A featured exhibition running at the Warhol Museum through mid-October.\\n\\nhttps://carnegiemuseums.org/events/
+URL:https://carnegiemuseums.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:28a1ceb7-23fa-5aa0-85c2-5538c99243ea@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:AWAACC Visual Arts Exhibit
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson African American Cultural Center\, Downtown
+DESCRIPTION:A visual arts exhibition presented by the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:95fdbd05-322e-5fd4-9fd5-b00aeec10029@pghwidget
+DTSTAMP:20260720T222048Z
 SUMMARY:Hprizm: Sound of the City
 DTSTART:20260720T150000Z
 DTEND:20260720T210000Z
-LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown Pittsburgh
-DESCRIPTION:A free sound/art installation exhibit on view at Wood Street Galleries.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+LOCATION:Wood Street Galleries\, 601 Wood St.\, Downtown
+DESCRIPTION:A free sound-focused art exhibition continuing at Wood Street Galleries.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b8f867-1de6-5fd3-8bd3-254110e29c87@pghwidget
-DTSTAMP:20260720T160319Z
-SUMMARY:Pennsylvania World Cup Fan Zone
+UID:04eb3dc0-4948-5cd8-968e-8ea10842b309@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Light to Dark Exhibition
 DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260801
-LOCATION:Acrisure Stadium\, North Shore\, Pittsburgh
-DESCRIPTION:A free FIFA World Cup viewing and fan celebration event with watch parties tied to America's 250th anniversary festivities.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-july/
-URL:https://www.pittsburghmagazine.com/7-things-to-do-in-july/
+DTEND;VALUE=DATE:20260731
+LOCATION:The Spinning Plate Gallery\, East Liberty
+DESCRIPTION:An art exhibition presented by the Pittsburgh Society of Artists.\\n\\nhttps://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
+URL:https://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bba703-d1f6-511e-b311-72f63c56184e@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:IN COLOR Exhibition
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260728
+LOCATION:Historic Wilkinsburg Train Station\, Wilkinsburg
+DESCRIPTION:An art exhibition continuing at the Historic Wilkinsburg Train Station.\\n\\nhttps://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
+URL:https://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
+END:VEVENT
+BEGIN:VEVENT
+UID:031b0cbc-602e-54c4-ae48-dcb24d3f2c83@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Storytime at the Museum
+DTSTART:20260720T150000Z
+DTEND:20260720T153000Z
+LOCATION:Carnegie Museum of Natural History\, Oakland
+DESCRIPTION:A free daily storytime program for families\, included with museum admission.\\n\\nhttps://carnegiemnh.org/museum-events/
+URL:https://carnegiemnh.org/museum-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a25b6e9-9b5a-593d-9a2b-9c471fb4a23d@pghwidget
+DTSTAMP:20260720T222048Z
+SUMMARY:Irma Freeman Center Summer Camps
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260808
+LOCATION:The Irma Freeman Center for Imagination\, Garfield
+DESCRIPTION:Ongoing summer art camp programming at the Irma Freeman Center.\\n\\nhttps://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
+URL:https://www.pittsburghartscouncil.org/blog/cant-miss-pittsburgh-art-exhibits-concerts-and-performances-july-6-12
 END:VEVENT
 END:VCALENDAR
