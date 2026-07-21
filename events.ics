@@ -6,114 +6,153 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ee1e0b41-73fc-5f4d-9fae-af53b985ee0b@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:O.A.R. (concert)
+UID:40931313-bfcb-5f3e-8f4e-dd9e5086bb3f@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:TEKKO 2026
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+LOCATION:David L. Lawrence Convention Center\, Pittsburgh
+DESCRIPTION:Tekko is Pennsylvania's largest anime convention\, attracting nearly 12\,000 unique and diverse fans from across the country to the region.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Iron City Riverfront Throwdown
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
+DESCRIPTION:Pittsburgh Brewing Company debuts the Iron City Riverfront Throwdown\, a brand-new country music festival along the Allegheny River.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:a63542d8-10c2-5568-9342-c3179443c91b@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:O.A.R.
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, North Shore\, Pittsburgh
-DESCRIPTION:Popular rock band O.A.R. performs live as part of their 2026 tour stop in Pittsburgh.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+LOCATION:Stage AE\, Pittsburgh
+DESCRIPTION:Popular rock band O.A.R. performs as part of the 2026 summer concert lineup at Stage AE.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:4cb6cee4-a83a-54d9-b48a-90255320d934@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Dave Matthews Band (concert)
+UID:2709958a-9263-5de0-8b28-e4d34554cf1c@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Dave Matthews Band
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
-DESCRIPTION:The Dave Matthews Band brings its summer tour to the Pittsburgh-area amphitheater.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+DESCRIPTION:Dave Matthews Band brings its long-running summer tour to the Pittsburgh-area amphitheater.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:7f47fdd9-db89-51d6-affc-87e508986514@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Ruthie Foster (concert)
+UID:0dba50e8-8d49-575c-8865-49274610314a@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Ruthie Foster
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:Blues and roots singer-songwriter Ruthie Foster performs as part of the South Park summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+LOCATION:South Park Amphitheater\, South Park\, PA
+DESCRIPTION:South Park Amphitheater welcomes Ruthie Foster as part of its summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:d53c0a24-ebd2-55fe-835b-4e8afe08e402@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Don McLean (concert)
+UID:41631f4e-04d4-53ad-a5f2-e4d06eceb914@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Arrested Development
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+LOCATION:Hartwood Acres Amphitheater\, Allegheny County\, PA
+DESCRIPTION:Hartwood Acres Amphitheater hosts Arrested Development as part of its free summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d41ddf-2a2e-560e-b4fd-9f43247fdf34@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Don McLean
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:Singer-songwriter Don McLean\, best known for "American Pie\," closes out July's South Park Amphitheater concert lineup.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+LOCATION:South Park Amphitheater\, South Park\, PA
+DESCRIPTION:Singer-songwriter Don McLean closes out July's lineup at South Park Amphitheater's outdoor concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:c9e42cec-46b2-5fcc-a543-afbf7a587cb7@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Neighborhood Flea Night Market
-DTSTART:20260725T220000Z
-DTEND:20260726T020000Z
-LOCATION:Schenley Plaza\, Oakland
-DESCRIPTION:Keep shopping after-hours on Saturday\, July 25\, when the Neighborhood Flea Night Market hosts 85 vendors and lawn games at Schenley Plaza\, offering an evening version of the popular curated pop-up market.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+UID:8eafb4c0-8cea-586b-bf15-6ca5183afdd5@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Stage 62 production (Broadway & Musical Theater)
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260727
+LOCATION:Greer Cabaret Theater\, Pittsburgh
+DESCRIPTION:A Broadway & Musical Theater production staged by Stage 62 continues its run at the Cultural Trust's Greer Cabaret Theater.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:fee2a006-6a4b-5cee-8574-2794e776cf92@pghwidget
-DTSTAMP:20260721T052817Z
+UID:7618ab27-2b5c-5fc3-8b4a-eb6734460667@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Liberty Magic — Trust Magic
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260802
+LOCATION:Liberty Magic\, Pittsburgh Cultural District
+DESCRIPTION:An intimate magic show continues its run at the Cultural Trust's dedicated magic venue\, Liberty Magic.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2d87f7b7-37d4-5320-ae51-1fd98dacf406@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Pittsburgh Ballet Theatre — Free Workshops & Classes
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260927
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:Pittsburgh Ballet Theatre offers free public workshops and classes at the new Arts Landing civic space through late September.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8f5025-a5ba-57d6-a6fb-9b0bab1898f9@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:AWAACC Visual Arts Exhibit
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson African American Cultural Center\, Pittsburgh
+DESCRIPTION:A visual arts exhibition continues at the August Wilson Cultural Center through late August.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8b07ed-31a1-5062-9775-1c47f5c0a44a@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Carnegie International (59th edition)
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20270104
+LOCATION:Carnegie Museum of Art\, Mattress Factory\, Children's Museum of Pittsburgh\, Kamin Science Center\, and Thelma Lovette YMCA
+DESCRIPTION:Organized every four years by Carnegie Museum of Art\, the Carnegie International is the longest-running exhibition of international art in North America.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:133f087f-128a-5422-be31-271e1c87b66b@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:Summer Flower Show: Alice's Adventures in Wonderland
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260928
+LOCATION:Phipps Conservatory and Botanical Gardens\, Pittsburgh
+DESCRIPTION:The show invites visitors to journey down the rabbit hole\, with beloved storybook scenes brought to life in each room and colorful interactive elements\, topiary creatures\, and unique foliage throughout.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:fee50ff8-9288-5979-9869-21abb2bec7c2@pghwidget
+DTSTAMP:20260721T124941Z
+SUMMARY:French Moderns: Matisse / Renoir / Degas
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20261012
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:Encompassing realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, the exhibit exemplifies the avant-garde movements that defined modern art in the nineteenth and twentieth centuries.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe7cc99-c413-565b-8a8a-d83b45fbd90b@pghwidget
+DTSTAMP:20260721T124941Z
 SUMMARY:All-American Summer at Kennywood
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A patriotic-themed weekend celebration continuing every Saturday and Sunday through Sun.\, July 26 at Pittsburgh's historic amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin\, PA
+DESCRIPTION:A holiday-themed weekend celebration continuing every Saturday and Sunday through Sunday\, July 26\, at Kennywood amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
 URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:3d6654cf-8699-5257-aed4-fddd95291511@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Stage 62 Theatrical Production
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A Broadway & Musical Theater production presented by local theater company Stage 62 as part of the Pittsburgh Cultural Trust's summer calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:89465eae-5340-5f13-b4f4-df68f50641d0@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Trust Magic: Liberty Magic
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:An ongoing intimate close-up magic show series presented at the Pittsburgh Cultural Trust's dedicated magic venue.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:e27b0958-9dbe-5085-ae14-d6fc84519efb@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Harambe Ujima Black Arts and Culture Festival
-DTSTART:20260721T190000Z
-DTEND:20260721T210000Z
-RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
-LOCATION:N. Homewood Avenue at Kelly Street\, Homewood
-DESCRIPTION:A community festival celebrating Black arts and culture in the Homewood neighborhood\, running through early August.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:0519f169-77d3-5afc-959d-87ee186a8d20@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:Pittsburgh Ballet Theatre Free Workshops & Classes
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260927
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:Free dance and fitness workshops/classes hosted by Pittsburgh Ballet Theatre as part of the Cultural Trust's summer arts programming.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:64dcd74c-8e0f-58a8-8591-d52cbb21fb80@pghwidget
-DTSTAMP:20260721T052817Z
-SUMMARY:AWAACC Visual Arts Exhibition
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition presented by the August Wilson African American Cultural Center (AWAACC)\, part of the Pittsburgh Cultural Trust calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
 END:VEVENT
 END:VCALENDAR
