@@ -6,123 +6,53 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:5741dc35-3dfd-5893-8cea-f9a84caf698c@pghwidget
-DTSTAMP:20260722T005842Z
+UID:2c5a631c-4b4f-55bc-9f72-456410186ff6@pghwidget
+DTSTAMP:20260722T085830Z
+SUMMARY:TEKKO 2026
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+LOCATION:David L. Lawrence Convention Center\, Downtown Pittsburgh
+DESCRIPTION:Tekko is Pennsylvania's largest anime convention\, attracting nearly 12\,000 unique and diverse fans from across the country and world\, featuring Japanese arcade games\, J-rock\, J-fashion\, and Japanese pop culture programming.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:578d1e10-5b7c-5e87-84c2-566c1d084119@pghwidget
+DTSTAMP:20260722T085830Z
 SUMMARY:O.A.R. (concert)
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-LOCATION:Stage AE\, North Shore\, Pittsburgh\, PA
-DESCRIPTION:O.A.R. performs at Stage AE on July 23 as part of Pittsburgh's 2026 summer concert lineup.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+LOCATION:Stage AE\, North Shore
+DESCRIPTION:Live concert performance as part of Stage AE's 2026 summer lineup.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:4cb6cee4-a83a-54d9-b48a-90255320d934@pghwidget
-DTSTAMP:20260722T005842Z
+UID:13a3dd65-de14-5b96-96c4-561c9352a7b5@pghwidget
+DTSTAMP:20260722T085830Z
 SUMMARY:Dave Matthews Band (concert)
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
-DESCRIPTION:Dave Matthews Band plays The Pavilion at Star Lake on July 24 as part of the 2026 concert season.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+LOCATION:The Pavilion at Star Lake\, Burgettstown
+DESCRIPTION:Touring concert stop as part of the 2026 Pittsburgh-area summer concert calendar.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:501c136a-68c9-582b-9091-68fad2f1f128@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Kennywood's All-American Summer
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin\, PA
-DESCRIPTION:A holiday-themed weekend celebration continuing every Saturday and Sunday through Sun.\, July 26 at Kennywood in West Mifflin.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:e5a59fdf-fd5e-5fc5-8399-99190091a666@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Stage 62 Musical Theater Production
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Pittsburgh\, PA
-DESCRIPTION:A Stage 62 musical theater production runs through July 26\, part of the Pittsburgh Cultural Trust's summer performance calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:ea8e0c3b-9e34-52fa-aeb6-b13a3b1066cd@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Trust Magic Show
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh\, PA
-DESCRIPTION:An ongoing magic performance series at the Cultural Trust's Liberty Magic venue\, running into early August.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:c970899c-0070-578b-bd0c-8da1b4d99a7b@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center\, Downtown Pittsburgh\, PA
-DESCRIPTION:A long-running visual arts exhibit hosted by AWAACC as part of the Cultural Trust calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:d2ab5995-59aa-59d5-968d-1c33c1e399c7@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Bach\, Beethoven\, and Brunch
-DTSTART:20260726T143000Z
-DTEND:20260726T160000Z
-LOCATION:Mellon Park\, Pittsburgh\, PA
-DESCRIPTION:A CitiParks event featuring Bach\, Beethoven\, and Brunch in Mellon Park\, taking place on Sunday mornings in July from 10:30 am to noon.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
+UID:de252cc1-c9ad-5d6c-aa8b-7ab8c917edcd@pghwidget
+DTSTAMP:20260722T085830Z
+SUMMARY:Ruthie Foster (concert)
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+LOCATION:South Park Amphitheater
+DESCRIPTION:Live performance as part of the Allegheny County summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
 END:VEVENT
 BEGIN:VEVENT
-UID:76c977b2-9144-5413-ad57-99ac21c7fd31@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Silent Book Club at Aslin Beer Co.
-DTSTART:20260721T220000Z
-DTEND:20260722T010000Z
-LOCATION:Aslin Beer Co.\, Pittsburgh\, PA
-DESCRIPTION:A relaxed\, no-pressure evening of reading held every 3rd Tuesday of the month\, where attendees bring a book\, grab a beer\, and meet fellow book lovers.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:392a3976-0140-55da-ac8d-b9dfd9ec5c27@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:PGH Cheers & Chess Social Club
-DTSTART:20260721T230000Z
-DTEND:20260722T010000Z
-LOCATION:Aslin Beer Co.\, Pittsburgh\, PA
-DESCRIPTION:A low-stakes\, social chess night held every Tuesday\, with 18 available boards\, food\, and drinks for players of all levels.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:dcd3534d-0fe4-5efe-8016-7c6a27107987@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Salsa n' Suds
-DTSTART:20260727T213000Z
-DTEND:20260728T010000Z
-LOCATION:The Terminal\, Pittsburgh\, PA
-DESCRIPTION:A weekly event kicking off Mondays with a 5:30 PM salsa lesson followed by social dancing from 6:00-9:00 PM\, welcoming both experienced dancers and first-timers.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:fc3e269c-05fb-56a0-9334-8433830f2142@pghwidget
-DTSTAMP:20260722T005842Z
+UID:4e4b473a-c0fb-5dc7-b4de-8f183da3de6c@pghwidget
+DTSTAMP:20260722T085830Z
 SUMMARY:Markets at the Terminal
 DTSTART:20260725T150000Z
 DTEND:20260725T190000Z
-LOCATION:The Terminal\, Pittsburgh\, PA
-DESCRIPTION:A Saturday market running May through October where visitors can shop from local vendors while enjoying live DJ music.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:f7994788-50ce-5113-9275-8bc9c6762475@pghwidget
-DTSTAMP:20260722T005842Z
-SUMMARY:Barre at the Brewery
-DTSTART:20260805T223000Z
-DTEND:20260806T003000Z
-LOCATION:18th St. Passageway\, Pittsburgh\, PA
-DESCRIPTION:A barre fitness class hosted in partnership with Pittsburgh Ballet Theatre and Aslin Beer Co.\, held on the first Wednesday of every month through September.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+LOCATION:The Terminal\, Strip District
+DESCRIPTION:Markets at the Terminal takes place every Saturday from May through October from 11 AM to 3 PM\, featuring local vendors and music by a DJ.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 END:VCALENDAR
