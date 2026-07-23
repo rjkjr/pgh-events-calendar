@@ -6,173 +6,154 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:673d0605-ecc0-5645-bbde-8d578c8ec9e1@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:O.A.R. & Lisa Loeb (concert)
-DTSTART:20260723T223000Z
-DTEND:20260724T003000Z
-LOCATION:Stage AE\, North Shore\, Pittsburgh
-DESCRIPTION:A live concert featuring rock band O.A.R. with special guest Lisa Loeb.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
+UID:3dc58964-b671-5215-99d9-33d9cb789de7@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Tekko 2026 (Anime Convention)
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+LOCATION:David L. Lawrence Convention Center\, Pittsburgh
+DESCRIPTION:Pennsylvania's largest anime convention\, attracting nearly 12\,000 fans.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:4cb6cee4-a83a-54d9-b48a-90255320d934@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Dave Matthews Band (concert)
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
-DESCRIPTION:Dave Matthews Band performs live as part of their 2026 tour.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+UID:a420f1f8-fecd-5537-8884-2b6e662349a6@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:O.A.R. (Concert)
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+LOCATION:Stage AE\, North Shore\, Pittsburgh
+DESCRIPTION:Popular rock/reggae-fusion band O.A.R. performs live as part of their summer tour.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:72b7d3b4-65ac-5aac-aac4-a73447e48089@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Kennywood's All-American Summer
-DTSTART;VALUE=DATE:20260725
+UID:0b13dbbe-c374-5bf0-8f97-b83a0f06191b@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Dave Matthews Band (Concert)
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
+DESCRIPTION:Dave Matthews Band brings its long-running summer tour to the Pittsburgh-area amphitheater.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:17141751-f35f-5347-947c-c5984a564247@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Nate Bargatze: Big Dumb Eyes World Tour (Comedy)
+DTSTART:20260730T230000Z
+DTEND:20260731T010000Z
+RRULE:FREQ=DAILY;UNTIL=20260731T230000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Comedian Nate Bargatze brings his stand-up world tour to PPG Paints Arena for two nights.\\n\\nhttps://www.ticketmaster.com/ppg-paints-arena-tickets-pittsburgh/venue/180938
+URL:https://www.ticketmaster.com/ppg-paints-arena-tickets-pittsburgh/venue/180938
+END:VEVENT
+BEGIN:VEVENT
+UID:82e6de48-0644-5be4-92f4-edd815109d9e@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Zac Brown Band: Love & Fear Tour (Concert)
+DTSTART:20260813T230000Z
+DTEND:20260814T010000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Country-rock band Zac Brown Band performs with special guest Old Crow Medicine Show.\\n\\nhttps://www.axs.com/venues/102352/ppg-paints-arena-pittsburgh-tickets
+URL:https://www.axs.com/venues/102352/ppg-paints-arena-pittsburgh-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:0f1a92fd-e54d-5ba6-9599-4e555c6a6c5a@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Zach Top with Marcus King (Concert)
+DTSTART:20260821T000000Z
+DTEND:20260821T020000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Rising country star Zach Top performs with special guest Marcus King.\\n\\nhttps://seatgeek.com/venues/ppg-paints-arena/tickets
+URL:https://seatgeek.com/venues/ppg-paints-arena/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1abc4d-9de1-5f43-b6d1-97e5e6f093ce@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Kacey Musgraves with Flatland Cavalry (Concert)
+DTSTART:20260908T233000Z
+DTEND:20260909T013000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Country/pop star Kacey Musgraves headlines with opener Flatland Cavalry.\\n\\nhttps://seatgeek.com/venues/ppg-paints-arena/tickets
+URL:https://seatgeek.com/venues/ppg-paints-arena/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:37638370-c938-5455-8f2d-d2b14206cb75@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Iron City Riverfront Throwdown (Music Festival)
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
+DESCRIPTION:Debut of a brand-new country music festival along the banks of the Allegheny River.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3fa541-9406-5425-a83d-e46a468bef5d@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Rock\, Reggae & Relief (Music/Block Party)
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:Forbes Avenue and Market Square\, Downtown Pittsburgh
+DESCRIPTION:A block party with art\, food\, drink vendors\, and music from legendary groups and up-and-coming artists.\\n\\nhttps://pittsburgh.citycast.fm/best/pittsburgh-music-festivals
+URL:https://pittsburgh.citycast.fm/best/pittsburgh-music-festivals
+END:VEVENT
+BEGIN:VEVENT
+UID:926b702f-b271-556b-9de0-4dfcaeb6dda9@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Women in Jazz Festival
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+LOCATION:South Park Amphitheater\, South Park\, PA
+DESCRIPTION:A free county-sponsored concert featuring Su Terry\, the Deanna Witkowski Trio\, and Camille Thurman with the Darrell Green Quartet.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9938f52-92fc-5dd1-ba85-900725bbc86f@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Tamburitzans (Concert)
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+LOCATION:South Park/Hartwood Acres Amphitheater\, Pittsburgh area
+DESCRIPTION:Free outdoor performance as part of Allegheny County's summer concert series.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d4af7a-2293-52d3-92f0-2e98a3f82ed6@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Summer of Love Revue (Concert)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+LOCATION:South Park/Hartwood Acres Amphitheater\, Pittsburgh area
+DESCRIPTION:Free outdoor tribute concert as part of the county's summer concert series.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
+END:VEVENT
+BEGIN:VEVENT
+UID:464e1cf0-dacd-5803-a39d-89950366a502@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Tacos and Tequila Festival Pittsburgh 2026
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260816
+LOCATION:EQT Park\, Washington\, PA (Pittsburgh area)
+DESCRIPTION:A festival celebrating tacos\, tequila\, and live music in the greater Pittsburgh region.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:df4d2f7e-b54f-50fe-9056-1de6941cf118@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Stage 62 Production
+DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A recurring weekend holiday-themed celebration at the Kennywood amusement park.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:b5f70083-2379-5bde-81c0-acab4cc43959@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Pittsburgh CLO Broadway & Musical Theater Performance
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-LOCATION:Heinz Hall\, Downtown Pittsburgh
-DESCRIPTION:A Broadway/musical theater performance presented by Pittsburgh CLO (specific show title not disclosed by source).\\n\\nhttps://trustarts.org/calendar
+LOCATION:Greer Cabaret Theater\, Pittsburgh Cultural District
+DESCRIPTION:A Broadway & Musical Theater production presented by Stage 62 running through this weekend.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:322a8031-95ca-522a-a079-a4d9120d7e2a@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Stage 62 Musical Theater Production
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A community musical-theater production running through the last week of July.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:144607cd-4f82-5ea8-a160-c9a340f11352@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Trust Magic Show
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:An ongoing intimate magic-show series at Liberty Magic's theater.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:d67d3d24-0da6-5411-8522-2ee6cce38e91@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Free Family Live Music & Variety Event
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A free\, family-friendly live music and variety performance presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:3a4ab4a9-8a62-5fc2-955e-9eb0cbb22e66@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Moxie Events Concert
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Byham Theater\, Downtown Pittsburgh
-DESCRIPTION:A live concert presented by Moxie Events.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:8c47e66a-5a7c-52d7-bf28-8d7e1abcd6c8@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Pittsburgh CLO Performance
-DTSTART;VALUE=DATE:20260726
+UID:20e1c21a-af00-5247-9492-9d71dd540a4c@pghwidget
+DTSTAMP:20260723T124042Z
+SUMMARY:Pittsburgh CLO Broadway Production
+DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260727
 LOCATION:Benedum Center\, Downtown Pittsburgh
-DESCRIPTION:A theatrical/musical performance by the Pittsburgh CLO.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:a66d56fb-ba02-56c4-b865-f590c1078601@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Free Family Film Screening
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A free outdoor family film screening hosted by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:603e6e85-bc97-5185-9be8-1e2bbf2bbe0d@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Free Concert with MCG Jazz
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A free live jazz concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:82dbd83d-f020-50ac-a340-cad37f58ad70@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:AWAACC Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition hosted by the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:738359fa-c72a-58e7-8414-b3ec59cee7b6@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Markets at the Terminal
-DTSTART:20260725T150000Z
-DTEND:20260725T190000Z
-LOCATION:The Terminal\, Pittsburgh
-DESCRIPTION:A weekly local vendor market with live DJ music.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:f03fffdd-4618-5b5d-a5c3-ce9140b8489f@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Salsa n' Suds
-DTSTART:20260727T213000Z
-DTEND:20260728T010000Z
-LOCATION:The Terminal\, Pittsburgh
-DESCRIPTION:A weekly salsa dance lesson followed by open social dancing\, open to all skill levels.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:743f09bb-cb96-54c2-b036-d9b3fb911005@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:PGH Cheers & Chess Social Club
-DTSTART:20260728T230000Z
-DTEND:20260729T010000Z
-LOCATION:Aslin Beer Co.\, Pittsburgh
-DESCRIPTION:A casual\, social chess night with boards provided\, food and drinks available.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:9b6a97c8-ddc7-5004-bbe7-2fca75f8716f@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Bach\, Beethoven\, and Brunch
-DTSTART:20260726T143000Z
-DTEND:20260726T160000Z
-LOCATION:Mellon Park\, Pittsburgh
-DESCRIPTION:A classical-music brunch series held outdoors at Mellon Park on Sunday mornings.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:9c690612-33a8-508a-bcd0-a8071a1f5a17@pghwidget
-DTSTAMP:20260722T221010Z
-SUMMARY:Barre at the Brewery
-DTSTART:20260805T223000Z
-DTEND:20260806T003000Z
-LOCATION:18th St. Passageway\, Pittsburgh
-DESCRIPTION:A ballet-barre fitness class hosted by Pittsburgh Ballet Theatre in partnership with Aslin Beer Co.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+DESCRIPTION:A Broadway & Musical Theater run presented by Pittsburgh CLO\, closing this Sunday.\\n\\nhttps://culturaldistrict.org/calendar
+URL:https://culturaldistrict.org/calendar
 END:VEVENT
 END:VCALENDAR
