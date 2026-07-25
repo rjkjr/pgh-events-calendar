@@ -6,243 +6,122 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:c78f3cf0-de02-50b5-846a-c22f625182a6@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Tekko 2026
-DTSTART;VALUE=DATE:20260723
+UID:82a33ea5-cd93-5a76-9c33-ccbcfc785ee3@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Tekko 2026 (Anime Convention)
+DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
-LOCATION:David L. Lawrence Convention Center\, Downtown Pittsburgh
-DESCRIPTION:Pittsburgh's premier Japanese pop culture convention returns to the David L. Lawrence Convention Center\, with guest meet-and-greets\, cosplay competitions\, games\, and J-rock concerts.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/
-URL:https://www.visitpittsburgh.com/events-festivals/annual-events/
+LOCATION:David L. Lawrence Convention Center
+DESCRIPTION:Dive into the vibrant world of Japanese pop culture at Tekko 2026\, Pittsburgh's premier convention for anime\, manga\, cosplay\, and all things kawaii\, with panels\, workshops\, artist alleys\, gaming tournaments\, and live performances.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:2250b0df-f4e4-5d76-8e54-a3d4e2388534@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Pittsburgh Pirates vs. Chicago Cubs
-DTSTART:20260724T224000Z
-DTEND:20260725T004000Z
-LOCATION:PNC Park
-DESCRIPTION:Regular-season MLB game between the Pittsburgh Pirates and Chicago Cubs.\\n\\nhttps://pittsburgh.events/july/
-URL:https://pittsburgh.events/july/
-END:VEVENT
-BEGIN:VEVENT
-UID:adfa9a12-6d14-5bad-9bba-cef445da3bbc@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:High Noon – A Tribute To Lynyrd Skynyrd & Southern Rock
-DTSTART:20260724T233000Z
-DTEND:20260725T013000Z
-LOCATION:City Winery – Pittsburgh\, 1615 Smallman Street
-DESCRIPTION:Tribute concert celebrating Lynyrd Skynyrd and Southern rock classics.\\n\\nhttps://pittsburgh.events/july/
-URL:https://pittsburgh.events/july/
-END:VEVENT
-BEGIN:VEVENT
-UID:6056812b-1a51-51ad-999d-e6b3022d2f61@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Dave Matthews Band
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Pavilion at Star Lake
-DESCRIPTION:Dave Matthews Band performs at The Pavilion at Star Lake as part of the 2026 concert lineup.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:29854f54-050d-5552-9eab-b67b84d88ce7@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Summer Fridays at The Frick
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-LOCATION:The Frick Pittsburgh
-DESCRIPTION:Families can spend time together on the lawn with a variety of entertainment options as part of Summer Fridays at the Frick.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-END:VEVENT
-BEGIN:VEVENT
-UID:cc5c98a9-8d95-51fd-b2fc-c51149da8844@pghwidget
-DTSTAMP:20260724T224515Z
+UID:30c916b1-8b08-5888-be61-03cdb68ac845@pghwidget
+DTSTAMP:20260725T045623Z
 SUMMARY:Schenley Plaza 20th Anniversary Jubilee
 DTSTART:20260725T150000Z
 DTEND:20260725T220000Z
-LOCATION:Schenley Plaza\, Oakland
+LOCATION:Schenley Plaza\, Pittsburgh\, PA
 DESCRIPTION:Schenley Plaza is celebrating its 20th anniversary with an afternoon of family fun\, including meet-and-greets with Disney characters\, live music and complimentary rides on the PNC Carousel.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
 URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
 END:VEVENT
 BEGIN:VEVENT
-UID:200db841-1535-5ad9-94a1-c912501f86d4@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:311 & Dirty Heads
-DTSTART:20260725T213000Z
-DTEND:20260725T233000Z
-LOCATION:Stage AE\, North Shore
-DESCRIPTION:Live concert featuring 311 and Dirty Heads.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
-URL:https://allevents.in/pittsburgh/2026-07-25
-END:VEVENT
-BEGIN:VEVENT
-UID:d70a649d-93d5-58ce-8af2-c5322a805294@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Pittsburgh Pirates vs. Chicago Cubs (Saturday game)
-DTSTART:20260725T224000Z
-DTEND:20260726T004000Z
-LOCATION:PNC Park
-DESCRIPTION:Continuation of the Pirates–Cubs weekend series.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:b8e5554c-138e-51ea-bf7e-ec2230489b4f@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Hoppy Hour with Rabbit Wranglers (Summer Flower Show: Alice's Adventures in Wonderland)
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Phipps Conservatory and Botanical Gardens
-DESCRIPTION:Meet adorable rescue rabbits at the Phipps Conservatory as part of its "Summer Flower Show: Alice's Adventures in Wonderland" exhibit\, in collaboration with the Rabbit Wranglers animal rescue.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
-URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
-END:VEVENT
-BEGIN:VEVENT
-UID:6789dd88-9542-5578-a7d8-2426cc3353fd@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Pittsburgh Riverhounds SC vs. Rhode Island FC
-DTSTART:20260725T230000Z
-DTEND:20260726T010000Z
-LOCATION:F.N.B. Stadium (Station Square)
-DESCRIPTION:USL professional soccer match between the Pittsburgh Riverhounds SC and Rhode Island FC.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:45086842-6565-5c33-8e68-8d4962799755@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:The Magic of Motown
-DTSTART:20260725T233000Z
-DTEND:20260726T013000Z
-LOCATION:Byham Theater\, Downtown
-DESCRIPTION:R&B/soul tribute concert celebrating Motown classics.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:763ce602-e0ec-5edf-8e50-825f05b4c5a1@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Neon Vanadium
-DTSTART:20260726T000000Z
-DTEND:20260726T020000Z
-LOCATION:Mr. Small's Fun House\, Millvale
-DESCRIPTION:Pop/rock concert performance.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:ba9c6b13-eaac-587b-b3e3-caeda4000e23@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Frozen Movie Sing-Along Brunch
-DTSTART:20260726T160000Z
-DTEND:20260726T180000Z
-LOCATION:Pittsburgh
-DESCRIPTION:Family sing-along brunch event featuring the movie Frozen.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:3d971091-ee6a-5bc4-87f7-76e023398c70@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:National Disability Independence Day 2026
+UID:98c3da08-00cd-5dc2-a5f9-38f41b44c362@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:National Disability Independence Day Celebration
 DTSTART:20260726T143000Z
 DTEND:20260726T190000Z
 LOCATION:The Andy Warhol Museum
-DESCRIPTION:The Andy Warhol Museum celebrates the anniversary of the Americans with Disabilities Act with a showcase of accessible programming\, including sensory-friendly hours\, accessible tours\, and tactile art reproductions.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
+DESCRIPTION:July 26 is the 36th anniversary of the Americans with Disabilities Act\, and the Andy Warhol Museum is celebrating with a showcase of its accessible programming\, including sensory-friendly hours\, accessible tours\, and tactile art reproductions.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
 URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
 END:VEVENT
 BEGIN:VEVENT
-UID:4af40ff2-7695-5427-9cf6-1d89a6ff9808@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Pittsburgh CLO Broadway/Musical Theater Production
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260727
-LOCATION:Benedum Center\, Downtown
-DESCRIPTION:Broadway & Musical Theater production presented by Pittsburgh CLO at the Benedum Center. (title not specified in source)\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:faa6e68f-1af8-5256-8ad6-d46710304fab@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Stage 62 Production
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Downtown
-DESCRIPTION:Broadway & Musical Theater production by Stage 62 at the Greer Cabaret Theater. (title not specified in source)\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:185132f2-3cde-5e48-ae2b-78f885170462@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:VC2 Street Studio
-DTSTART:20260725T210000Z
-DTEND:20260726T010000Z
-LOCATION:Bakery Square Courtyard\, East Liberty
-DESCRIPTION:An interactive art pop-up with Pittsburgh artist VC2 Art (Vincent Candelore) bringing unfiltered creativity to the streets with open invites to jump in and paint.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:acd46d8c-b845-5825-831d-c4884f198638@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Modern Calligraphy for Beginners
-DTSTART:20260726T143000Z
-DTEND:20260726T160000Z
-LOCATION:Bakery Square Conservatory\, East Liberty
-DESCRIPTION:A beginner-friendly workshop on pretty lettering at Bakery Square in Pittsburgh.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:fee2a006-6a4b-5cee-8574-2794e776cf92@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:All-American Summer at Kennywood
+UID:c34cab3f-684f-5096-a78c-761a70ea3fca@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Bethel Park Art & Music Festival
 DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:A holiday-themed summer event continuing every Saturday and Sunday through July 26 at Kennywood.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+DTEND;VALUE=DATE:20260726
+LOCATION:Bethel Park Community Center\, Schoolhouse Arts & History Center\, and surrounding streetscape
+DESCRIPTION:Spread across the Community Center\, Schoolhouse Arts & History Center\, and the streetscape in-between\, the Bethel Park Art & Music Festival features 80+ local artists\, live music performances all day\, food trucks\, and information booths.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:d25dfa88-3af9-5d00-a20a-d19a80622819@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Free Concert / Live Music with MCG Jazz
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:Free concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz at Arts Landing.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:2c91c207-4466-5b0a-9cee-7d4f0cd36179@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Ross Community Center Summer Show 2026
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+LOCATION:Ross Twp. Community Center\, 1000 Ross Municipal Dr.
+DESCRIPTION:Join us on Saturday July 25 for our Summer Show 2026 being held at the Ross Twp. Community Center.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:45486068-53eb-591c-a977-22cb331cf06c@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Harris Theater Film Screening
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-LOCATION:Harris Theater\, Downtown
-DESCRIPTION:Film screening presented by the Pittsburgh Cultural Trust (title not specified in source).\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:3375ecb8-9fff-5c4d-94dc-662ddef8c606@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Story Saturday at Carnegie Museum of Art
+DTSTART:20260725T150000Z
+DTEND:20260725T170000Z
+LOCATION:Carnegie Museum of Art
+DESCRIPTION:Learn the practice of weaving in community from elders as they share First Nations wisdom through the reading of "Afloat\," followed by a hands-on activity\, best for ages 12 and younger.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
+URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
 END:VEVENT
 BEGIN:VEVENT
-UID:e06dd357-fd66-5240-8e3a-708a1b806e82@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Nate Bargatze — Comedy Show
-DTSTART:20260730T230000Z
-DTEND:20260731T010000Z
-LOCATION:PPG Paints Arena\, Downtown
-DESCRIPTION:Stand-up comedy performance by Nate Bargatze.\\n\\nhttps://allevents.in/pittsburgh/july
-URL:https://allevents.in/pittsburgh/july
+UID:6c3746b1-58fe-5b4c-acb4-1f809474283e@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Inside Out at CMOA
+DTSTART:20260725T160000Z
+DTEND:20260725T210000Z
+LOCATION:Carnegie Museum of Art\, Sculpture Court
+DESCRIPTION:Carnegie Museum of Art's free Inside Out series brings music\, art and community to the museum's Sculpture Court on select days in July and August\, with art\, movement activities and performances for families.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
+URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
 END:VEVENT
 BEGIN:VEVENT
-UID:9865e415-8a48-5985-8af8-dd9747539176@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Amy Grant
-DTSTART:20260731T000000Z
-DTEND:20260731T020000Z
-LOCATION:Carnegie Music Hall\, Oakland
-DESCRIPTION:Live concert performance by singer Amy Grant.\\n\\nhttps://allevents.in/pittsburgh/july
-URL:https://allevents.in/pittsburgh/july
+UID:33a0b6b1-9dc0-5937-8c42-ae85167a0c03@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:"Blank Space" Taylor Swift Tribute Concert
+DTSTART:20260725T233000Z
+DTEND:20260726T013000Z
+LOCATION:North Shore\, Pittsburgh
+DESCRIPTION:Swifties can sing and dance through their favorite eras when Blank Space\, the unofficial Taylor Swift tribute band\, recreates Taylor Swift's biggest hits with live music\, choreography\, visuals and pop-star energy.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
+URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
 END:VEVENT
 BEGIN:VEVENT
-UID:3887c8b0-7d52-5200-8810-ddd2a58b7d27@pghwidget
-DTSTAMP:20260724T224515Z
-SUMMARY:Liberty Magic – Trust Magic
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, Downtown
-DESCRIPTION:Ongoing magic show series presented by the Pittsburgh Cultural Trust at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:4828eece-1f92-5ada-bfe2-3d0df8fd08ae@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Family Fest at Arts Landing
+DTSTART:20260725T140000Z
+DTEND:20260725T180000Z
+LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
+DESCRIPTION:This Family Fest event features live performances\, story time\, family pickleball\, a mascot meet-and-greet and a family dance party\, plus face painting and food.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
+URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a506b21-72f4-5fe1-9a74-f14803c77af6@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Neighborhood Flea Night Market
+DTSTART:20260725T220000Z
+DTEND:20260726T020000Z
+LOCATION:Schenley Plaza
+DESCRIPTION:Keep shopping after-hours on Saturday\, July 25\, when the Neighborhood Flea Night Market hosts 85 vendors and lawn games at Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:96bbccf2-033d-528d-8ee2-8479261e8cbf@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:311 & Dirty Heads
+DTSTART:20260725T213000Z
+DTEND:20260725T233000Z
+LOCATION:Stage AE\, Pittsburgh
+DESCRIPTION:Co-headlining concert featuring reggae-rock bands 311 and Dirty Heads.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
+URL:https://allevents.in/pittsburgh/2026-07-25
+END:VEVENT
+BEGIN:VEVENT
+UID:9adb3406-58a3-5277-b7e9-945cc0e146bc@pghwidget
+DTSTAMP:20260725T045623Z
+SUMMARY:Chicago Cubs at Pittsburgh Pirates – Yinzerpalooza Weekend (Bobblehead Night #2)
+DTSTART:20260725T224000Z
+DTEND:20260726T004000Z
+LOCATION:PNC Park
+DESCRIPTION:MLB game between the Pittsburgh Pirates and Chicago Cubs.
 END:VEVENT
 END:VCALENDAR
