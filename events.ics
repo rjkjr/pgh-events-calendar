@@ -6,317 +6,153 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d90fac9b-0ed1-5ec6-88c6-90c0d726882a@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Pittsburgh Pirates vs. Chicago Cubs (Yinzerpalooza Weekend)
-DTSTART:20260725T224000Z
-DTEND:20260726T173500Z
-RRULE:FREQ=DAILY;UNTIL=20260726T224000Z
-LOCATION:PNC Park\, Pittsburgh
-DESCRIPTION:Chicago Cubs at Pittsburgh Pirates at PNC Park\, part of Yinzerpalooza Weekend featuring a bobblehead giveaway and a Daniel Tiger plush giveaway.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
-URL:https://allevents.in/pittsburgh/2026-07-25
+UID:4b547ea7-9c3c-5903-b5a3-24644cec0ca7@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Tekko 2026
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+LOCATION:David L. Lawrence Convention Center\, Downtown Pittsburgh
+DESCRIPTION:Pittsburgh's premier convention for anime\, manga\, cosplay\, and Japanese pop culture\, with panels\, workshops\, artist alleys\, gaming tournaments\, and live performances.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:b8c1ea2a-695a-5fa8-bc93-4ef934455788@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Rhode Island FC at Pittsburgh Riverhounds SC
-DTSTART:20260725T230000Z
-DTEND:20260726T010000Z
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:Rhode Island FC at Pittsburgh Riverhounds SC at Highmark Stadium\, Pittsburgh.\\n\\nhttps://seatgeek.com/cities/pittsburgh/this-weekend
-URL:https://seatgeek.com/cities/pittsburgh/this-weekend
+UID:3c7e5d57-8941-58c3-8eec-ea6784ce6128@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Pittsburgh Cultural Trust Family Day — Live Music & Variety
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
+DESCRIPTION:A free\, family-friendly live music and variety showcase presented by the Pittsburgh Cultural Trust at its Arts Landing venue.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:96bbccf2-033d-528d-8ee2-8479261e8cbf@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:311 & Dirty Heads
-DTSTART:20260725T213000Z
-DTEND:20260725T233000Z
-LOCATION:Stage AE\, Pittsburgh
-DESCRIPTION:311 & Dirty Heads live at Stage AE\, Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
-URL:https://allevents.in/pittsburgh/2026-07-25
+UID:a6e237bc-b049-5c38-93cc-df54c32c40af@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Concert at Byham Theater (presented by Moxie Events)
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+LOCATION:Byham Theater\, Downtown Pittsburgh
+DESCRIPTION:A ticketed concert event hosted by Moxie Events at the historic Byham Theater.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:a60c4cf0-4397-5cc0-8fc1-fff125acb397@pghwidget
-DTSTAMP:20260725T180535Z
+UID:cd7c0455-23e0-5f87-a650-a0162de4c101@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Clinton Concert Series
+DTSTART:20260725T220000Z
+DTEND:20260726T000000Z
+LOCATION:Imperial\, PA (Clinton community concert venue near Pittsburgh)
+DESCRIPTION:A weekly community concert series taking place on Saturday evenings.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:567de366-aa06-52cb-8ebe-f6472f660b42@pghwidget
+DTSTAMP:20260726T001056Z
 SUMMARY:Schenley Plaza 20th Anniversary Jubilee
 DTSTART:20260725T150000Z
-DTEND:20260725T220000Z
-LOCATION:Schenley Plaza\, Pittsburgh
-DESCRIPTION:Schenley Plaza celebrates its 20th anniversary with meet-and-greets with Disney characters\, live music\, and complimentary rides on the PNC Carousel.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
-URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
+DTEND:20260725T170000Z
+LOCATION:Schenley Plaza\, Oakland\, Pittsburgh
+DESCRIPTION:A celebration marking the 20th anniversary of Schenley Plaza as a public gathering space in Oakland.\\n\\nhttps://allevents.in/pittsburgh/july
+URL:https://allevents.in/pittsburgh/july
 END:VEVENT
 BEGIN:VEVENT
-UID:4828eece-1f92-5ada-bfe2-3d0df8fd08ae@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Family Fest at Arts Landing
-DTSTART:20260725T140000Z
-DTEND:20260725T180000Z
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:Live performances\, story time\, family pickleball\, mascot meet-and-greet and a family dance party with face painting\, food trucks\, and lawn games.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-END:VEVENT
-BEGIN:VEVENT
-UID:41b523f1-27f1-5e69-b645-6dd44df5d270@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Goat Fest at South Side Park
-DTSTART:20260725T160000Z
-DTEND:20260725T200000Z
-LOCATION:South Side Park\, Pittsburgh
-DESCRIPTION:Allegheny Goatscape goats feed on invasive vines and plants\; volunteers help restore native species.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-END:VEVENT
-BEGIN:VEVENT
-UID:330024f8-53b5-5dbb-bf5c-b44cdcc36074@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Neighborhood Flea Night Market
-DTSTART:20260725T220000Z
-DTEND:20260726T020000Z
-LOCATION:Schenley Plaza\, Pittsburgh
-DESCRIPTION:Night market with 85 vendors and lawn games at Schenley Plaza.\\n\\nhttps://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-URL:https://nextpittsburgh.com/events/12-iconic-pittsburgh-things-to-do-in-july-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:c34cab3f-684f-5096-a78c-761a70ea3fca@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Bethel Park Art & Music Festival
+UID:1e4b95b1-3041-50aa-9c10-f627fd67e267@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Pittsburgh CLO Musical (closing performance)
 DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Bethel Park Community Center\, Schoolhouse Arts & History Center\, and surrounding streetscape
-DESCRIPTION:80+ local artists\, live music by local and regional bands\, food trucks\, basket raffles\, and information booths.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:2a623f33-33b1-5c40-b388-f78ac2cf37f1@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Moxie Events Concert
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Byham Theater\, Pittsburgh
-DESCRIPTION:A concert presented by Moxie Events at Downtown's Byham Theater.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:bf56d2e7-bed5-5096-8a56-e26dcf53a883@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Arts Landing Family Live Music & Variety Show
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:A free family-friendly variety and live music program presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:d630f067-e6e6-5049-a529-4d991097827e@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Tekko 2026 (Pennsylvania's Largest Anime Convention)
-DTSTART:20260723T160000Z
-DTEND:20260723T180000Z
-RRULE:FREQ=DAILY;UNTIL=20260726T160000Z
-LOCATION:David L. Lawrence Convention Center\, Downtown Pittsburgh
-DESCRIPTION:Pittsburgh's premier convention for anime\, manga\, cosplay and Japanese pop culture with panels\, workshops\, artist alleys\, gaming tournaments\, and live performances.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:c24ab718-c861-50de-bcae-ebeed815ed07@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:National Disability Independence Day 2026
-DTSTART:20260726T143000Z
-DTEND:20260726T190000Z
-LOCATION:The Andy Warhol Museum\, Pittsburgh
-DESCRIPTION:36th anniversary of the ADA celebration with sensory-friendly hours\, accessible tours\, and tactile art reproductions.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
-URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
-END:VEVENT
-BEGIN:VEVENT
-UID:7bbf0da7-0a78-5621-b3e2-200647af24cd@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Arts Landing Family Film Screening
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:A free family film screening presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:910e3a97-63e3-5a62-ab9d-e40e9b24df67@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Pittsburgh CLO Production
-DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260727
 LOCATION:Benedum Center\, Downtown Pittsburgh
-DESCRIPTION:A Broadway & musical theater production presented by Pittsburgh CLO.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:The closing performance of a Pittsburgh CLO Broadway & musical theater production at the Benedum Center.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:1fe8d9b9-8bbd-5436-a7ae-3bcd7093001b@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Stage 62 Production
-DTSTART;VALUE=DATE:20260716
+UID:d2635776-9a98-5db2-898e-1b2f2d567ab2@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Stage 62 Production (closing weekend)
+DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A Broadway & musical theater production staged by Stage 62 at the Greer Cabaret Theater.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:A community theater company's Broadway & musical theater production wraps up its run.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:fee2a006-6a4b-5cee-8574-2794e776cf92@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:All-American Summer at Kennywood
-DTSTART;VALUE=DATE:20260725
+UID:2a645085-c49a-5a8c-9561-7cd3402d99b8@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Pittsburgh Pirates vs. Chicago Cubs — Yinzerpalooza Weekend (Daniel Tiger Plush Giveaway)
+DTSTART:20260726T173500Z
+DTEND:20260726T193500Z
+LOCATION:PNC Park\, North Shore\, Pittsburgh
+DESCRIPTION:A Pirates vs. Cubs game featuring a Yinzerpalooza Weekend promotion with a kids' Daniel Tiger plush giveaway.\\n\\nhttps://allevents.in/pittsburgh/july
+URL:https://allevents.in/pittsburgh/july
+END:VEVENT
+BEGIN:VEVENT
+UID:e47b67be-9f55-5733-9b42-07155f964271@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Pittsburgh Pirates vs. Arizona Diamondbacks
+DTSTART:20260726T230000Z
+DTEND:20260727T010000Z
+LOCATION:PNC Park\, North Shore\, Pittsburgh
+DESCRIPTION:A regular-season Pirates home game against the Arizona Diamondbacks.\\n\\nhttps://allevents.in/pittsburgh/july
+URL:https://allevents.in/pittsburgh/july
+END:VEVENT
+BEGIN:VEVENT
+UID:a9655d38-c2d5-5897-b7f8-3a02a73ef9aa@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Arts Landing Free Family Film Screening
+DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
-DESCRIPTION:All-American Summer continues every Saturday and Sunday through Sun.\, July 26.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:9fbe85dd-fc1d-562a-9b6f-7f8fd4b775d6@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Arts Landing Concert with MCG Jazz
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:A free concert and live music event presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
+DESCRIPTION:A free outdoor family film screening presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:7425401f-3a4e-54f8-8fc7-ef79b85c4c05@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Trust Magic
+UID:502df0e4-8891-5bcf-98a9-62585e05ee24@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Trust Magic — Liberty Magic Residency Show
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:An ongoing magic show series presented by the Pittsburgh Cultural Trust's Liberty Magic venue.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Liberty Magic\, Downtown Pittsburgh
+DESCRIPTION:An ongoing close-up magic show residency produced by the Pittsburgh Cultural Trust's Trust Magic program.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:aef051b5-8719-5709-b9e1-81ca7322eec7@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Midsummer! (CMU Center for New Work and Play on Shakespeare)
-DTSTART:20260725T230000Z
-DTEND:20260726T010000Z
-RRULE:FREQ=DAILY;UNTIL=20260801T230000Z
-LOCATION:Trust Arts Education Center\, 807 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:CMU Center for New Work and Play On Shakespeare present Midsummer!\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+UID:516f9992-57d0-5318-a7d6-47f78adddf8f@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Arts Landing Free Jazz Concert (with MCG Jazz)
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
+DESCRIPTION:A free live music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:258c48e7-cc09-5631-9f73-54b7c871cf87@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Harambe Ujima Black Arts and Culture Festival
-DTSTART:20260725T190000Z
-DTEND:20260725T210000Z
-RRULE:FREQ=DAILY;UNTIL=20260802T190000Z
-LOCATION:N. Homewood Avenue at Kelly Street\, Homewood\, Pittsburgh
-DESCRIPTION:FESTIVAL • HOMEWOOD Harambe Ujima Black Arts and Culture Festival.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
-URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-july-events-guide/
+UID:c7300335-c64d-5590-a334-72ef6f742bc7@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Phipps Conservatory Summer Flower Show: Alice's Adventures in Wonderland
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+LOCATION:Phipps Conservatory and Botanical Gardens\, Oakland\, Pittsburgh
+DESCRIPTION:A whimsical\, Alice in Wonderland–themed floral display as part of Phipps' seasonal summer flower show.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:be1bd73d-3528-5cae-b079-f0390793ace8@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Nate Bargatze
-DTSTART:20260730T230000Z
-DTEND:20260731T010000Z
-LOCATION:PPG Paints Arena\, Uptown\, Pittsburgh
-DESCRIPTION:Nate Bargatze live at PPG Paints Arena.\\n\\nhttps://allevents.in/pittsburgh/july
-URL:https://allevents.in/pittsburgh/july
+UID:f0783975-8cae-5cd5-86d5-8db8a4e5bf9d@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:Love Island USA Watch Party on the Big Screen
+DTSTART:20260729T010000Z
+DTEND:20260729T030000Z
+LOCATION:Bakery Square Courtyard\, East Liberty\, Pittsburgh
+DESCRIPTION:A weekly outdoor watch party for Love Island USA\, with attendees encouraged to bring their own blanket or lawn chair.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:4c733abf-68cd-58b9-b89c-f8d12ff1002e@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Amy Grant
-DTSTART:20260731T000000Z
-DTEND:20260731T020000Z
-LOCATION:Carnegie Music Hall\, Pittsburgh
-DESCRIPTION:Amy Grant live at Carnegie Music Hall.\\n\\nhttps://allevents.in/pittsburgh/july
-URL:https://allevents.in/pittsburgh/july
-END:VEVENT
-BEGIN:VEVENT
-UID:a5b7fc18-191f-5ec2-be25-3a27d85584f7@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Inside Out Night
-DTSTART:20260730T210000Z
-DTEND:20260731T020000Z
-LOCATION:Carnegie Museum of Art\, Sculpture Court\, Oakland
-DESCRIPTION:Free nighttime series with DJs\, live music\, dance\, food trucks and refreshments at the museum's Sculpture Court.\\n\\nhttps://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-URL:https://www.kidsburgh.org/pittsburgh-family-fun-guide-july-24-26-outdoor-museum-fests-shows-and-movies-a-birthday-party-for-a-carousel-and-more/
-END:VEVENT
-BEGIN:VEVENT
-UID:5ddd92d1-9ec3-5bbb-81a4-450d5f0969a5@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Don McLean
-DTSTART:20260801T001500Z
-DTEND:20260801T021500Z
-LOCATION:South Park Amphitheater\, South Park
-DESCRIPTION:Don McLean performs as part of the county's free summer concert series.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:7a5f0104-5558-5f1d-8357-4d6dca39b0e3@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Arrested Development
-DTSTART:20260727T001500Z
-DTEND:20260727T021500Z
-LOCATION:Hartwood Acres Amphitheater\, Hartwood Acres Park
-DESCRIPTION:Arrested Development performs as part of the county's 2026 free summer concert season.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:331badb2-8cf0-5814-8e26-5ce817dd5195@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Bach\, Beethoven\, and Brunch
-DTSTART:20260726T143000Z
-DTEND:20260726T160000Z
-LOCATION:Mellon Park
-DESCRIPTION:Recurring Sunday morning classical music series featuring a different local ensemble each week.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-july/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-july/
-END:VEVENT
-BEGIN:VEVENT
-UID:3a07d931-4cc8-56ac-ac4e-98ecf78330db@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Iron City Riverfront Throwdown
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Pittsburgh Brewing Company\, Creighton\, PA (Allegheny River)
-DESCRIPTION:Debut country music festival along the banks of the Allegheny River at Pittsburgh Brewing Company.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:2a00cf61-0607-5775-b4f9-ae587f50e075@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:AWAACC Visual Arts Exhibit
+UID:835eaeb4-ce0d-57cf-b112-90c1a3b655d0@pghwidget
+DTSTAMP:20260726T001056Z
+SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibition
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:An ongoing visual arts exhibition presented by the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
+LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
+DESCRIPTION:A visual arts exhibition running at the August Wilson Cultural Center through late August.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:51673cc2-9160-529e-ae49-d819b8f1d45f@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Hoppy Hour with Rabbit Wranglers
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260727
-LOCATION:Phipps Conservatory and Botanical Gardens\, Oakland
-DESCRIPTION:Meet adorable rescue rabbits as part of the Summer Flower Show: Alice's Adventures in Wonderland exhibit.\\n\\nhttps://www.pittsburghparent.com/weekend-events-july-25-26/
-URL:https://www.pittsburghparent.com/weekend-events-july-25-26/
-END:VEVENT
-BEGIN:VEVENT
-UID:416c67ae-64bb-5f58-9d0e-eb371712589b@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:OPENING EVENT: CDCP x The Future is Black x WCDC Present: Vania Evangelique
-DTSTART:20260725T160000Z
-DTEND:20260725T180000Z
-LOCATION:Lohr Gallery\, Pittsburgh
-DESCRIPTION:Opening event presented by CDCP x The Future is Black x WCDC featuring Vania Evangelique.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
-URL:https://allevents.in/pittsburgh/2026-07-25
-END:VEVENT
-BEGIN:VEVENT
-UID:0a386011-dfaf-5fb0-9454-1289ab816253@pghwidget
-DTSTAMP:20260725T180535Z
-SUMMARY:Bad Bunny Night
-DTSTART:20260726T020000Z
-DTEND:20260726T040000Z
-LOCATION:Avalon Social (Rooftop)\, Pittsburgh
-DESCRIPTION:Themed dance party celebrating Bad Bunny's music at Avalon Rooftop.\\n\\nhttps://allevents.in/pittsburgh/2026-07-25
-URL:https://allevents.in/pittsburgh/2026-07-25
 END:VEVENT
 END:VCALENDAR
