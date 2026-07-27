@@ -6,101 +6,53 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:01ce6162-10f4-5f43-8f23-35aecc20185a@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:MCG Jazz Free Concert at Arts Landing
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-LOCATION:Arts Landing\, Pittsburgh Cultural District
-DESCRIPTION:A free live music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz at Arts Landing.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:a8bb7a39-0db4-5dbd-9ca3-e722ad9bc6c8@pghwidget
+DTSTAMP:20260727T200115Z
+SUMMARY:Nate Bargatze (comedy)
+DTSTART:20260730T230000Z
+DTEND:20260731T010000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Nate Bargatze at PPG Paints Arena is happening on Thu 30 Jul 2026 from 7:00 PM onwards at PPG Paints Arena\, Pittsburgh\\n\\nhttps://allevents.in/pittsburgh/july
+URL:https://allevents.in/pittsburgh/july
 END:VEVENT
 BEGIN:VEVENT
-UID:2a6c4e47-acc3-586b-9e9c-6f4043c76f1e@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Trust Magic at Liberty Magic
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, Pittsburgh Cultural District
-DESCRIPTION:An ongoing magic show series ("Trust Magic") running through Sat\, Aug 1\, 2026 at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:23e2d3d6-e8f6-5644-a9cb-98ce14a9e1ba@pghwidget
+DTSTAMP:20260727T200115Z
+SUMMARY:Amy Grant (concert)
+DTSTART:20260731T000000Z
+DTEND:20260731T020000Z
+LOCATION:Carnegie Music Hall\, Pittsburgh (Oakland)
+DESCRIPTION:Amy Grant at Carnegie Music Hall is happening on Thu 30 Jul 2026 from 8:00 PM onwards at Carnegie Music Hall\, Pittsburgh\\n\\nhttps://allevents.in/pittsburgh/july
+URL:https://allevents.in/pittsburgh/july
 END:VEVENT
 BEGIN:VEVENT
-UID:ae13d324-cc4b-5e52-99ac-35b3deca7d25@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit (AWAACC)
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition presented by AWAACC running through Sat\, Aug 29\, 2026.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:a1ba1d54-75be-56d0-a976-730d5b6b8388@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Love Island USA Watch Party (Weekly)
-DTSTART:20260729T010000Z
-DTEND:20260729T030000Z
-LOCATION:Bakery Square Courtyard\, Pittsburgh
-DESCRIPTION:A weekly outdoor watch party for "Love Island USA" every Tuesday at 9 PM\, with attendees encouraged to bring their own blanket or lawn chair.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:a71a012f-1154-509a-b35b-0e7f1ca59f70@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Lawrenceville Art Crawl
-DTSTART:20260801T160000Z
-DTEND:20260801T180000Z
-LOCATION:4327 Butler St\, Pittsburgh\, PA (Lawrenceville)
-DESCRIPTION:A neighborhood art crawl happening in Lawrenceville\, Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:76ffe06b-efac-5f64-9472-eb50403a6fa0@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Pittsburgh VegFest
-DTSTART:20260801T150000Z
-DTEND:20260801T170000Z
-LOCATION:Pittsburgh
-DESCRIPTION:An annual vegan/vegetarian-focused festival taking place in Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Iron City Riverfront Throwdown
+UID:ade9cb80-eda1-56e6-8f20-46cad751b381@pghwidget
+DTSTAMP:20260727T200115Z
+SUMMARY:Iron City Riverfront Throwdown (music festival)
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
-DESCRIPTION:A brand-new country music festival debuting along the banks of the Allegheny River at Pittsburgh Brewing Company in Creighton\, PA.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+DESCRIPTION:Pittsburgh Brewing Company is turning up the volume this summer with the debut of the Iron City Riverfront Throwdown\, a brand-new country music festival set for Saturday\, August 8\, 2026\, along the scenic banks of the Allegheny River at Pittsburgh Brewing Company in Creighton\, Pennsylvania\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:a2da9945-f554-5786-b4be-ea439f5895b0@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:29th Annual Shadyside...The Art Festival on Walnut Street
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-LOCATION:5428 Walnut St\, Pittsburgh (Shadyside)
-DESCRIPTION:The 29th annual edition of this juried outdoor art festival takes place along Walnut Street in Shadyside.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
+UID:a00f500b-0bbb-541c-bff5-b84cda183a57@pghwidget
+DTSTAMP:20260727T200115Z
+SUMMARY:Trust Magic (ongoing magic show)
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260802
+LOCATION:Liberty Magic\, 811 Liberty Ave\, Downtown Pittsburgh
+DESCRIPTION:An ongoing residency magic show run by the Pittsburgh Cultural Trust\, listed as 'Fri\, Jul 10 - Sat\, Aug 1\, 2026' at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:BaconBurgh
-DTSTART:20260830T160000Z
-DTEND:20260830T180000Z
-LOCATION:SouthSide Works\, Pittsburgh
-DESCRIPTION:A bacon-themed food festival held at SouthSide Works in Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:a14e635c-7733-567e-9079-f0f55a0a3ed1@pghwidget
-DTSTAMP:20260727T135224Z
-SUMMARY:Level Red Boxing Free Outdoor Workout
-DTSTART:20260829T140000Z
-DTEND:20260829T150000Z
-DESCRIPTION:A free outdoor group workout event hosted by Level Red Boxing.
+UID:88183b57-4f5c-582d-a5f8-93a41fb16eea@pghwidget
+DTSTAMP:20260727T200115Z
+SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit (AWAACC)
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
+DESCRIPTION:A running visual arts exhibition listed on the Pittsburgh Cultural Trust calendar as continuing through August 29\, 2026.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 END:VCALENDAR
