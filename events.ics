@@ -6,235 +6,101 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:13126b9b-758b-5620-ba5a-b53a87bfab1a@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Pittsburgh Pirates vs. Chicago Cubs
-DTSTART:20260726T173500Z
-DTEND:20260726T193500Z
-LOCATION:PNC Park\, Pittsburgh\, PA
-DESCRIPTION:A Pittsburgh Pirates game against the Chicago Cubs at PNC Park.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:c78f3cf0-de02-50b5-846a-c22f625182a6@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Tekko 2026
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260727
-LOCATION:David L. Lawrence Convention Center\, Downtown Pittsburgh
-DESCRIPTION:Pittsburgh's premier convention for anime\, manga\, cosplay\, and Japanese pop culture\, featuring panels\, workshops\, artist alleys\, gaming tournaments\, and live performances.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:910e3a97-63e3-5a62-ab9d-e40e9b24df67@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Pittsburgh CLO Production
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260727
-LOCATION:Benedum Center\, Downtown Pittsburgh
-DESCRIPTION:A Broadway & Musical Theater production presented by Pittsburgh CLO in its closing performances this weekend.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:1fe8d9b9-8bbd-5436-a7ae-3bcd7093001b@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Stage 62 Production
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260727
-LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A community theater production wrapping up its run in the Broadway & Musical Theater category.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:5cd9c217-cf13-5377-a963-b112188c4fcd@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Free Family Film
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A free family-friendly film screening presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:8dd84af4-12ac-5406-be86-a6b6ca29a78f@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Trust Magic at Liberty Magic
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260802
-LOCATION:Liberty Magic\, Downtown Pittsburgh
-DESCRIPTION:An ongoing magic show series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:df37c7bc-570d-5540-b37c-2b4fbc5e96dd@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:MCG Jazz Concert
+UID:01ce6162-10f4-5f43-8f23-35aecc20185a@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:MCG Jazz Free Concert at Arts Landing
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-LOCATION:Arts Landing\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:A free live jazz concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:A free live music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz at Arts Landing.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:026a6e25-d7f2-5c10-8ef5-574bf7a3d351@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:French Moderns: Matisse / Renoir / Degas
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20261012
-LOCATION:The Frick Pittsburgh\, Point Breeze
-DESCRIPTION:An exhibition encompassing realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, exemplifying avant-garde movements that defined modern art.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:2a6c4e47-acc3-586b-9e9c-6f4043c76f1e@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:Trust Magic at Liberty Magic
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260802
+LOCATION:Liberty Magic\, Pittsburgh Cultural District
+DESCRIPTION:An ongoing magic show series ("Trust Magic") running through Sat\, Aug 1\, 2026 at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:c43e3167-9e1d-5494-9e1b-fcc06e398bd4@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:AWAACC Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260726
+UID:ae13d324-cc4b-5e52-99ac-35b3deca7d25@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit (AWAACC)
+DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center (AWAACC)\, Downtown Pittsburgh
-DESCRIPTION:A long-running visual arts exhibition at the August Wilson African American Cultural Center.\\n\\nhttps://trustarts.org/calendar
+LOCATION:August Wilson Cultural Center\, Downtown Pittsburgh
+DESCRIPTION:A visual arts exhibition presented by AWAACC running through Sat\, Aug 29\, 2026.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a1ba1d54-75be-56d0-a976-730d5b6b8388@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:Love Island USA Watch Party (Weekly)
+DTSTART:20260729T010000Z
+DTEND:20260729T030000Z
+LOCATION:Bakery Square Courtyard\, Pittsburgh
+DESCRIPTION:A weekly outdoor watch party for "Love Island USA" every Tuesday at 9 PM\, with attendees encouraged to bring their own blanket or lawn chair.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:a71a012f-1154-509a-b35b-0e7f1ca59f70@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:Lawrenceville Art Crawl
+DTSTART:20260801T160000Z
+DTEND:20260801T180000Z
+LOCATION:4327 Butler St\, Pittsburgh\, PA (Lawrenceville)
+DESCRIPTION:A neighborhood art crawl happening in Lawrenceville\, Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
+END:VEVENT
+BEGIN:VEVENT
+UID:76ffe06b-efac-5f64-9472-eb50403a6fa0@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:Pittsburgh VegFest
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+LOCATION:Pittsburgh
+DESCRIPTION:An annual vegan/vegetarian-focused festival taking place in Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 BEGIN:VEVENT
 UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
-DTSTAMP:20260726T121835Z
+DTSTAMP:20260727T135224Z
 SUMMARY:Iron City Riverfront Throwdown
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
-DESCRIPTION:A brand-new country music festival debuting along the scenic banks of the Allegheny River at Pittsburgh Brewing Company.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+DESCRIPTION:A brand-new country music festival debuting along the banks of the Allegheny River at Pittsburgh Brewing Company in Creighton\, PA.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:3f502d0b-5500-59e8-8570-3fe0045dc2fa@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Rock\, Reggae & Relief
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Forbes Avenue and Market Square\, Downtown Pittsburgh
-DESCRIPTION:Less of a concert and more of a block party\, featuring art\, food and drink vendors\, and music from legendary groups and up-and-coming artists.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
-URL:https://www.bandsintown.com/c/pittsburgh-pa
+UID:a2da9945-f554-5786-b4be-ea439f5895b0@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:29th Annual Shadyside...The Art Festival on Walnut Street
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+LOCATION:5428 Walnut St\, Pittsburgh (Shadyside)
+DESCRIPTION:The 29th annual edition of this juried outdoor art festival takes place along Walnut Street in Shadyside.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 BEGIN:VEVENT
-UID:f38f26d1-f300-5822-a02c-f0e2e886645e@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Knotweed Festival
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Blairsville\, PA
-DESCRIPTION:A regional summer festival held in Blairsville\, part of the broader Western Pennsylvania fair/festival season.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:BaconBurgh
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+LOCATION:SouthSide Works\, Pittsburgh
+DESCRIPTION:A bacon-themed food festival held at SouthSide Works in Pittsburgh.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 BEGIN:VEVENT
-UID:995bc235-4634-5772-8fce-23e0d7f36c42@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Little Italy Days
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260817
-LOCATION:Bloomfield\, Pittsburgh\, PA
-DESCRIPTION:Celebrate Bloomfield's Italian heritage with Italian-themed food\, bocce\, pizza-dough stretching lessons\, and traditional entertainment at the region's largest heritage festival.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:32267b5a-02b3-5962-b6e1-a497ff59bcdd@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Tacos and Tequila Festival Pittsburgh
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260816
-LOCATION:EQT Park\, Washington\, PA
-DESCRIPTION:A festival celebrating tacos and tequila with food and drink vendors and live entertainment.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
-URL:https://www.bandsintown.com/c/pittsburgh-pa
-END:VEVENT
-BEGIN:VEVENT
-UID:f5057c62-5c32-5a54-89cf-3d39580c1ac0@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Women in Jazz Festival
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-LOCATION:South Park Amphitheater / Hartwood Acres Park Amphitheater
-DESCRIPTION:A free county concert featuring Su Terry\, the Deanna Witkowski Trio\, and Camille Thurman with the Darrell Green Quartet.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-END:VEVENT
-BEGIN:VEVENT
-UID:b070a8ee-fca8-53e7-89ae-5753db6e75f8@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Tamburitzans
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-LOCATION:South Park Amphitheater / Hartwood Acres Park Amphitheater
-DESCRIPTION:A free county-sponsored concert performance by the Tamburitzans folk ensemble.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-END:VEVENT
-BEGIN:VEVENT
-UID:8ba2741c-8b35-5397-8305-0550b7fc8b74@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Summer of Love Revue
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-LOCATION:South Park Amphitheater / Hartwood Acres Park Amphitheater
-DESCRIPTION:A free county-sponsored concert celebrating the music of the "Summer of Love" era.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-END:VEVENT
-BEGIN:VEVENT
-UID:52514814-e430-5ff6-89f6-4191c0dd5879@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Pittsburgh International Jazz Festival (PIJF)
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:August Wilson African American Cultural Center and Liberty Avenue\, Downtown Pittsburgh
-DESCRIPTION:The city's premier music festival\, hosting live music with renowned artists from around the world.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
-URL:https://www.visitpittsburgh.com/blog/music-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:2dce7f59-ce77-508b-b3aa-ed4335fb56c4@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Pittsburgh Irish Festival
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260914
-LOCATION:Carrie Furnace\, Rankin/Swissvale\, PA
-DESCRIPTION:Headliners include Ally the Piper\, Screaming Orphans\, and Eileen Ivers & the Brigideens\, plus kids' activities\, ceili dancing\, and Irish food and drink.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-END:VEVENT
-BEGIN:VEVENT
-UID:73a34ee2-22d3-50b6-958a-bae56ebe4d8e@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:FestPGH
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium\, South Shore\, Pittsburgh
-DESCRIPTION:An inaugural music and arts festival featuring headliner Switchfoot\, along with games\, family fun\, service opportunities and worship.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
-URL:https://www.visitpittsburgh.com/blog/music-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:b0aceb13-a42d-5d1e-9dbe-eb7c8a5b170f@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Pop-Punk/Emo Music Festival
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-LOCATION:F.N.B. Stadium\, South Shore\, Pittsburgh
-DESCRIPTION:An annual all-day\, multi-stage festival of pop-punk\, emo\, and indie rock\, held at the home of the Pittsburgh Riverhounds soccer team.\\n\\nhttps://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-URL:https://nextpittsburgh.com/events/pittsburgh-summer-music-festivals-2026-everything-you-need-to-know/
-END:VEVENT
-BEGIN:VEVENT
-UID:5969aa7b-ad4d-58a6-b8aa-0cb7f2da3a85@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Holy Trinity Greek Food Festival
-DTSTART:20260903T150000Z
-DTEND:20260904T010000Z
-RRULE:FREQ=DAILY;UNTIL=20260906T150000Z
-LOCATION:Holy Trinity Greek Orthodox Church\, Pittsburgh\, PA
-DESCRIPTION:An annual Greek food festival held over Labor Day weekend with food and live entertainment.\\n\\nhttps://www.festivals.com/pittsburgh-pennsylvania-us/
-URL:https://www.festivals.com/pittsburgh-pennsylvania-us/
-END:VEVENT
-BEGIN:VEVENT
-UID:8c0de2fd-4cc2-576c-b6ca-c051c8a7cfc3@pghwidget
-DTSTAMP:20260726T121835Z
-SUMMARY:Ukrainian Food Festival (15th Annual)
-DTSTART:20260918T150000Z
-DTEND:20260918T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260919T150000Z
-LOCATION:Sts. Peter & Paul Ukrainian Catholic Church\, Pittsburgh\, PA
-DESCRIPTION:The 15th annual Ukrainian Food Festival held by the parish of Sts. Peter & Paul.\\n\\nhttps://www.festivals.com/pittsburgh-pennsylvania-us/
-URL:https://www.festivals.com/pittsburgh-pennsylvania-us/
+UID:a14e635c-7733-567e-9079-f0f55a0a3ed1@pghwidget
+DTSTAMP:20260727T135224Z
+SUMMARY:Level Red Boxing Free Outdoor Workout
+DTSTART:20260829T140000Z
+DTEND:20260829T150000Z
+DESCRIPTION:A free outdoor group workout event hosted by Level Red Boxing.
 END:VEVENT
 END:VCALENDAR
