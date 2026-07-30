@@ -6,194 +6,214 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:e7c5a235-50d6-558a-975e-84bb09915558@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Nate Bargatze (Comedy)
-DTSTART:20260730T230000Z
-DTEND:20260731T010000Z
-LOCATION:PPG Paints Arena\, Pittsburgh
-DESCRIPTION:A stand-up comedy show by nationally touring comedian Nate Bargatze.\\n\\nhttps://allevents.in/pittsburgh/july
-URL:https://allevents.in/pittsburgh/july
+UID:226901cc-d37c-5c7d-8a13-9c06ec0ab1d2@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Pittsburgh VegFest
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+LOCATION:Allegheny Commons Park\, North Side\, Pittsburgh
+DESCRIPTION:An annual free\, family-friendly celebration of plant-based food\, vendors\, and animal-welfare organizations — its 12th year\, now moved to the first weekend of August.\\n\\nhttps://www.thenorthsidechronicle.com/article/36\,pittsburgh-vegfest-returns
+URL:https://www.thenorthsidechronicle.com/article/36,pittsburgh-vegfest-returns
 END:VEVENT
 BEGIN:VEVENT
-UID:b84aac5c-0976-5c92-b357-157eada846ce@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:CMU Center for New Work & Play On Shakespeare
+UID:21f09136-d18f-5694-8f24-f5718d38cad5@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Lawrenceville Art Crawl
+DTSTART:20260801T160000Z
+DTEND:20260801T180000Z
+LOCATION:Butler St\, Lawrenceville (4327 Butler St\, Pittsburgh\, PA 15201)
+DESCRIPTION:A neighborhood-wide gallery and art-walk event through Lawrenceville's shops\, studios\, and galleries.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd0a094-ae8d-5411-b821-8838427b407a@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Tacos and Tequila Festival (21+)
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+LOCATION:Carson St. Deli & Craft Beer Bar\, South Side\, Pittsburgh
+DESCRIPTION:A music-and-food festival featuring performances by Fat Joe\, Ginuwine\, Pretty Ricky\, Too $hort\, and Ying Yang Twins alongside tacos and tequila tastings.\\n\\nhttps://www.songkick.com/metro-areas/22443-us-pittsburgh
+URL:https://www.songkick.com/metro-areas/22443-us-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:abebe95d-4ed7-5ea1-a087-29c69be28165@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:CMU Center for New Work & Play: On Shakespeare
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260802
-LOCATION:Trust Arts Education Center\, Pittsburgh Cultural District
-DESCRIPTION:A Carnegie Mellon University-produced theater program exploring new works inspired by Shakespeare\, presented through the Pittsburgh Cultural Trust's calendar.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Trust Arts Education Center\, Pittsburgh Cultural Trust
+DESCRIPTION:A theatrical program exploring works of Shakespeare\, presented as part of the Cultural Trust's classical/broadway programming.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:95ab1acd-33de-52bb-bd19-290f69097fea@pghwidget
-DTSTAMP:20260730T021326Z
+DTSTAMP:20260730T094129Z
 SUMMARY:Trust Magic at Liberty Magic
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260802
 LOCATION:Liberty Magic\, Pittsburgh Cultural District
-DESCRIPTION:An ongoing intimate magic performance series hosted at the Cultural Trust's dedicated magic venue.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:An intimate close-up magic show presented by the Pittsburgh Cultural Trust's Trust Magic series.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:acd47485-c1da-5b83-a4e2-289e75610745@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Radiant Hall Event
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-LOCATION:Radiant Hall\, Pittsburgh
-DESCRIPTION:A visual-arts program/exhibition event listed on the Pittsburgh Cultural Trust's community calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:71081e5e-949c-5eff-923f-3acf0174b5aa@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:A Taste of the Pittsburgh Folk Festival
-DTSTART:20260801T150000Z
-DTEND:20260801T170000Z
-LOCATION:1000 Tropical Ave\, Pittsburgh
-DESCRIPTION:A cultural food-and-heritage festival tied to the Pittsburgh Folk Festival tradition.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/food-festivals/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/food-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:f66f2ce5-368f-5d5a-84ef-ced5d1938b7c@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Food Truck Fundraiser and Cornhole Tournament
-DTSTART:20260801T150000Z
-DTEND:20260801T170000Z
-LOCATION:1000 Tropical Ave\, Pittsburgh
-DESCRIPTION:A community fundraiser combining food trucks with a cornhole tournament.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/food-festivals/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/food-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:8a11043f-d9fd-5f64-82a2-d8350be074de@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Tacos and Tequila Festival
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-LOCATION:Deli & Craft Beer Bar\, Pittsburgh (21+ event)
-DESCRIPTION:A music and food festival featuring Ginuwine\, Fat Joe\, Too $hort\, Ying Yang Twins\, Pretty Ricky\, Yung Joc\, Mims\, and Bubba Sparxxx.\\n\\nhttps://www.songkick.com/metro-areas/22443-us-pittsburgh
-URL:https://www.songkick.com/metro-areas/22443-us-pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:de63894d-18c5-5277-aefb-954f4fe5a3a7@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Lawrenceville Art Crawl 2026
-DTSTART:20260801T160000Z
-DTEND:20260801T180000Z
-LOCATION:4327 Butler St\, Pittsburgh\, PA 15201
-DESCRIPTION:A neighborhood-wide crawl showcasing local artists\, galleries\, and studios in Lawrenceville.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:953aa81f-e1cc-535a-988e-4c71be7aa5e5@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Pittsburgh VegFest
-DTSTART:20260801T150000Z
-DTEND:20260801T170000Z
-LOCATION:Allegheny Commons Park\, Pittsburgh
-DESCRIPTION:Pittsburgh's 12th annual VegFest\, held the first weekend of August\, celebrates plant-based eating\, advocacy\, and consumerism.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+UID:6c19164b-27b5-5dd1-a5cb-cbcb1ddb09f5@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Crafted For Action Conference
+DTSTART:20260807T130000Z
+DTEND:20260807T210000Z
+LOCATION:Pittsburgh Marriott City Center
+DESCRIPTION:A pre-Barrel & Flow beer-industry conference with educational sessions\, networking opportunities and informative conversations followed by an Evening Bottle Share\, connecting brewers and attendees from around the world.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:9dfa49ca-a722-5b57-809d-5d13b9d91a04@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:CatVideoFest
+UID:f4222a40-3c60-58a7-b1d1-835d4580e6a9@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:CatVideoFest 2026
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260814
-LOCATION:Row House Cinema\, Pittsburgh
-DESCRIPTION:A curated compilation of cat videos screened theatrically at Row House Cinema.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+LOCATION:Row House Cinema\, Lawrenceville
+DESCRIPTION:A curated theatrical compilation of the year's best cat videos\, animations\, and viral clips shown on the big screen.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:9d48a460-576f-5b64-8c35-603e1e39b07e@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:St. Jude Parish Festival
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260810
-LOCATION:Pittsburgh
-DESCRIPTION:A parish community festival with food\, games\, and entertainment.\\n\\nhttps://festivalguidesandreviews.com/pennsylvania-festivals/
-URL:https://festivalguidesandreviews.com/pennsylvania-festivals/
+UID:bb61f189-c8c6-5f3e-8d79-e4fca327badb@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Barrel & Flow Fest
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:The Stacks at 3 Crossings\, 2875 Railroad St\, Strip District\, Pittsburgh
+DESCRIPTION:The award-winning Barrel & Flow Fest returns to celebrate\, embrace and uplift Black artists\, musicians\, chefs and brewers from around the country\, with 30 Black-owned breweries from more than 15 states and 30 highly anticipated collaborative libations created exclusively for the festival\, plus Black-owned food purveyors\, visual artists\, comedians and writers.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburghs-barrel-flow-fest/
+URL:https://www.visitpittsburgh.com/blog/pittsburghs-barrel-flow-fest/
 END:VEVENT
 BEGIN:VEVENT
-UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
-DTSTAMP:20260730T021326Z
+UID:cacb97b2-a989-53c1-805a-f1b514248b16@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Barrel & Flow After Party
+DTSTART:20260809T010000Z
+DTEND:20260809T050000Z
+RRULE:FREQ=DAILY;UNTIL=20260810T010000Z
+LOCATION:Velum Fermentation\, South Side\, Pittsburgh
+DESCRIPTION:The official after-party for the Barrel & Flow Fest featuring DJs and live music.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a07d931-4cc8-56ac-ac4e-98ecf78330db@pghwidget
+DTSTAMP:20260730T094129Z
 SUMMARY:Iron City Riverfront Throwdown
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
-DESCRIPTION:A brand-new country music festival debuting along the banks of the Allegheny River at Pittsburgh Brewing Company.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+LOCATION:Pittsburgh Brewing Company\, Creighton\, PA (Allegheny River)
+DESCRIPTION:A brand-new country music festival debuting along the scenic banks of the Allegheny River at Pittsburgh Brewing Company.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:7b4bbfb6-6370-5a2a-b768-e968b8443996@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Knotweed Festival
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Blairsville\, PA (Pittsburgh region)
-DESCRIPTION:A regional festival in the greater Pittsburgh area (name suggests a quirky local celebration\, possibly tied to invasive-plant folklore).\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
 UID:e9e1bcd6-ef82-562b-9dc4-ab9021e10b35@pghwidget
-DTSTAMP:20260730T021326Z
+DTSTAMP:20260730T094129Z
 SUMMARY:Little Italy Days
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260817
 LOCATION:Bloomfield\, Pittsburgh
-DESCRIPTION:Bloomfield's Italian heritage festival featuring Italian-themed food\, bocce\, pizza-dough stretching\, dancing\, and traditional entertainment as the region's largest heritage festival.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+DESCRIPTION:A celebration of Bloomfield's Italian heritage with Italian-themed food\, bocce\, pizza-dough stretching lessons\, and traditional entertainment — the region's largest heritage festival.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:47ee0505-c7c6-5a6c-8474-ef187d43a177@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Goo Goo Dolls with Neon Trees
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
-DESCRIPTION:The Goo Goo Dolls\, known for hits like "Iris\," "Slide\," and "Name\," will play the Pavilion at Star Lake with opening act Neon Trees.\\n\\nhttps://new.patch.com/pennsylvania/pittsburgh/goo-goo-dolls-make-pittsburgh-stop
-URL:https://new.patch.com/pennsylvania/pittsburgh/goo-goo-dolls-make-pittsburgh-stop
-END:VEVENT
-BEGIN:VEVENT
-UID:cdd170f9-a91d-5ead-94eb-4aa0979c33e1@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Shadyside "The Art Festival on Walnut Street" (29th Annual)
+UID:7f2f1e0d-1c61-5b36-9cc2-4e6370c6d0a7@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:29th Annual Shadyside — The Art Festival on Walnut Street
 DTSTART:20260822T140000Z
 DTEND:20260822T160000Z
-LOCATION:5428 Walnut St\, Pittsburgh (Shadyside)
-DESCRIPTION:A long-running juried outdoor art festival along Walnut Street featuring local and national artists.\\n\\nhttps://allevents.in/pittsburgh/festivals
+LOCATION:Walnut Street\, Shadyside (5428 Walnut St\, Pittsburgh)
+DESCRIPTION:A long-running outdoor juried art festival lining Shadyside's Walnut Street shopping district.\\n\\nhttps://allevents.in/pittsburgh/festivals
 URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 BEGIN:VEVENT
-UID:dbcb2bb6-dfa3-5bd4-81bc-9e2cd64b8f79@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:August Wilson African American Cultural Center Exhibit
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson Cultural Center\, Pittsburgh
-DESCRIPTION:A visual-arts exhibition at the August Wilson Cultural Center\, part of the Pittsburgh Cultural Trust's calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:148b77cd-867f-5c2b-8d08-3c1276cf6435@pghwidget
-DTSTAMP:20260730T021326Z
-SUMMARY:Pittsburgh Soul Food Festival – "A Soulful Taste of the Burgh"
-DTSTART:20260829T150000Z
-DTEND:20260830T020000Z
-RRULE:FREQ=DAILY;UNTIL=20260831T150000Z
-LOCATION:Downtown Pittsburgh\, Market Square and the Boulevard of the Allies (between Wood St. and Stanwix St.)
-DESCRIPTION:An award-winning Soul Food Festival honoring the rich history of culinary\, butchery and Black food businesses since 1795\, featuring Southern cuisine\, ethnic food vendors\, a BBQ contest\, cultural activities\, craft vendors\, and live entertainment.\\n\\nhttps://www.stoptheviolencepgh.com/a-soulful-taste-of-the-burgh/
-URL:https://www.stoptheviolencepgh.com/a-soulful-taste-of-the-burgh/
-END:VEVENT
-BEGIN:VEVENT
 UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
-DTSTAMP:20260730T021326Z
+DTSTAMP:20260730T094129Z
 SUMMARY:BaconBurgh
 DTSTART:20260830T160000Z
 DTEND:20260830T180000Z
 LOCATION:SouthSide Works\, Pittsburgh
-DESCRIPTION:A bacon-themed food festival held at SouthSide Works.\\n\\nhttps://allevents.in/pittsburgh/festivals
+DESCRIPTION:A bacon-themed food and vendor festival held at SouthSide Works.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
+END:VEVENT
+BEGIN:VEVENT
+UID:47ee0505-c7c6-5a6c-8474-ef187d43a177@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Goo Goo Dolls with Neon Trees
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+LOCATION:The Pavilion at Star Lake\, Burgettstown\, PA
+DESCRIPTION:The Goo Goo Dolls\, best known for hits like "Iris\," "Slide" and "Name\," will play at the Pavilion at Star Lake with opening act Neon Trees.\\n\\nhttps://new.patch.com/pennsylvania/pittsburgh/goo-goo-dolls-make-pittsburgh-stop
+URL:https://new.patch.com/pennsylvania/pittsburgh/goo-goo-dolls-make-pittsburgh-stop
+END:VEVENT
+BEGIN:VEVENT
+UID:783c24e1-5d4d-5580-ba9d-941ed1e19bd2@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Arts Landing (public art installation)
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20261001
+LOCATION:Throughout the Cultural District\, Pittsburgh
+DESCRIPTION:A free\, family-friendly public art and family programming series spanning the Cultural District.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ab0c22-2ef0-57c3-a7c3-295239eafa19@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson African American Cultural Center (AWAACC)\, Downtown Pittsburgh
+DESCRIPTION:A visual-arts exhibition on view at the August Wilson Cultural Center.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:6a053078-5c96-5b29-a697-8e75f5ef2b0d@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Harris Theater Film Series
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260814
+LOCATION:Harris Theater\, Pittsburgh Cultural Trust
+DESCRIPTION:A rotating film series presented by the Pittsburgh Cultural Trust at the Harris Theater.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:09a9736c-83d9-5c82-b3d3-7ea7104e79f1@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Pittsburgh Steelers Training Camp
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260818
+LOCATION:Saint Vincent College\, Latrobe\, PA
+DESCRIPTION:Fans can get their Pittsburgh Steelers fix at Saint Vincent College training camp\, with practices scheduled through August 17\, 2026\; the event is free but guests must register in advance.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0db97f-9bd9-5505-88ef-7987fa12af54@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Pittsburgh International Jazz Festival (PIJF)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:Pittsburgh's premier music festival\, hosting live jazz music with renowned artists from around the world at Highmark Stadium.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
+URL:https://www.visitpittsburgh.com/blog/music-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc9ecdf-9d04-52fb-b2de-fa199cfb922c@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:FestPGH
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:The inaugural FestPGH music and arts festival will fill Highmark Stadium with music from bands including headliner Switchfoot\, plus games\, family fun\, and service opportunities.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
+URL:https://www.visitpittsburgh.com/blog/music-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:276d46cb-e33f-5268-b864-8d690770ab99@pghwidget
+DTSTAMP:20260730T094129Z
+SUMMARY:Four Chord Music Festival 12 (presented by Smartpunk)
+DTSTART:20260925T163000Z
+DTEND:20260925T183000Z
+LOCATION:F.N.B. Stadium (Acrisure Stadium grounds)\, Pittsburgh
+DESCRIPTION:An all-day\, multi-stage pop-punk/emo/indie-rock festival.\\n\\nhttps://allevents.in/pittsburgh/festivals
 URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 END:VCALENDAR
