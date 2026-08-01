@@ -6,263 +6,133 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:be8ef7ee-438f-5101-b10c-3f8b81d0bbd1@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Pittsburgh VegFest
+UID:86655039-c283-5ef8-ba03-484eb0950a24@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh VegFest 2026
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-LOCATION:North Side\, Pittsburgh
-DESCRIPTION:VegFest's 12th annual event\, featuring dozens of vegan food vendors and restaurants.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:North Side\, Pittsburgh\, PA
+DESCRIPTION:Annual VegFest featuring several dozen restaurants and vendors sharing the love for all things vegan food.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:a4da0b74-6d45-5479-80b3-681d9922f2aa@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Harambee Ujima Black Arts Festival
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-LOCATION:708 N. Homewood Ave.\, Pittsburgh
-DESCRIPTION:Celebrates and preserves Black culture\, creativity\, and unity through music\, dance\, visual art\, and spoken word.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:4759f0ad-0626-537e-a034-10c4d413de70@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Live Comedy at Pittsburgh Improv
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-LOCATION:Pittsburgh Improv\, Homestead\, PA
-DESCRIPTION:Scheduled comedy performance at Pittsburgh Improv\, part of a busy August of concerts and comedy shows.\\n\\nhttps://pittsburgh.events/concerts/august/
-URL:https://pittsburgh.events/concerts/august/
-END:VEVENT
-BEGIN:VEVENT
-UID:7db6e3f5-9e53-5856-b7d2-a78ba4ef61bc@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Play On Shakespeare
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-LOCATION:Trust Arts Education Center\, Cultural District\, Pittsburgh
-DESCRIPTION:A theatrical presentation from CMU's Center for New Work & Play On Shakespeare program.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:bd9aad96-d52b-5935-9569-baf4d655e968@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:The Black Keys
-DTSTART:20260802T233000Z
-DTEND:20260803T013000Z
-LOCATION:Stage AE\, Pittsburgh
-DESCRIPTION:The Black Keys perform live at Stage AE.\\n\\nhttps://allevents.in/pittsburgh/august
-URL:https://allevents.in/pittsburgh/august
-END:VEVENT
-BEGIN:VEVENT
-UID:9dfa49ca-a722-5b57-809d-5d13b9d91a04@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:CatVideoFest
+UID:d016a606-a04d-5cbb-97be-8d1469de429a@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:CatVideoFest 2026
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260814
-LOCATION:Row House Cinema\, Pittsburgh
-DESCRIPTION:A compilation reel of the internet's best cat videos\, shown multiple times daily.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+LOCATION:Row House Cinema\, Pittsburgh\, PA
+DESCRIPTION:A curated compilation film festival of cat videos running Aug. 7-13 at Row House Cinema.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:9cb4fd7c-e5a5-5bf2-be65-e9fa24a28b92@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Barrel & Flow Fest
+UID:111a3c90-edc4-51a7-a30b-4f200761732c@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Barrel & Flow Fest 2026
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-LOCATION:Stacks at 3 Crossings\, Strip District\, Pittsburgh
-DESCRIPTION:Featuring 30 Black-owned breweries\, food purveyors\, visual artists\, comedians and a STEAM tent for kids.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Stacks at 3 Crossings\, Strip District\, Pittsburgh\, PA
+DESCRIPTION:Beer festival celebrating Black brewers and local artists\, featuring 30 Black-owned breweries and collaborative libations\, music and food.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
 UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
-DTSTAMP:20260801T103112Z
+DTSTAMP:20260801T163857Z
 SUMMARY:Iron City Riverfront Throwdown
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
-DESCRIPTION:A new country music festival along the Allegheny River at Pittsburgh Brewing Company.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
-URL:https://www.visitpittsburgh.com/blog/music-festivals/
+DESCRIPTION:A brand-new country music festival debuting along the scenic banks of the Allegheny River.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:f38f26d1-f300-5822-a02c-f0e2e886645e@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Knotweed Festival
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Blairsville\, PA
-DESCRIPTION:Regional festival near Pittsburgh.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:2a011329-268d-5904-9216-7859327c4965@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:The Cook Farm 250th Celebration
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-LOCATION:Belle Vernon\, PA
-DESCRIPTION:Celebration of the Cook Farm's 250th anniversary.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:2f66516e-6abf-5ac7-8fbe-31784a70b434@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Greene County Fair
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260816
-LOCATION:Waynesburg\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:1c2ee091-52b7-56e4-b66e-6ec8ad9d1e95@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Huntingdon County Fair
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260816
-LOCATION:Huntingdon\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:2ee3bf48-4212-5bc2-9e96-01273489b38f@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Warren County Fair
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260817
-LOCATION:Pittsfield\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:eccdcd85-8529-52b0-96ba-cc59a50e2dc0@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Butler Farm Show
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260816
-LOCATION:Butler\, PA
-DESCRIPTION:Annual farm show.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:affdd313-ea95-52fb-8db6-402bdddeae28@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Tioga County Fair
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260816
-LOCATION:Wellsboro\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:d4545620-00ec-5e07-95e2-5c7390c93452@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Dawson Grange Community Fair
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260816
-LOCATION:Dawson\, PA
-DESCRIPTION:Community fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:92c490a0-0e03-54d7-8fa7-96085eda54ba@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Blue Valley Farm Show
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260816
-LOCATION:Bangor\, PA
-DESCRIPTION:Annual farm show.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:f8732c65-0324-5175-a853-7ea513915a29@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Erie County Fair
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260824
-LOCATION:Wattsburg\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-END:VEVENT
-BEGIN:VEVENT
-UID:d41d8dce-655c-5379-8937-85b493c857c9@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Fedd The God w/ NASH.V.ILL (Taylor Gang & Club Cafe Present)
-DTSTART:20260814T000000Z
-DTEND:20260814T020000Z
-LOCATION:Club Cafe\, Pittsburgh
-DESCRIPTION:Taylor Gang and Club Cafe present Fedd The God w/ NASH.V.ILL.\\n\\nhttps://allevents.in/pittsburgh/august
-URL:https://allevents.in/pittsburgh/august
-END:VEVENT
-BEGIN:VEVENT
-UID:e9e1bcd6-ef82-562b-9dc4-ab9021e10b35@pghwidget
-DTSTAMP:20260801T103112Z
+UID:995bc235-4634-5772-8fce-23e0d7f36c42@pghwidget
+DTSTAMP:20260801T163857Z
 SUMMARY:Little Italy Days
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260817
-LOCATION:Bloomfield\, Pittsburgh
-DESCRIPTION:Celebrate Bloomfield's Italian heritage with food\, bocce\, pizza dough stretching\, and dancing.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+LOCATION:Bloomfield\, Pittsburgh\, PA
+DESCRIPTION:Celebration of Bloomfield's Italian heritage featuring Italian-themed food\, bocce\, pizza dough stretching\, and traditional entertainment.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 END:VEVENT
 BEGIN:VEVENT
-UID:2b48520d-9699-5b29-b36d-29dc0f43883f@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Fair in the Woodlands
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260816
-LOCATION:Clinton\, PA
-DESCRIPTION:Regional fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:d08d723e-2f8d-5513-9019-d5970e6a8f6e@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Knotweed Festival
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:Blairsville\, PA (Greater Pittsburgh region)
+DESCRIPTION:A regional summer festival held near Pittsburgh in Blairsville\, PA.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 END:VEVENT
 BEGIN:VEVENT
-UID:9978103c-4d11-5990-b1db-79e3c179a9c0@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Somerset County Fair
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260824
-LOCATION:Meyersdale\, PA
-DESCRIPTION:Annual county fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:3b97eabe-baf8-5510-a473-c24583d0601b@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh Steelers Preseason Home Game vs. Green Bay Packers
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:NFL preseason game against the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:a6a70d45-cdc1-56ff-baa7-2b9ebb73d8e0@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Washington County Agricultural Fair
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260823
-LOCATION:Washington\, PA
-DESCRIPTION:Annual agricultural fair.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:e0c4f4c3-b2d8-5edc-9a78-dd50b2a8f94a@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Steelers Tailgate
+DTSTART:20260813T200000Z
+DTEND:20260813T220000Z
+LOCATION:400 N Shore Dr\, Pittsburgh\, PA 15212
+DESCRIPTION:Pre-game tailgate event held ahead of the Steelers' preseason home game.\\n\\nhttps://allevents.in/pittsburgh/august
+URL:https://allevents.in/pittsburgh/august
 END:VEVENT
 BEGIN:VEVENT
-UID:ff9d1472-32e7-5118-8ec9-2d25f06d83df@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Summer Flower Show: Alice's Adventures in Wonderland
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260928
-LOCATION:Phipps Conservatory and Botanical Gardens
-DESCRIPTION:Story book scenes brought to life with colorful interactive elements\, topiary creatures\, and unique foliage.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:e38e5b67-f7fd-57d4-8b72-1489f497fe24@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh Steelers Preseason Home Game vs. New York Jets
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Second of two Steelers preseason home games this August.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:3a739a89-5f28-5661-9f5a-2e2d5c16d2a2@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:French Moderns: Matisse\, Monet\, and their Contemporaries
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20261012
-LOCATION:The Frick Pittsburgh
-DESCRIPTION:An exhibit exploring French modernist painters.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:26b21c06-7aa6-50c1-a15f-335b15fa05fb@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh Pirates "Pup Night"
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+LOCATION:PNC Park\, Pittsburgh\, PA
+DESCRIPTION:Themed Pirates home game promotion welcoming dogs to the ballpark.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:1ffbdee1-0c88-51f5-b3ea-e24dd545eee1@pghwidget
-DTSTAMP:20260801T103112Z
-SUMMARY:Pittsburgh Ballet Theatre — Arts Landing
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260927
-LOCATION:Arts Landing\, Cultural District\, Pittsburgh
-DESCRIPTION:A free\, ongoing workshop and class series presented by Pittsburgh Ballet Theatre.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:cc88c7c0-f850-5f13-a2ac-b1a67f5c8542@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh Pirates Luau Weekend
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260811
+LOCATION:PNC Park\, Pittsburgh\, PA
+DESCRIPTION:A tropical-themed weekend of Pirates home games.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:4e62134c-820a-525f-8c84-71c9ad7d867d@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
+DTSTART:20260822T224000Z
+DTEND:20260823T004000Z
+LOCATION:PNC Park\, Pittsburgh\, PA
+DESCRIPTION:The Pirates play the Rockies with a scheduled fireworks night.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:6249b855-6707-52e8-93ea-fd42c7d301f5@pghwidget
+DTSTAMP:20260801T163857Z
+SUMMARY:Bakery Square Outdoor Circuit Workout (Level Red Boxing)
+DTSTART:20260829T140000Z
+DTEND:20260829T150000Z
+LOCATION:Sally's Path\, Bakery Square\, Pittsburgh\, PA
+DESCRIPTION:A free\, high-energy outdoor boxing-inspired circuit workout\, no equipment or experience necessary.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 END:VCALENDAR
