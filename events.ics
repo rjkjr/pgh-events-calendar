@@ -6,194 +6,243 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ee16c268-a907-50ce-9a00-03f0f87e8976@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Mohini Dey (concert)
-DTSTART:20260805T233000Z
-DTEND:20260806T013000Z
-LOCATION:Pittsburgh\, PA
-DESCRIPTION:A live concert performance scheduled as the next upcoming event on Pittsburgh's daily-updated event calendar.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
+UID:eebcf0a0-65b7-560b-a70d-b7fa21c788e6@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Steelers Preseason: vs. Houston Texans
+DTSTART:20260805T230000Z
+DTEND:20260806T010000Z
+LOCATION:Acrisure Stadium\, Pittsburgh
+DESCRIPTION:The Steelers face the Houston Texans in an NFL preseason home game on the North Shore.\\n\\nhttps://allevents.in/pittsburgh/august
+URL:https://allevents.in/pittsburgh/august
 END:VEVENT
 BEGIN:VEVENT
-UID:fcaff6fe-16f8-54d4-b46b-14eea4ec9850@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:CatVideoFest
+UID:f4222a40-3c60-58a7-b1d1-835d4580e6a9@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:CatVideoFest 2026
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260814
-LOCATION:Row House Cinema
-DESCRIPTION:A film festival celebrating cat videos\, running at Row House Cinema.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+LOCATION:Row House Cinema\, Lawrenceville
+DESCRIPTION:A touring compilation film celebrating the internet's favorite cat videos\, screened at the historic Row House Cinema.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:4d428032-985f-583e-ba78-11f0c9e65664@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:fireWALL Dance Theater performance
+UID:6d147a1d-3454-55ad-b026-d051c0abc030@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:fireWALL Dance Theater
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260809
 LOCATION:Greer Cabaret Theater
-DESCRIPTION:A ballet and dance performance presented by fireWALL Dance Theater as part of the Pittsburgh Cultural Trust's calendar.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:A contemporary dance performance staged as part of the Pittsburgh Cultural Trust's season.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:e1bcac00-beb3-5f67-a84c-f02908fa4f51@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Barrel & Flow Fest
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:The Stacks at 3 Crossings\, Strip District
+DESCRIPTION:A celebration of Black-owned breweries and local artists that\, per organizers\, will anchor 2026's festivities with 30 Black-owned breweries from more than 15 states and 30 collaborative beers made exclusively for the fest.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:85ea3401-7248-5603-a3be-4d15150b2c77@pghwidget
-DTSTAMP:20260805T175833Z
+DTSTAMP:20260806T001140Z
 SUMMARY:Iron City Riverfront Throwdown
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 LOCATION:Pittsburgh Brewing Company\, Creighton\, PA
-DESCRIPTION:A brand-new country music festival debuting along the banks of the Allegheny River at Pittsburgh Brewing Company in Creighton\, Pennsylvania.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+DESCRIPTION:A brand-new country music festival\, described as Pittsburgh Brewing Company "turning up the volume this summer" along the banks of the Allegheny River.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:93009aa4-07b7-56f5-85ab-33337739880d@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Riverhounds SC home match
+UID:717f25bb-2373-5ccf-9360-84f813c67bb7@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 LOCATION:Highmark Stadium\, Station Square
-DESCRIPTION:The Riverhounds soccer team plays at home at Highmark Stadium in Station Square.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:A USL Championship home soccer match for Pittsburgh's professional soccer club.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:f60ea4c8-9603-5da6-b9a7-bc0b0b38e408@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Pirates Luau Weekend
+UID:4219a184-f576-5571-a5c0-612efe040a4c@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pirates Luau Weekend
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260811
 LOCATION:PNC Park
-DESCRIPTION:The Pirates host a themed Luau Weekend as part of their August home game schedule.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:A themed weekend of Pirates home baseball games with Hawaiian/Luau promotions.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:995bc235-4634-5772-8fce-23e0d7f36c42@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Little Italy Days
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260817
-LOCATION:Bloomfield\, Pittsburgh\, PA
-DESCRIPTION:A multi-day heritage festival celebrating Bloomfield's Italian heritage with food\, bocce\, pizza dough stretching and entertainment.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:e0171ccd-65c3-5624-b96e-cb8418130c2b@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Knotweed Festival
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+LOCATION:Blairsville\, PA (Indiana County\, near Pittsburgh)
+DESCRIPTION:A regional community festival held in the Pittsburgh metro area.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d95bb6-9a21-54d9-aa2f-097473aa9a19@pghwidget
-DTSTAMP:20260805T175833Z
+UID:ae0fcff1-4569-55dd-9149-8e52927159ec@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Cultural Trust Film Series
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260810
+LOCATION:Harris Theater\, Downtown Pittsburgh
+DESCRIPTION:Ongoing film programming from the Pittsburgh Cultural Trust at its Harris Theater venue.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a09e2e23-31fe-5512-a119-64f500ce58eb@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+LOCATION:Highmark Stadium\, Station Square
+DESCRIPTION:Another USL Championship home match for the Riverhounds.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:766140e5-9d10-5cef-90b5-c7bb61497a10@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Steelers Preseason: vs. Green Bay Packers
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+LOCATION:Acrisure Stadium\, Pittsburgh
+DESCRIPTION:An NFL preseason home game against the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c4f4c3-b2d8-5edc-9a78-dd50b2a8f94a@pghwidget
+DTSTAMP:20260806T001140Z
 SUMMARY:Steelers Tailgate
 DTSTART:20260813T200000Z
 DTEND:20260813T220000Z
-LOCATION:400 N Shore Dr\, Pittsburgh\, PA
-DESCRIPTION:A pre-game tailgate gathering near Acrisure Stadium ahead of Steelers preseason action.\\n\\nhttps://allevents.in/pittsburgh/august
+LOCATION:400 N Shore Dr\, Pittsburgh\, PA 15212
+DESCRIPTION:A pre-game tailgate gathering held near Acrisure Stadium on Steelers game day.\\n\\nhttps://allevents.in/pittsburgh/august
 URL:https://allevents.in/pittsburgh/august
 END:VEVENT
 BEGIN:VEVENT
-UID:f3102454-b343-594f-8f52-e00ea37b9110@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Steelers preseason game vs. Green Bay Packers
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-LOCATION:Acrisure Stadium
-DESCRIPTION:An NFL preseason home game as the Steelers face the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+UID:6bb94815-5e2e-5120-9909-d89c6dd2e376@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Taylor Gang and Club Cafe Present: Fedd The God w/ NASH.V.ILL
+DTSTART:20260814T000000Z
+DTEND:20260814T020000Z
+LOCATION:Club Cafe\, South Side
+DESCRIPTION:A hip-hop concert featuring Fedd The God with support from NASH.V.ILL.\\n\\nhttps://allevents.in/pittsburgh/august
+URL:https://allevents.in/pittsburgh/august
 END:VEVENT
 BEGIN:VEVENT
-UID:b47b69ff-2c89-5930-9e60-2c31e999e0b6@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Steelers Training Camp (open practices)
+UID:e9e1bcd6-ef82-562b-9dc4-ab9021e10b35@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Little Italy Days
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260817
+LOCATION:Bloomfield\, Pittsburgh
+DESCRIPTION:Bloomfield's annual heritage festival where attendees can enjoy Italian-themed food\, play bocce\, and learn to stretch pizza dough amid traditional entertainment.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e738f2-6cc2-5758-9705-0c3f598ad89d@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Steelers Training Camp Practices
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260818
 LOCATION:Saint Vincent College\, Latrobe\, PA
-DESCRIPTION:The Steelers hold open training camp practices at St. Vincent's College in Latrobe\, free to attend but requiring advance registration.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:Free public Steelers practice sessions ahead of the regular season\, with advance registration required in 2026.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:c460165f-d30f-5e40-a770-8293becbf21e@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Allegheny County Summer Concert Series (South Park)
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260901
-LOCATION:South Park\, Allegheny County
-DESCRIPTION:Free outdoor summer concerts including performances by Mathias Lattin\, the Women in Jazz Festival\, Tamburitzans\, and a 'Summer of Love' show.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:705d893c-4bd4-5ba8-a6e8-f2fa9967394a@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Allegheny County Summer Concert Series (Hartwood Acres)
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260901
-LOCATION:Hartwood Acres
-DESCRIPTION:Part of the Allegheny County Summer Concert series\, offering free outdoor live music at Hartwood Acres.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:083856d8-1655-5922-9bf0-d97d0b5db5af@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Steelers preseason game vs. New York Jets
+UID:0169cf1b-ef9c-5dd8-bab7-9c90c132148c@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Steelers Preseason: vs. New York Jets
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-LOCATION:Acrisure Stadium
-DESCRIPTION:The second Steelers home preseason game of August\, against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Acrisure Stadium\, Pittsburgh
+DESCRIPTION:An NFL preseason home game against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:34f5f0ac-77f1-5d8c-a684-821429cb63da@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Pirates Fireworks Night vs. Colorado Rockies
+UID:33f09174-41b7-53f1-9010-af9cb081432b@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:29th Annual Shadyside — The Art Festival on Walnut Street
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+LOCATION:Walnut Street\, Shadyside (5428 Walnut St)
+DESCRIPTION:A long-running outdoor art festival lining Shadyside's Walnut Street shopping district with juried artists and vendors.\\n\\nhttps://allevents.in/pittsburgh/festivals
+URL:https://allevents.in/pittsburgh/festivals
+END:VEVENT
+BEGIN:VEVENT
+UID:936273c9-4747-514b-9109-76846835a7fc@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pirates Fireworks Night vs. Colorado Rockies
 DTSTART:20260822T224000Z
 DTEND:20260823T004000Z
 LOCATION:PNC Park
-DESCRIPTION:A Pirates home game against the Rockies featuring a scheduled post-game fireworks show.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:A Pirates home game against the Rockies capped with a post-game fireworks show.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:7ce335b5-d203-529f-b1da-43b041138b52@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Shadyside The Art Festival on Walnut Street (29th Annual)
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-LOCATION:5428 Walnut St\, Pittsburgh\, PA (Shadyside)
-DESCRIPTION:The 29th annual Shadyside art festival on Walnut Street\, featuring local artists and vendors.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
+UID:e61704f6-05db-5590-b47c-274d8642dd5f@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Visual Arts Exhibition
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson African American Cultural Center
+DESCRIPTION:A visual arts exhibition on view at the August Wilson Cultural Center as part of its 2026 programming.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:f612bd15-7692-5b4b-8e46-c34b3e7c83b0@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Pittsburgh Riverhounds SC home match
+UID:2067a28c-e0a4-58c4-a7df-583c23a4c28e@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 LOCATION:Highmark Stadium\, Station Square
-DESCRIPTION:Another Riverhounds home match at Highmark Stadium as part of their August schedule.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:The Riverhounds' final home match of the month in August 2026.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:c14ac221-41f9-510b-bda7-7185744783ce@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Box (Bakery Square outdoor boxing workout)
+UID:f9ab2092-7999-59ab-97dc-173931ad7f57@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Free Outdoor Boxing Circuit Workout
 DTSTART:20260829T140000Z
 DTEND:20260829T150000Z
 LOCATION:Sally's Path\, Bakery Square
-DESCRIPTION:A free outdoor circuit workout with Level Red Boxing at Sally's Path\, high-energy boxing-inspired session requiring no equipment or experience.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+DESCRIPTION:A free\, no-equipment-needed outdoor boxing-inspired circuit workout hosted with Level Red Boxing.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:5ac525cf-ea4f-5cf7-880d-4379ac51c7dd@pghwidget
-DTSTAMP:20260805T175833Z
+UID:841def99-f18d-5611-8523-1f4a3abf1d10@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Arts Landing Free Community Programming
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260918
+LOCATION:Arts Landing\, Pittsburgh Cultural Trust
+DESCRIPTION:A free ongoing series presented by the Pittsburgh Cultural Trust and PUMP at the Arts Landing space downtown.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:60a6d876-d867-519d-941d-1f9783eb3b2f@pghwidget
+DTSTAMP:20260806T001140Z
+SUMMARY:Arts Landing Ballet & Dance Workshops & Classes
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260917
+LOCATION:Arts Landing\, Pittsburgh Cultural Trust
+DESCRIPTION:Free ballet and dance workshops and classes offered by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
+DTSTAMP:20260806T001140Z
 SUMMARY:BaconBurgh
 DTSTART:20260830T160000Z
 DTEND:20260830T180000Z
-LOCATION:SouthSide Works
-DESCRIPTION:A bacon-themed food festival held at SouthSide Works.\\n\\nhttps://allevents.in/pittsburgh/festivals
+LOCATION:SouthSide Works\, Pittsburgh
+DESCRIPTION:A bacon-themed food festival held at the SouthSide Works retail and entertainment complex.\\n\\nhttps://allevents.in/pittsburgh/festivals
 URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:9f1f6048-4110-52eb-89f2-1b77d216c7a3@pghwidget
-DTSTAMP:20260805T175833Z
-SUMMARY:Love Island USA Watch Party
-DTSTART:20260812T010000Z
-DTEND:20260812T030000Z
-RRULE:FREQ=DAILY;UNTIL=20260826T010000Z
-LOCATION:Bakery Square Courtyard
-DESCRIPTION:A weekly outdoor watch party for 'Love Island USA\,' with attendees encouraged to bring their own blanket or lawn chair.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
 END:VEVENT
 END:VCALENDAR
