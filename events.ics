@@ -6,235 +6,346 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+UID:f3c49da3-700b-5f20-bec5-85a4862ada84@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Restaurant Week (Summer 2026)
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260817
+LOCATION:Multiple restaurants citywide (Downtown\, Northside\, Southside\, North Hills\, South Hills\, Monroeville/Murrysville)
+DESCRIPTION:Pittsburgh's Restaurant Week runs August 10th through the 16th this year\, with some locations having an early-access period.\\n\\nhttps://pittsburghrestaurantweek.com/
+URL:https://pittsburghrestaurantweek.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:2d69a562-ba73-5b39-8c1e-52dd9d016ea9@pghwidget
-DTSTAMP:20260810T160634Z
+DTSTAMP:20260810T221037Z
 SUMMARY:CatVideoFest 2026
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260814
 LOCATION:Row House Cinema\, Lawrenceville
-DESCRIPTION:The CatVideoFest runs Aug. 7-13 at Row House Cinema\, offering a 70-minute reel of the funniest\, cutest and craziest cat videos culled from thousands of submissions as part of a national tour.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
-URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+DESCRIPTION:The planet's premiere purr-fest is prowling back into Lawrenceville as part of a national tour\, uniting feline fans around a joyous\, communal\, theatrical experience showcasing cat videos.\\n\\nhttps://nextpittsburgh.com/events/14-things-to-do-this-weekend-in-pittsburgh-aug-6-9/
+URL:https://nextpittsburgh.com/events/14-things-to-do-this-weekend-in-pittsburgh-aug-6-9/
 END:VEVENT
 BEGIN:VEVENT
-UID:b496c334-7124-50d7-9dc4-88950d4a2e51@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Restaurant Week (Summer 2026 edition)
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260817
-LOCATION:Multiple restaurant locations citywide
-DESCRIPTION:Pittsburgh Restaurant Week Summer 2026 edition runs at multiple locations\, Aug. 10-16\, with dining specials highlighting the wide-ranging dining options Pittsburgh has to offer.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
-URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:f563aa6f-06e8-5b7c-804c-405652a4f03b@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Bloomfield Little Italy Days
-DTSTART:20260813T210000Z
-DTEND:20260814T210000Z
-RRULE:FREQ=DAILY;UNTIL=20260816T210000Z
-LOCATION:Liberty Avenue\, Bloomfield (from Ella St. to Gross St.)
-DESCRIPTION:Since 2002\, Little Italy Days has been the go-to cultural festival in the Bloomfield neighborhood of Pittsburgh\, featuring vendors\, local businesses\, and authentic Italian-American cuisine.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
-URL:https://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:344941de-a24f-5c3a-a07a-4de5e7b822f9@pghwidget
-DTSTAMP:20260810T160634Z
+UID:28efb3f7-1682-5b6b-ad47-bb32905451ad@pghwidget
+DTSTAMP:20260810T221037Z
 SUMMARY:Iron City Comedy Festival: Laughs On Draft
-DTSTART:20260815T160000Z
-DTEND:20260815T180000Z
-LOCATION:Pittsburgh Brewing Co.\, Creighton
-DESCRIPTION:A comedy festival event held at Pittsburgh Brewing Co.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
-URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+LOCATION:Pittsburgh Brewing Company\, 150 Ferry St.\, Creighton
+DESCRIPTION:A comedy festival at Pittsburgh Brewing Company in Creighton with doors at 12 p.m.\, tickets $30 early bird/$40 general admission.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8dbe00-f305-5084-8702-b7f15cb5520f@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Vintage Mixer Night
+DTSTART:20260820T210000Z
+DTEND:20260821T010000Z
+LOCATION:Phipps Conservatory and Botanical Gardens\, Oakland
+DESCRIPTION:A market event to shop among the flowers\, featuring vendors selling quality second-hand goods including clothing\, accessories\, home decor and vinyl.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
 END:VEVENT
 BEGIN:VEVENT
 UID:1b48a0f3-3261-5837-af6e-f8e5bd9086ec@pghwidget
-DTSTAMP:20260810T160634Z
+DTSTAMP:20260810T221037Z
 SUMMARY:The Sound of the Steel City Inaugural Scholarship Gala
 DTSTART:20260816T210000Z
 DTEND:20260817T033000Z
 LOCATION:Event Center at Rivers Casino
-DESCRIPTION:An inaugural scholarship gala event held at the Event Center at Rivers Casino.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+DESCRIPTION:A scholarship fundraising gala event at Rivers Casino's Event Center.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:a91c6898-cb16-55cb-83b7-97d1098336d0@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Vintage Mixer Night
-DTSTART:20260820T210000Z
-DTEND:20260821T010000Z
-LOCATION:Phipps Conservatory and Botanical Gardens
-DESCRIPTION:A vintage-themed evening mixer event at Phipps Conservatory and Botanical Gardens.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
-URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+UID:0108fb7b-3682-5f15-8f04-eb5630c6ea69@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Bloomfield Little Italy Days
+DTSTART:20260813T210000Z
+DTEND:20260813T230000Z
+RRULE:FREQ=DAILY;UNTIL=20260816T210000Z
+LOCATION:Liberty Avenue (Ella St. to Gross St.)\, Bloomfield
+DESCRIPTION:Free festival celebrating Bloomfield's Italian-American culture\, featuring a block party with authentic cuisine\, vendors\, Vito from the Sopranos Q&A\, Miss Little Italy Pageant\, and Celebrity Bocce Challenge.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
+URL:https://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
 END:VEVENT
 BEGIN:VEVENT
-UID:0b6166c6-0831-5524-a014-394a263a9059@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Jon Tai in "Road Signs"
-DTSTART:20260810T233000Z
-DTEND:20260811T013000Z
-RRULE:FREQ=DAILY;UNTIL=20260829T233000Z
-LOCATION:Liberty Magic\, 811 Liberty Ave.\, Downtown
-DESCRIPTION:A magic show\, Jon Tai in Road Signs\, continuing at Liberty Magic\, tickets $55.20–89.70.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+UID:f8bb4d39-5032-534a-b533-75068645f379@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Cannabis Fest
+DTSTART:20260816T150000Z
+DTEND:20260816T210000Z
+LOCATION:Allegheny Commons Park\, North Side
+DESCRIPTION:A festival at Allegheny Commons Park on the North Side requiring RSVP.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:797787ed-a3fb-5c2d-875b-84c6dbffe7f6@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Lawrenceville Art Crawl
+DTSTART:20260820T160000Z
+DTEND:20260821T020000Z
+LOCATION:Butler Street (36th to 52nd Street)\, Lawrenceville
+DESCRIPTION:Presented by Redfishbowl\, featuring over 200 artists\, over 75 live bands\, DJ sets\, and more at over 45 participating businesses\, concluding with a 21-and-over after-party.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d05c50-f021-5a05-b0d6-5a79a789f2df@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Kennywood Fall Fantasy Parades
+DTSTART:20260820T150000Z
+DTEND:20260821T000000Z
+RRULE:FREQ=DAILY;UNTIL=20260822T150000Z
+LOCATION:Kennywood\, 4800 Kennywood Blvd.\, West Mifflin
+DESCRIPTION:A 76-year tradition including more than 130 local marching bands and a Mardi Gras theme with live music\, specialty food and drinks\, and a French Quarter block party.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:3df16097-5318-560f-92b7-cd1c30251dce@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:PedalPGH
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+LOCATION:Allegheny Commons Park (Start Line)
+DESCRIPTION:Pittsburgh's favorite celebration on two wheels returns\, with routes of 10-mile\, 25-mile\, and 53-mile lengths. Proceeds benefit BikePGH.\\n\\nhttps://www.pittsburghmagazine.com/7-things-to-do-in-august/
+URL:https://www.pittsburghmagazine.com/7-things-to-do-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9df65c8-892c-5202-bc9d-630c6fd4c7c6@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Zac Brown Band with Old Crow Medicine Show
+DTSTART:20260813T230000Z
+DTEND:20260814T010000Z
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave.\, North Shore
+DESCRIPTION:A concert at PPG Paints Arena on the North Shore with tickets starting at $52.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
 URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:36b57f0a-b30e-5e70-9f10-190ed573bd3e@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Free Concert at Arts Landing (Cultural Trust x MCG Jazz)
+UID:25d820bf-da9e-5264-b76c-25d4550220e2@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Todd Rundgren: Damned If I Do Tour
+DTSTART:20260814T230000Z
+DTEND:20260815T010000Z
+LOCATION:Stage AE\, North Shore
+DESCRIPTION:A live concert performance from veteran rock artist Todd Rundgren.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:11ce013d-f0e7-5f37-b31f-4c371a137cb3@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Courtney Barnett
+DTSTART:20260812T230000Z
+DTEND:20260813T010000Z
+LOCATION:Roxian Theatre\, 425 Chartiers Ave.\, McKees Rocks\, PA
+DESCRIPTION:A concert by Courtney Barnett at Roxian Theatre in McKees Rocks.\\n\\nhttps://pittsburgh.events/calendar/
+URL:https://pittsburgh.events/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0754276-e18d-51b3-b41a-bc462e41810c@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:White Trash Bash featuring Abhora and Priscilla Chambers
+DTSTART:20260816T000000Z
+DTEND:20260816T020000Z
+LOCATION:Mr. Smalls Theatre\, 400 Lincoln Ave.\, Millvale
+DESCRIPTION:A drag show at Mr. Smalls Theatre in Millvale\, tickets $34.48 in advance/$41.16 at the door.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4efe204-ddec-5437-84b5-1013bc52782f@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:The Mountain Goats
+DTSTART:20260817T000000Z
+DTEND:20260817T020000Z
+LOCATION:Mr. Smalls Theatre\, 400 Lincoln Ave.\, Millvale
+DESCRIPTION:A live music performance at Mr. Smalls Theatre\, tickets $63.31 in advance/$70 at the door.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:d945fdbd-8c71-50ec-8d6f-caa3d09e89ab@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Everclear with Turbo Lovers and Motorcycle Drive By
+DTSTART:20260821T000000Z
+DTEND:20260821T020000Z
+LOCATION:Jergel's Rhythm Grille\, 103 Slade Ln.\, Warrendale
+DESCRIPTION:A 21-and-over rock concert at Jergel's Rhythm Grille\, tickets $68.15–$265.65.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbef4d2-6470-513c-a79b-8c9334b330ba@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:MCG Jazz Concert
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 LOCATION:Arts Landing\, Pittsburgh Cultural Trust
-DESCRIPTION:A free live-music concert presented in partnership with MCG Jazz at Arts Landing.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:A free live music concert presented in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:ea03463a-4b1a-5eeb-9673-a8d8b8daee8e@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Harris Theater Film Series (continuing run)
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260814
-LOCATION:Harris Theater\, Pittsburgh Cultural Trust
-DESCRIPTION:A film program running at the Harris Theater\, presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:cf3b8550-8b35-5183-b481-dd871ea2e0f7@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Andy Malone
+DTSTART:20260813T230000Z
+DTEND:20260814T010000Z
+RRULE:FREQ=DAILY;UNTIL=20260816T230000Z
+LOCATION:City Theatre\, 1300 Bingham St.\, South Side
+DESCRIPTION:A theatrical production at City Theatre on the South Side\, tickets $38.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
 END:VEVENT
 BEGIN:VEVENT
-UID:76a1e26c-f87d-55b6-8ab0-a23834500c05@pghwidget
-DTSTAMP:20260810T160634Z
+UID:d73781d7-a02b-5eec-82bb-5fc38a6f085e@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Arts and Lectures: Charles O'Malley and Scott Stern
+DTSTART:20260813T230000Z
+DTEND:20260814T010000Z
+LOCATION:Carnegie Library Lecture Hall\, 4440 Forbes Ave.\, Oakland
+DESCRIPTION:A free literary lecture at Carnegie Library Lecture Hall requiring registration.\\n\\nhttps://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+URL:https://www.pghcitypaper.com/listings/the-big-pittsburgh-august-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac03889-f9ea-5091-a889-603020d19f47@pghwidget
+DTSTAMP:20260810T221037Z
 SUMMARY:Treebeans Production
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260817
-LOCATION:The Lillie Theatre\, Pittsburgh Cultural Trust district
-DESCRIPTION:A theatrical production staged at The Lillie Theatre.\\n\\nhttps://trustarts.org/calendar
+LOCATION:The Lillie Theatre\, Pittsburgh Cultural Trust
+DESCRIPTION:A theatrical stage production presented at The Lillie Theatre.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:14809878-75b9-51ed-b051-1ef849eba87d@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Harris Theater Film Series (new run)
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260821
+UID:2411ef73-b885-5540-87d5-64928c2437b0@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Harris Theater Film Screening
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
 LOCATION:Harris Theater\, Pittsburgh Cultural Trust
-DESCRIPTION:A new film program run at the Harris Theater listed on the Cultural Trust's calendar.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:A film screening event at Harris Theater as part of the Cultural Trust's programming.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:0c088663-7533-5107-bdd1-0c6402f4a552@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:PUMP / Arts Landing Program
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260918
-LOCATION:Arts Landing\, Pittsburgh Cultural Trust & PUMP
-DESCRIPTION:A free ongoing program presented by the Pittsburgh Cultural Trust in partnership with PUMP at Arts Landing.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:daea73b4-73c4-5945-9d57-842a63d42913@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Steelers Preseason: vs. Green Bay Packers
+DTSTART:20260813T230000Z
+DTEND:20260814T010000Z
+LOCATION:Acrisure Stadium
+DESCRIPTION:The NFL preseason gets underway in August\, with a Steelers home game against the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:5199a002-2501-5f5a-b13a-cce5d4d25149@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Arts Landing Series (long-running)
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20261001
-LOCATION:Arts Landing\, Pittsburgh Cultural Trust
-DESCRIPTION:An ongoing arts programming series at Arts Landing.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:5413a40a-eef7-579b-b3d0-f0e5c5f9f45d@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Steelers Preseason: vs. New York Jets
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+LOCATION:Acrisure Stadium
+DESCRIPTION:A second Steelers preseason home game takes place against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:fff23f30-531f-5c8f-84b4-6052a567caa5@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:August Wilson Cultural Center Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260810
+UID:62afc8c6-9614-5de6-a082-fceb910e6901@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Pirates vs. Boston Red Sox
+DTSTART:20260814T224000Z
+DTEND:20260815T004000Z
+LOCATION:PNC Park
+DESCRIPTION:A regular-season MLB home game between the Pirates and Red Sox.\\n\\nhttps://seatgeek.com/cities/pittsburgh/this-weekend
+URL:https://seatgeek.com/cities/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d6f931-0b2e-5abe-9e12-c9b898ad8eff@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Pirates vs. Boston Red Sox
+DTSTART:20260816T173500Z
+DTEND:20260816T193500Z
+LOCATION:PNC Park
+DESCRIPTION:A Sunday afternoon MLB home game between the Pirates and Red Sox.\\n\\nhttps://seatgeek.com/cities/pittsburgh/this-weekend
+URL:https://seatgeek.com/cities/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb49706-e9b3-5f27-836b-0494669595cb@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
+DTSTART:20260822T224000Z
+DTEND:20260823T004000Z
+LOCATION:PNC Park
+DESCRIPTION:The Pirates play many home games throughout the month\, with a scheduled fireworks night as they take on the Rockies.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:2386cd96-3de4-5f5a-a68b-58d1fc950f75@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Riverhounds SC vs. Charleston Battery
+DTSTART:20260815T230000Z
+DTEND:20260816T010000Z
+LOCATION:Highmark Stadium\, Station Square
+DESCRIPTION:A home soccer game as the Riverhounds play at Highmark Stadium in Station Square.\\n\\nhttps://seatgeek.com/cities/pittsburgh/this-weekend
+URL:https://seatgeek.com/cities/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:d8838b38-59d0-543d-a7d4-1c5074c20fc3@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Pittsburgh Riverhounds SC Home Game
+DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center (AWAACC)
-DESCRIPTION:A visual arts exhibition running at the August Wilson Cultural Center.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+LOCATION:Highmark Stadium\, Station Square
+DESCRIPTION:In 2026\, the Riverhounds will be playing at home on the 8th\, 15th\, and 29th.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:1de130ae-fee4-5e0c-940a-690a3bea624c@pghwidget
-DTSTAMP:20260810T160634Z
+UID:19663aa8-2c45-5e77-adae-000b09bb3d37@pghwidget
+DTSTAMP:20260810T221037Z
 SUMMARY:How to Grow Your Green Office: An Introduction to Pitt's Green Office Program
 DTSTART:20260811T160000Z
 DTEND:20260811T170000Z
-LOCATION:Virtual event (University of Pittsburgh)
+LOCATION:Virtual Event (University of Pittsburgh)
 DESCRIPTION:A free virtual event introducing Pitt's Green Office Program.\\n\\nhttps://calendar.pitt.edu/
 URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2b5fc8b-366f-51d2-a288-38d57604dc35@pghwidget
-DTSTAMP:20260810T160634Z
+DTSTAMP:20260810T221037Z
 SUMMARY:Reuse Rummage Sale
 DTSTART:20260815T160000Z
 DTEND:20260815T200000Z
 LOCATION:O'Hara Student Center\, University of Pittsburgh
-DESCRIPTION:A rummage sale event held at the O'Hara Student Center.\\n\\nhttps://calendar.pitt.edu/
+DESCRIPTION:A rummage sale event held at Pitt's O'Hara Student Center.\\n\\nhttps://calendar.pitt.edu/
 URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:3c2908bf-1839-5d6e-9d73-80dba10bf679@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Cathedral of Learning Lawn Community Event
+UID:625d7301-172f-52b2-80ef-4149d4ea0d2b@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Move-In / Welcome Event at Cathedral of Learning Lawn
 DTSTART:20260817T200000Z
 DTEND:20260818T010000Z
-LOCATION:Cathedral of Learning Lawn\, corner of Fifth Ave. & Bigelow Blvd.\, University of Pittsburgh
-DESCRIPTION:A community event held on the Cathedral of Learning lawn.\\n\\nhttps://calendar.pitt.edu/
+LOCATION:Cathedral of Learning Lawn\, Corner of Fifth Ave. & Bigelow Blvd.
+DESCRIPTION:A campus community event held on the Cathedral of Learning lawn at the corner of Fifth Avenue and Bigelow Boulevard.\\n\\nhttps://calendar.pitt.edu/
 URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:b358d104-c2a7-5ec6-a50b-ffd34c3decdc@pghwidget
-DTSTAMP:20260810T160634Z
+UID:9353c626-564b-59a1-ab4d-177a896579ec@pghwidget
+DTSTAMP:20260810T221037Z
 SUMMARY:Lantern Night 2026
 DTSTART:20260824T001500Z
 DTEND:20260824T021500Z
-LOCATION:Cathedral of Learning Lawn\, between Heinz Chapel and Commons Room\, University of Pittsburgh
-DESCRIPTION:A University of Pittsburgh tradition/ceremony held on the Cathedral of Learning lawn.\\n\\nhttps://calendar.pitt.edu/
+LOCATION:Cathedral of Learning Lawn (between Heinz Chapel and Commons Room)\, University of Pittsburgh
+DESCRIPTION:A University of Pittsburgh tradition held on the lawn between Heinz Chapel and the Commons Room\, requiring registration.\\n\\nhttps://calendar.pitt.edu/
 URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:1778757a-7aaf-5e72-9ca4-df5407600065@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Steelers Preseason vs. Green Bay Packers
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-LOCATION:Acrisure Stadium\, North Shore
-DESCRIPTION:The NFL preseason gets underway in August\, with the Steelers hosting the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+UID:fef4298b-d4bf-5107-9f9c-99391b27ba15@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:Phipps Conservatory Summer Flower Show: Alice's Adventures in Wonderland
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260928
+LOCATION:Phipps Conservatory and Botanical Gardens\, Oakland
+DESCRIPTION:This show invites visitors to journey down the rabbit hole with beloved storybook scenes brought to life in each room\, bursting with colorful interactive elements and topiary creatures.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:f297b6b0-9d55-5162-82c5-990b35653385@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Steelers Preseason vs. New York Jets
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-LOCATION:Acrisure Stadium\, North Shore
-DESCRIPTION:The second of two Steelers preseason home games this August\, against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:cbb49706-e9b3-5f27-836b-0494669595cb@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
-DTSTART:20260822T224000Z
-DTEND:20260823T004000Z
-LOCATION:PNC Park
-DESCRIPTION:The Pirates play the Rockies with a scheduled fireworks night on August 22nd starting at 6:40pm.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:a09e2e23-31fe-5512-a119-64f500ce58eb@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Riverhounds SC Home Match
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-LOCATION:Highmark Stadium\, Station Square
-DESCRIPTION:A Riverhounds soccer game at Highmark Stadium in Station Square.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:2067a28c-e0a4-58c4-a7df-583c23a4c28e@pghwidget
-DTSTAMP:20260810T160634Z
-SUMMARY:Pittsburgh Riverhounds SC Home Match
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-LOCATION:Highmark Stadium\, Station Square
-DESCRIPTION:Another Riverhounds home match this month\, per the club's August home schedule.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+UID:50652dad-8496-581f-998c-7293daf4a077@pghwidget
+DTSTAMP:20260810T221037Z
+SUMMARY:French Moderns: Matisse / Renoir / Degas
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20261012
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:This exhibit encompasses realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, exemplifying avant-garde movements that defined modern art.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
 END:VEVENT
 END:VCALENDAR
