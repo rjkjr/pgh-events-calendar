@@ -6,174 +6,143 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:0e949e51-494a-560a-943b-dccab902c5ef@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Harris Theater Film Series
+UID:3a03e578-306b-5268-87ef-ca743d66e84f@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Pittsburgh Restaurant Week (Summer 2026)
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260817
+LOCATION:Participating restaurants citywide\, Pittsburgh
+DESCRIPTION:A citywide dining event where diners can explore special discounted menus at restaurants across Pittsburgh.\\n\\nhttps://pittsburghrestaurantweek.com/restaurants/summer-2026-restaurants/
+URL:https://pittsburghrestaurantweek.com/restaurants/summer-2026-restaurants/
+END:VEVENT
+BEGIN:VEVENT
+UID:f563aa6f-06e8-5b7c-804c-405652a4f03b@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Bloomfield Little Italy Days
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260817
+LOCATION:Liberty Avenue\, Bloomfield (from Ella St. to Gross St.)
+DESCRIPTION:A cultural festival in Bloomfield featuring a block party and food festival with local businesses and authentic Italian-American cuisine.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
+URL:https://www.visitpittsburgh.com/events-festivals/annual-events/bloomfield-little-italy-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:33b3ae21-0867-5236-becd-f0fd471799c6@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Little Italy Days Bocce Tournament
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260817
+LOCATION:Bocce courts\, Liberty Avenue\, Bloomfield
+DESCRIPTION:The annual bocce tournament\, part of Little Italy Days\, held on Saturday and Sunday.\\n\\nhttp://littleitalydays.com/
+URL:http://littleitalydays.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e2c8ba8-57e3-5467-abd7-38b070bab28b@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Pittsburgh Cannabis Fest
 DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+LOCATION:Allegheny Commons Park (East)\, Northside
+DESCRIPTION:Pittsburgh Cannabis Fest returns to Allegheny Commons Park East for its sixth annual free event.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:0357f0da-00ee-54d3-b449-563c97f1c4c5@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Harris Theater Film Screening (Pittsburgh Cultural Trust)
+DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260821
-LOCATION:Harris Theater\, Pittsburgh Cultural Trust\, Downtown Pittsburgh
-DESCRIPTION:A film program continuing through this week at the Cultural Trust's arthouse cinema.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Harris Theater\, Cultural District\, Downtown
+DESCRIPTION:A film program presented by the Pittsburgh Cultural Trust as part of its ongoing calendar of arts programming.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:7a7606db-6912-5e21-b20f-0fb80bf9a4ba@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Harris Theater Film Series (second program)
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260820
-LOCATION:Harris Theater\, Pittsburgh Cultural Trust\, Downtown Pittsburgh
-DESCRIPTION:A second concurrent film screening series at the Harris Theater.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:921ee945-0397-58e7-9a30-a569726697cd@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:The Lillie Theatre Production (Treebeans Production)
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-LOCATION:The Lillie Theatre
-DESCRIPTION:A theatrical run by Treebeans Production wrapping up today.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:bdffcb9f-4898-5fad-832a-b4103bd16307@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Liberty Magic – Trust Magic Show
-DTSTART;VALUE=DATE:20260816
+UID:ea9f9bf9-6360-59d5-9af4-c27f4f78cfc7@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Trust Magic at Liberty Magic
+DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260830
-LOCATION:Liberty Magic\, Downtown Pittsburgh
-DESCRIPTION:An ongoing magic show run by Trust Magic at the Cultural Trust's intimate magic venue.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Liberty Magic\, Cultural District\, Downtown
+DESCRIPTION:An ongoing magic show series presented by the Pittsburgh Cultural Trust at its intimate Liberty Magic venue.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:d90c1fdb-cdcd-5dd9-956a-18b87d052608@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Liberty Magic – Family Magic Show
-DTSTART;VALUE=DATE:20260816
+UID:08d9ac21-b7c1-5775-b1dd-8742c6ee95d9@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Family Magic Show at Liberty Magic
+DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260928
-LOCATION:Liberty Magic\, Downtown Pittsburgh
-DESCRIPTION:A family-friendly magic show running through late summer.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Liberty Magic\, Cultural District\, Downtown
+DESCRIPTION:A family-friendly magic program running throughout the summer at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:8a257782-757d-50fa-9a7e-407e7739e237@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Pittsburgh Cultural Trust Event at Harris Theater
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-LOCATION:Harris Theater\, Pittsburgh Cultural Trust
-DESCRIPTION:A same-day Cultural Trust program at the Harris Theater.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:e1150dd7-98fc-5b48-b1fe-d19b995d22cb@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:August Wilson Cultural Center Visual Arts Exhibit (AWAACC)
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition presented by AWAACC concluding at the end of the month.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:32fc344c-f73f-5bd1-8d11-628b5b46c0e5@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:St. Vincent College Steelers Training Camp
+UID:06f07d96-9de2-578f-a8c3-062f63418888@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Kennywood Fall Fantasy Parade
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260818
-LOCATION:St. Vincent College\, Latrobe\, PA
-DESCRIPTION:Free public viewing of Pittsburgh Steelers training camp practices\, registration required for guests in 2026.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Kennywood Park\, West Mifflin
+DESCRIPTION:The 76th annual Fall Fantasy Parades return daily\, plus an additional date on August 22.\\n\\nhttps://www.kennywood.com/press/kennywood-to-kick-off-2026-season-with-all-new-event-celebrate-kennywood-weekends/
+URL:https://www.kennywood.com/press/kennywood-to-kick-off-2026-season-with-all-new-event-celebrate-kennywood-weekends/
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb772ec-adc4-5c2a-8b50-68628bc8727e@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Steelers Training Camp at Saint Vincent College
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260818
+LOCATION:Saint Vincent College\, Latrobe\, PA
+DESCRIPTION:Fans can head to Saint Vincent College in Latrobe for Steelers training camp\; free but registration required.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:6d228015-a7ea-5842-bb7c-e188e08a5ba8@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Pittsburgh Steelers Preseason vs. New York Jets
+UID:d8eafa9e-cac7-5d59-9c58-0d04966c0243@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:NFL Preseason: Pittsburgh Steelers vs. New York Jets
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-LOCATION:Acrisure Stadium\, Pittsburgh
-DESCRIPTION:NFL preseason game against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Acrisure Stadium\, North Shore
+DESCRIPTION:The NFL preseason continues with a Steelers home game against the New York Jets.\\n\\nhttps://pittsburgh.events/sports/august/
+URL:https://pittsburgh.events/sports/august/
 END:VEVENT
 BEGIN:VEVENT
-UID:fc4edc32-916d-5d67-a015-58f5c42fcc25@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Shadyside...The Art Festival on Walnut Street (29th Annual)
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-LOCATION:5428 Walnut St\, Shadyside\, Pittsburgh
-DESCRIPTION:29th Annual Shadyside...The Art Festival on Walnut Street.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:2273dda1-a6eb-5548-9d59-925c572658d9@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Pittsburgh Pirates vs. Colorado Rockies — Fireworks Night
+UID:69714335-dfd6-51fe-b3f1-e161ba74ee18@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
 DTSTART:20260822T224000Z
 DTEND:20260823T004000Z
-LOCATION:PNC Park\, Pittsburgh
-DESCRIPTION:Pirates vs Rockies game with a scheduled fireworks night.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:PNC Park\, North Shore
+DESCRIPTION:The Pirates play the Rockies with a scheduled fireworks night starting at 6:40pm.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfa25f3c-3123-51ce-9441-a30b90cdb8de@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Lantern Night 2026 (University of Pittsburgh)
+UID:9e034cfc-78ea-544b-b40c-3ededb5bff50@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:University of Pittsburgh Lantern Night 2026
 DTSTART:20260824T001500Z
 DTEND:20260824T021500Z
-LOCATION:Cathedral of Learning Lawn\, between Heinz Chapel and Commons Room\, University of Pittsburgh
-DESCRIPTION:A traditional Pitt welcome ceremony for incoming students.\\n\\nhttps://calendar.pitt.edu/
+LOCATION:Cathedral of Learning Lawn\, between Heinz Chapel and Commons Room\, Oakland
+DESCRIPTION:A university tradition held on the Cathedral of Learning Lawn between Heinz Chapel and the Commons Room.\\n\\nhttps://calendar.pitt.edu/
 URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:af35cf2d-f40a-5a91-98a5-20dcba02ff97@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Pittsburgh Riverhounds Home Match
+UID:eb6beb6d-c1b0-58e8-afa8-ca58cf24de8f@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:WYEP Neighborhood Concert Series – Tall Trees Amphitheater
+DTSTART:20260829T210000Z
+DTEND:20260829T230000Z
+LOCATION:Tall Trees Amphitheater\, 2447 Tilbrook Rd\, Monroeville\, PA
+DESCRIPTION:The series continues with Devon Gilfillian headlining\, and Zack Keim and Dejah Monea opening. All-ages\, free\, no tickets required.\\n\\nhttps://www.wyep.org/neighborhood-concert-series-2026
+URL:https://www.wyep.org/neighborhood-concert-series-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2067a28c-e0a4-58c4-a7df-583c23a4c28e@pghwidget
+DTSTAMP:20260816T205006Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:Highmark Stadium\, Station Square\, Pittsburgh
-DESCRIPTION:Riverhounds soccer home game.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Highmark Stadium\, Station Square
+DESCRIPTION:Pittsburgh Riverhounds soccer home match at Highmark Stadium in Station Square.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:BaconBurgh
-DTSTART:20260830T160000Z
-DTEND:20260830T180000Z
-LOCATION:SouthSide Works\, Pittsburgh
-DESCRIPTION:A bacon-and-food-themed festival on the South Side.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:b4df8700-b6b4-5770-88b7-53ed4ddbbdb6@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:35th Annual Pittsburgh Irish Festival
-DTSTART:20260911T200000Z
-DTEND:20260911T220000Z
-LOCATION:Carrie Furnace grounds area\, Pittsburgh region
-DESCRIPTION:A long-running Irish cultural festival with music\, food\, and heritage programming.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
-END:VEVENT
-BEGIN:VEVENT
-UID:8d0db97f-9bd9-5505-88ef-7987fa12af54@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Pittsburgh International Jazz Festival (PIJF)
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:Pittsburgh's premier jazz music festival with renowned artists from around the world.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
-URL:https://www.visitpittsburgh.com/blog/music-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:6ebf54a3-c1c8-582d-b984-e7b3361eb233@pghwidget
-DTSTAMP:20260816T140826Z
-SUMMARY:Four Chord Music Festival 12 (presented by Smartpunk)
-DTSTART:20260925T163000Z
-DTEND:20260925T183000Z
-RRULE:FREQ=DAILY;UNTIL=20260926T163000Z
-LOCATION:FNB/Highmark Stadium\, Pittsburgh
-DESCRIPTION:Music festival featuring Pierce The Veil\, Mayday Parade\, and Boys Like Girls.\\n\\nhttps://allevents.in/pittsburgh/festivals
-URL:https://allevents.in/pittsburgh/festivals
 END:VEVENT
 END:VCALENDAR
