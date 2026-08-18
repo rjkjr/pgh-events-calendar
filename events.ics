@@ -6,73 +6,23 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:25c0180e-2efb-55e4-a093-aded6615f5ed@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:Trust Magic (resident magic show series)
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260830
-LOCATION:Liberty Magic\, Pittsburgh Cultural Trust\, Downtown Pittsburgh
-DESCRIPTION:A magic-themed variety show presented by the Pittsburgh Cultural Trust's Trust Magic program at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:e72eaec5-6957-5a04-8bef-2200db9e02ae@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:Trust Magic: Family Magic Show
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260928
-LOCATION:Liberty Magic\, Pittsburgh Cultural Trust\, Downtown Pittsburgh
-DESCRIPTION:A family-friendly magic show running throughout the summer at Liberty Magic.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:87b18b1f-dab2-5dc6-9045-31cd776ee950@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:August Wilson African American Cultural Center Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition presented by AWAACC running through late August 2026\, per the Pittsburgh Cultural Trust's event calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:7834b6b1-faa5-5c8b-a497-901c69a38a85@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:Box at Bakery Square (Free Outdoor Boxing Workout)
-DTSTART:20260829T140000Z
-DTEND:20260829T150000Z
-LOCATION:Sally's Path\, Bakery Square\, Pittsburgh
-DESCRIPTION:A free outdoor circuit workout hosted with Level Red Boxing at Sally's Path\, requiring no equipment or experience.\\n\\nhttps://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
-URL:https://www.walnutcapital.com/blog/summer-events-in-pittsburgh-2026
+UID:9c72d13d-3263-53b3-b44e-6bff2d88552e@pghwidget
+DTSTAMP:20260818T144153Z
+SUMMARY:Lantern Night 2026
+DTSTART:20260824T001500Z
+DTEND:20260824T021500Z
+LOCATION:Cathedral of Learning Lawn\, between Heinz Chapel and the Commons Room\, University of Pittsburgh
+DESCRIPTION:A campus event held on the Cathedral of Learning Lawn between Heinz Chapel and Commons Room\, requiring registration for interested attendees.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0db97f-9bd9-5505-88ef-7987fa12af54@pghwidget
-DTSTAMP:20260817T142450Z
+DTSTAMP:20260818T144153Z
 SUMMARY:Pittsburgh International Jazz Festival (PIJF)
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
 LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:With Pittsburgh's rich jazz history\, the Pittsburgh International Jazz Festival is the city's premier music festival\, hosting live music with renowned artists from around the world at Highmark Stadium.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:373576ba-fdd9-5cb5-8f35-9d1e4ddf27f3@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:FestPGH (inaugural music and arts festival)
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, plus games\, family fun\, service opportunities and worship\, during the inaugural FestPGH music and arts festival.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:9877eedc-a37e-54d3-97d2-cdb139ce3583@pghwidget
-DTSTAMP:20260817T142450Z
-SUMMARY:Wheeler Walker Jr. (concert)
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-LOCATION:Roxian Theatre\, McKees Rocks\, PA
-DESCRIPTION:A touring concert performance listed among Visit Pittsburgh's sample of upcoming 2026 concerts at the Roxian Theatre.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+DESCRIPTION:With Pittsburgh's rich jazz history\, the Pittsburgh International Jazz Festival (PIJF) is the city's premier music festival\, hosting live music with renowned artists from around the world at Highmark Stadium.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
+URL:https://www.visitpittsburgh.com/blog/music-festivals/
 END:VEVENT
 END:VCALENDAR
