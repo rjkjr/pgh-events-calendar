@@ -6,23 +6,93 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:9c72d13d-3263-53b3-b44e-6bff2d88552e@pghwidget
-DTSTAMP:20260818T144153Z
-SUMMARY:Lantern Night 2026
-DTSTART:20260824T001500Z
-DTEND:20260824T021500Z
-LOCATION:Cathedral of Learning Lawn\, between Heinz Chapel and the Commons Room\, University of Pittsburgh
-DESCRIPTION:A campus event held on the Cathedral of Learning Lawn between Heinz Chapel and Commons Room\, requiring registration for interested attendees.\\n\\nhttps://calendar.pitt.edu/
-URL:https://calendar.pitt.edu/
+UID:800cf1cb-85d2-5698-9994-d6a79b1758aa@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Preseason Game 2: Pittsburgh Steelers vs. New York Jets
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+LOCATION:Acrisure Stadium
+DESCRIPTION:Preseason NFL football matchup between the Pittsburgh Steelers and New York Jets at Acrisure Stadium.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:8d0db97f-9bd9-5505-88ef-7987fa12af54@pghwidget
-DTSTAMP:20260818T144153Z
-SUMMARY:Pittsburgh International Jazz Festival (PIJF)
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:With Pittsburgh's rich jazz history\, the Pittsburgh International Jazz Festival (PIJF) is the city's premier music festival\, hosting live music with renowned artists from around the world at Highmark Stadium.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
-URL:https://www.visitpittsburgh.com/blog/music-festivals/
+UID:9b587344-4b79-550a-beef-3e16c361cd2e@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Aaron Lewis and the Statelinders: 2026 American Tour
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+LOCATION:Hollywood Casino at The Meadows
+DESCRIPTION:A stop on Aaron Lewis and the Statelinders' 2026 American Tour.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:079cf095-8a08-5150-a079-804e601e200d@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Dominic Fike
+DTSTART:20260823T000000Z
+DTEND:20260823T020000Z
+LOCATION:Stage AE
+DESCRIPTION:Live concert performance by singer-songwriter Dominic Fike.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8bcf73-732d-52a2-b8ba-71e5f70d72d6@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Josh Turner
+DTSTART:20260823T230000Z
+DTEND:20260824T010000Z
+LOCATION:Hollywood Casino at The Meadows
+DESCRIPTION:Country music concert by Josh Turner.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1b7e42-ea68-5c50-aae7-fefe678c740a@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Citizen w/ Anxious
+DTSTART:20260824T000000Z
+DTEND:20260824T020000Z
+LOCATION:Stage AE
+DESCRIPTION:Concert featuring the bands Citizen and Anxious.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0f5cf9-1fc6-544a-94a3-abec3e702730@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:jazzjAM (Shore Thing Performing Arts Series)
+DTSTART:20260822T140000Z
+DTEND:20260822T163000Z
+LOCATION:Riverlife's floating platform (North Shore riverfront)\, in partnership with the August Wilson African American Cultural Center
+DESCRIPTION:Live jazz performance held every third Saturday morning of the month as part of the Shore Thing Performing Arts Series presented by The Charity Randall Foundation\, supported by Citizens\, with John Shannon performing from 10 a.m. to 12:30 p.m. on the floating platform.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:34b2e769-b77c-5659-9260-f72859770842@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Water Lantern Festival
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+LOCATION:Allegheny Commons Park
+DESCRIPTION:An evening of music\, food and fun where attendees design their own personal floating water lantern and watch as thousands are released on the water.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:a87d035e-5cee-54e8-bd66-2fdc37a2a8eb@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:Carnegie International (2026 exhibition)
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20270104
+LOCATION:Carnegie Museum of Art
+DESCRIPTION:A major contemporary art exhibition running from May 2 through January 3 at the Carnegie museum.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:97bee280-590e-50dc-a610-c133550324be@pghwidget
+DTSTAMP:20260819T193527Z
+SUMMARY:French Moderns
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20261012
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:An art exhibition at the Frick Pittsburgh running June 20 through October 11\, 2026.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
 END:VEVENT
 END:VCALENDAR
