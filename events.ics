@@ -6,164 +6,193 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:c5188407-9d7e-50e6-819e-f0d9d341e697@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Steelers Preseason Game vs. New York Jets
+UID:d1a1dabf-b941-594a-83e5-7ff48c6196dc@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Zach Top: Cold Beer & Country Music Tour
+DTSTART:20260821T000000Z
+DTEND:20260821T020000Z
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:A country music concert stop on Zach Top's tour.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ae70cd-d938-5b91-b603-c58455c6d97b@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Koe Wetzel
+DTSTART:20260821T224500Z
+DTEND:20260822T004500Z
+LOCATION:Petersen Events Center\, Pittsburgh\, PA
+DESCRIPTION:Live concert performance by country/rock artist Koe Wetzel.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:3e785722-b808-522e-a96a-ecfbdff7505f@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Dylan Carlino: If I Was A Girl Tour
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+LOCATION:Pittsburgh Improv\, Pittsburgh\, PA
+DESCRIPTION:A stand-up comedy show on Dylan Carlino's tour.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb669ae-9321-508f-bc80-447a87cf3b0d@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Pittsburgh Steelers vs. New York Jets (Preseason)
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-LOCATION:Acrisure Stadium\, North Shore\, Pittsburgh\, PA
-DESCRIPTION:The Steelers close out their 2026 NFL preseason slate at home against the New York Jets.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:NFL preseason home game for the Pittsburgh Steelers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
+UID:3144c9bc-cef6-5c54-abca-8d8745781954@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Nowhere to Wear It Party
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+LOCATION:National Aviary\, Pittsburgh\, PA
+DESCRIPTION:An inaugural 21+ fashion-themed evening event with drinks\, food\, music and the Aviary's birds.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f925ecc-e804-500b-9773-785fbda66bf8@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Little Bookworms
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+LOCATION:Baldwin Library\, Pleasant Hills\, PA
+DESCRIPTION:A cozy storytime and early literacy program for young children and caregivers.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e79acb-748f-5f60-89f0-6213653bc105@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Weeding Parties at Meadowcroft
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260829
+LOCATION:Meadowcroft\, Avella\, PA
+DESCRIPTION:Families help tend the historic gardens while learning about plants and local history.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:aeddd30d-22e3-50a1-8a03-06f6a55e730e@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Sensory Playtime
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260829
+LOCATION:Pleasant Hills Public Library\, Pittsburgh\, PA
+DESCRIPTION:Kids explore texture and sensory stations designed for hands-on discovery and fine motor skills.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:32b00aea-f0c1-5a03-af93-e6f2c53e3856@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Talking with Kids About Art!
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+LOCATION:Carnegie Museum of Art\, Pittsburgh\, PA
+DESCRIPTION:A program helping caregivers learn strategies to engage children with artworks.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:da17475f-e06a-5a3d-bb65-0bd1af325a00@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Dinosaurs at Pittsburgh Zoo & Aquarium
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260824
+LOCATION:Pittsburgh Zoo & Aquarium\, Pittsburgh\, PA
+DESCRIPTION:Life-sized dinosaur models installed along zoo pathways alongside the animal and aquatic exhibits.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:f19facbe-1f42-505b-b06c-89561640ea17@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Summer Days at the Farm
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+LOCATION:Port Farms\, Waterford\, PA
+DESCRIPTION:Classic farm fun with outdoor play areas\, animals\, and seasonal activities for kids.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b2fe79-4f14-5b8a-8350-1e74787372ab@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Water Lantern Festival
+DTSTART:20260823T003000Z
+DTEND:20260823T013000Z
+LOCATION:Allegheny Commons Park\, Pittsburgh\, PA
+DESCRIPTION:An evening of music\, food and lawn games culminating in a floating water lantern launch.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c650603-d4c0-50c5-adca-f826c7dbd462@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Local Legends Card Show
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+LOCATION:Monroeville Convention Center\, Monroeville\, PA
+DESCRIPTION:A sports and trading card collector show returning to Monroeville.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c6f27e-7045-5e76-a426-85352c779f1e@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Girls Running Sh*t (GRS) Fest
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+LOCATION:Hazelwood Green\, Pittsburgh\, PA
+DESCRIPTION:A 10th-anniversary wellness\, music and entrepreneurship festival with a wellness village\, vendors\, and evening DJ celebration.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:43cb8bd0-a812-5677-afdf-f3191ed4bcaf@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Regent Square 1.5-Mile Run/Walk (Dog-Friendly)
+DTSTART:20260822T121500Z
+DTEND:20260822T141500Z
+LOCATION:Starting at Environmental Charter School\, Regent Square/Swissvale\, PA
+DESCRIPTION:A community run/walk through Regent Square streets that welcomes leashed dogs with registered handlers.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab635f8-2751-5e29-a4c6-dbd4bd0b082c@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Reuse Rummage Sale
+DTSTART:20260822T160000Z
+DTEND:20260822T200000Z
+LOCATION:O'Hara Student Center\, University of Pittsburgh
+DESCRIPTION:A campus rummage sale event at Pitt.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:4e62134c-820a-525f-8c84-71c9ad7d867d@pghwidget
-DTSTAMP:20260820T153906Z
+DTSTAMP:20260821T001421Z
 SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
 DTSTART:20260822T224000Z
 DTEND:20260823T004000Z
 LOCATION:PNC Park\, Pittsburgh\, PA
-DESCRIPTION:A Pirates home game against the Rockies capped off with a post-game fireworks display.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:A Pirates home game against the Rockies featuring a post-game fireworks show.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:f1adfc41-0c17-5b72-8610-65f4e81b36b5@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:"My America: An Illustrated Experience" Exhibition
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center (AWAACC)\, Downtown Pittsburgh
-DESCRIPTION:A visual arts exhibition on display as part of the Cultural District's calendar\, on view through late August.\\n\\nhttps://www.culturaldistrict.org/calendar
-URL:https://www.culturaldistrict.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:4f5e6249-848a-5478-96c7-90be2472402c@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Riverhounds SC Home Match
-DTSTART;VALUE=DATE:20260829
+UID:52609ba0-9164-548c-a66d-e1631f6b884e@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Pittsburgh Riverhounds Home Games
+DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260830
 LOCATION:Highmark Stadium\, Station Square\, Pittsburgh\, PA
-DESCRIPTION:The Riverhounds professional soccer club plays a home match at Highmark Stadium as part of their August home slate.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+DESCRIPTION:Multiple home matches for the Pittsburgh Riverhounds professional soccer club.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:92d4b78e-7f28-5874-84eb-e976030e46f0@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Rock The Boat Pittsburgh: All White Boat Ride – Labor Day Weekend
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260908
-LOCATION:Pittsburgh\, PA
-DESCRIPTION:An all-white attire boat cruise party held over Labor Day weekend in Pittsburgh.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:f64b45ee-c550-5a99-ad12-1ea35374730d@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Renaissance Festival — Children's Weekend
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260908
-LOCATION:West Newton\, PA
-DESCRIPTION:A family-friendly themed weekend kicking off the festival's fall run\, featuring live performances and games geared toward kids.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:9cf105b3-eec0-555e-aff7-8136d62d5460@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Renaissance Festival — Pirate Invasion Weekend
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-LOCATION:West Newton\, PA
-DESCRIPTION:A pirate-themed weekend at the annual Renaissance Festival\, with costumed performers and themed activities.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:a5131ab2-b203-5c36-8496-5f0d35057ddb@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:35th Annual Pittsburgh Irish Festival
-DTSTART:20260911T200000Z
-DTEND:20260911T210000Z
-RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
-LOCATION:Carrie Blast Furnaces National Historic Landmark\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
-DESCRIPTION:One of the region's largest heritage festivals\, marking 35 years of Irish tradition with live music\, dance\, food\, and vendors at the historic Carrie Furnaces site.\\n\\nhttps://pghirishfest.org/
-URL:https://pghirishfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:416688de-6f83-5944-8bcc-8d88a7915fad@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260922
-LOCATION:Downtown Pittsburgh (multiple stages\, incl. August Wilson African American Cultural Center)
-DESCRIPTION:The 16th annual edition of this festival brings world-renowned and emerging jazz musicians to downtown Pittsburgh stages.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:62e8ce63-3c8e-5868-a128-8fc45008daef@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Allegheny Observatory Fall Open House
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-LOCATION:Allegheny Observatory\, Riverview Park\, Pittsburgh\, PA
-DESCRIPTION:An annual open house offering self-guided tours of the historic observatory with a chance to view through the telescopes\, weather permitting.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:1bb5034a-b1dd-55f7-90bc-1e54ab704276@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:FestPGH (Inaugural Music & Arts Festival)
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium\, Station Square\, Pittsburgh\, PA
-DESCRIPTION:A brand-new music and arts festival headlined by the band Switchfoot\, combining live music with family activities and service opportunities.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:c7150d84-f31c-5d7f-86e5-116406610bde@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Oktoberfest at Penn Brewery (Weekend 1)
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260922
-LOCATION:Penn Brewery\, North Side\, Pittsburgh\, PA
-DESCRIPTION:Pittsburgh's classic Bavarian-style beer festival returns to the city's oldest craft brewery with fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:0fa64c18-85c9-5f59-9a0b-547bbfc36c20@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Covered Bridge Festival
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-LOCATION:Multiple covered bridges in Washington & Greene Counties\, PA — flagship location Mingo Creek County Park
-DESCRIPTION:A popular regional festival featuring pop-up artisan vendors at historic covered bridges throughout the two counties.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:2f2b051f-ed82-563f-8f78-4da614d15147@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Renaissance Festival — Wine Revelry and Romance Weekend
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-LOCATION:West Newton\, PA
-DESCRIPTION:A wine-and-romance-themed weekend at the ongoing fall Renaissance Festival.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:8785d17b-ed5c-5a41-bc42-7e7e98245682@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Pittsburgh Renaissance Festival — Pirate/Time Travelers Weekend (season finale)
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-LOCATION:West Newton\, PA
-DESCRIPTION:The final "Time Travelers" themed weekend closing out the 2026 Renaissance Festival season.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:535875c2-d402-529f-b015-b9e8668d06b7@pghwidget
-DTSTAMP:20260820T153906Z
-SUMMARY:Oktoberfest at Penn Brewery (Weekend 2)
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260929
-LOCATION:Penn Brewery\, North Side\, Pittsburgh\, PA
-DESCRIPTION:The second weekend of Penn Brewery's annual Oktoberfest celebration with beer\, food\, and live music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+UID:9353c626-564b-59a1-ab4d-177a896579ec@pghwidget
+DTSTAMP:20260821T001421Z
+SUMMARY:Lantern Night 2026
+DTSTART:20260824T001500Z
+DTEND:20260824T021500Z
+LOCATION:Cathedral of Learning Lawn (between Heinz Chapel and Commons Room)\, University of Pittsburgh
+DESCRIPTION:A University of Pittsburgh tradition and welcoming ceremony held on the Cathedral lawn.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
 END:VEVENT
 END:VCALENDAR
