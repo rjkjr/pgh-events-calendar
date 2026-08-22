@@ -6,133 +6,163 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d1ffc213-9ebb-59ae-ac76-b31810ec1c00@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Pittsburgh Steelers vs. New York Jets (NFL Preseason)
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-LOCATION:Acrisure Stadium\, Pittsburgh
-DESCRIPTION:The Steelers' second home preseason game of 2026\, following their Aug. 13 matchup with the Green Bay Packers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+UID:2784964b-7b66-5bac-b733-c07ed6a26c17@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Pirates vs. Colorado Rockies – Fireworks Night
+DTSTART:20260822T224000Z
+DTEND:20260823T004000Z
+LOCATION:PNC Park\, Pittsburgh
+DESCRIPTION:The Pirates play many home games throughout the month\, with a scheduled fireworks night on August 22nd as they take on the Rockies.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:e13e1d33-4c04-5fcf-9caf-7e2675270562@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Koe Wetzel & Shane Smith and The Saints
-DTSTART:20260821T230000Z
-DTEND:20260822T010000Z
-LOCATION:Pittsburgh\, PA
-DESCRIPTION:Country/rock double-bill concert listed as the next upcoming show on Pittsburgh's regional event calendar.\\n\\nhttps://pittsburgh.events/calendar/
-URL:https://pittsburgh.events/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:c9fcae24-befc-5b5c-8b9d-34e7574a5556@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Nowhere to Wear It Party
-DTSTART:20260821T230000Z
-DTEND:20260822T010000Z
-LOCATION:National Aviary\, Pittsburgh
-DESCRIPTION:An inaugural 21+ fashion-and-fun night with food from Atria's Specialty Catering\, dancing\, and the Aviary's bird residents.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
-URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:523e6fb8-5e6b-50a3-a06b-c47336d7db13@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Talking with Kids About Art
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-LOCATION:Carnegie Museum of Art\, Pittsburgh
-DESCRIPTION:A program for adults on engaging children with artwork through conversation and creative questions.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:4f925ecc-e804-500b-9773-785fbda66bf8@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Little Bookworms
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-LOCATION:Baldwin Library\, Pleasant Hills\, PA
-DESCRIPTION:A cozy early-literacy storytime for young children and caregivers.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:e9e79acb-748f-5f60-89f0-6213653bc105@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Weeding Parties at Meadowcroft
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260829
-LOCATION:Meadowcroft\, Avella\, PA
-DESCRIPTION:A hands-on volunteer gardening event in the historic Meadowcroft gardens paired with local history education.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:3d56eea7-bac3-5534-900f-eb8f6e47303e@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Sensory Playtime
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260829
-LOCATION:Pleasant Hills Public Library\, Pittsburgh area
-DESCRIPTION:Hands-on sensory exploration stations for kids featuring textures\, tools\, and toys.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:bf3e2b79-19b9-57bf-bb94-d8c180bcea9f@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Rogue Artists Theatre / Doctuh Mistuh Productions Show
-DTSTART;VALUE=DATE:20260821
+UID:083b46cb-77a1-545e-b784-6682442c2c75@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Three Stories
+DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
-LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
-DESCRIPTION:A joint theatrical production presented by Rogue Artists Theatre of Pittsburgh and Doctuh Mistuh Productions.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Cultural District\, Downtown Pittsburgh
+DESCRIPTION:A comedy/drama and spoken-word program presented as part of the Pittsburgh Cultural Trust calendar.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:f19facbe-1f42-505b-b06c-89561640ea17@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Summer Days at the Farm
-DTSTART;VALUE=DATE:20260821
+UID:11d7cf1d-fe0d-5e6d-956b-d459ba55d7fb@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Rogue Artists Theatre & Doctuh Mistuh Productions Show
+DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260824
-LOCATION:Port Farms\, Waterford\, PA
-DESCRIPTION:Family-friendly farm activities including outdoor play areas and seasonal animal encounters.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+LOCATION:Greer Cabaret Theater\, Pittsburgh
+DESCRIPTION:A Broadway & Musical Theater production presented jointly by Rogue Artists Theatre of Pittsburgh & Doctuh Mistuh Productions.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:b14f5040-6551-5f5e-a8d3-d9836e8f1e2e@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Dinosaurs at Pittsburgh Zoo & Aquarium
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-LOCATION:Pittsburgh Zoo & Aquarium
-DESCRIPTION:A walkable exhibit of life-sized animatronic dinosaurs installed among the zoo's regular animal and aquatic exhibits.\\n\\nhttps://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
-URL:https://pittsburgh.kidsoutandabout.com/content/things-do-weekend-and-around-pittsburgh
+UID:583c5c34-6fe9-5f15-86f8-8f17c22f90b8@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Harris Theater Film Series (Pittsburgh Cultural Trust)
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260904
+LOCATION:Harris Theater\, Pittsburgh
+DESCRIPTION:A film series presented by the Pittsburgh Cultural Trust at the Harris Theater.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:602482e9-86a2-51cc-be26-9b8e8fc20050@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Washington County Agricultural Fair
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260823
-LOCATION:Washington\, PA
-DESCRIPTION:A traditional county agricultural fair in the Pittsburgh region.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:8d4733b6-55e2-5e4e-8c72-b4e82d59abaf@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Trust Magic Series
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260830
+LOCATION:Liberty Magic\, Pittsburgh
+DESCRIPTION:An ongoing magic performance series presented by Trust Magic at the Liberty Magic venue.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:d7f293b1-d1b4-5203-ae3c-90c4891151a3@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Erie County Fair
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-LOCATION:Wattsburg\, PA
-DESCRIPTION:A large regional county fair running in the Pittsburgh/western PA area.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:216cbba5-0c23-5065-954e-6dcae2098e5e@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Second Harris Theater Film Series
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260826
+LOCATION:Harris Theater\, Pittsburgh
+DESCRIPTION:A second concurrent film program running at the Harris Theater\, presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:813ee503-ed9b-582b-9ab9-163a822ada1c@pghwidget
-DTSTAMP:20260822T003715Z
-SUMMARY:Somerset County Fair
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-LOCATION:Meyersdale\, PA
-DESCRIPTION:An annual county fair in the greater Pittsburgh region.\\n\\nhttps://www.foreverpittsburgh.com/fairs-festivals-and-fun/
-URL:https://www.foreverpittsburgh.com/fairs-festivals-and-fun/
+UID:6b867679-5ef1-5908-827e-424ffd84f449@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Arts Landing: Pittsburgh Ballet Theatre Workshops & Classes
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260927
+LOCATION:Arts Landing\, Pittsburgh
+DESCRIPTION:Free workshops and classes hosted by Pittsburgh Ballet Theatre at Arts Landing.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d08b9e6a-b1bf-5263-b42f-d3cf6b1fb0b5@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:AWAACC Visual Arts Exhibit
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260830
+LOCATION:August Wilson Cultural Center\, Pittsburgh
+DESCRIPTION:A visual arts exhibition presented by AWAACC at the August Wilson Cultural Center.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b2749eba-c74f-59a8-a2b5-2dcf3c7e5a7e@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Arts Landing with MCG Jazz
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+LOCATION:Arts Landing\, Pittsburgh
+DESCRIPTION:A jazz program presented in partnership with MCG Jazz at Arts Landing.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b7942d5b-dc7f-5e0d-b59e-278968741ab2@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+LOCATION:Highmark Stadium\, Station Square\, Pittsburgh
+DESCRIPTION:The Riverhounds will be playing at home as part of their regular home schedule.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee94cca-09d4-51cc-ad61-da02b1291109@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Pittsburgh Renaissance Festival
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260928
+LOCATION:West Newton\, PA
+DESCRIPTION:The Pittsburgh Renaissance Festival takes place every weekend in September with themed weekends: Children's\, Pirate Invasion\, Wine Revelry and Romance\, and Time Travelers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca20d4d9-cbc4-5a54-a332-a6f79165bb83@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Pittsburgh Irish Festival
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+LOCATION:Carrie Furnace\, Pittsburgh
+DESCRIPTION:One of the largest heritage festivals in the region\, featuring Irish food and drinks\, live music and demonstrations\, and vendors.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0db97f-9bd9-5505-88ef-7987fa12af54@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Pittsburgh International Jazz Festival (PIJF)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:Pittsburgh's premier music festival\, hosting live music with renowned artists from around the world.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
+URL:https://www.visitpittsburgh.com/blog/music-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:4be321d2-df0f-56a5-807b-44cf8f774ed3@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:FestPGH (Inaugural Music and Arts Festival)
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:Inaugural music and arts festival featuring headliner Switchfoot\, games\, family fun\, service opportunities and worship.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:02fccb0a-f57e-5431-92f4-9b73df658f94@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Covered Bridge Festival
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+LOCATION:Washington & Greene Counties\, PA (flagship: Mingo Creek County Park)
+DESCRIPTION:Features pop up vendors at numerous covered bridges throughout the county.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:70ad0f12-2f16-5559-8b43-a38d7d3dbe82@pghwidget
+DTSTAMP:20260822T185800Z
+SUMMARY:Oktoberfest at Penn Brewery
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, North Side\, Pittsburgh
+DESCRIPTION:Pittsburgh's classic Oktoberfest held over two weekends for fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 END:VCALENDAR
