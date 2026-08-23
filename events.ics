@@ -6,122 +6,173 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:e9c6f27e-7045-5e76-a426-85352c779f1e@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Girls Running Sh*t (GRS) Fest
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-LOCATION:Hazelwood Green\, Pittsburgh\, PA
-DESCRIPTION:A wellness\, music\, and entrepreneurship festival celebrating 10 years of Girls Running Sh*t\, featuring a Wellness Village with yoga and fitness activities plus 50+ local vendors and an evening all-women DJ lineup.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:2c650603-d4c0-50c5-adca-f826c7dbd462@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Local Legends Card Show
-DTSTART;VALUE=DATE:20260822
+UID:90974d0b-6fa8-5e92-84df-0e623f5c5265@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Three Stories
+DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-LOCATION:Monroeville Convention Center\, Monroeville\, PA
-DESCRIPTION:A sports and collectible card show returning to the Monroeville Convention Center.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:c9b2fe79-4f14-5b8a-8350-1e74787372ab@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Water Lantern Festival
-DTSTART:20260823T003000Z
-DTEND:20260823T013000Z
-LOCATION:Allegheny Commons Park\, Pittsburgh\, PA
-DESCRIPTION:An evening festival where attendees decorate and float personal water lanterns alongside live music\, food trucks\, and lawn games.\\n\\nhttps://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
-URL:https://www.pittsburghmagazine.com/things-to-do-this-weekend-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:6848f0f1-9ddb-53d1-9528-5f48991ad175@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Regent Square Run/Walk (with dogs)
-DTSTART:20260822T121500Z
-DTEND:20260822T141500Z
-LOCATION:Starting at Environmental Charter School\, corner of Henrietta & Milton\, Swissvale/Regent Square\, PA
-DESCRIPTION:A 1.5-mile family- and dog-friendly run/walk through the streets of Regent Square.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:4e62134c-820a-525f-8c84-71c9ad7d867d@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Pittsburgh Pirates vs. Colorado Rockies (Fireworks Night)
-DTSTART:20260822T224000Z
-DTEND:20260823T004000Z
-LOCATION:PNC Park\, Pittsburgh\, PA
-DESCRIPTION:A Pirates home game against the Rockies capped off with a scheduled fireworks display.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
-END:VEVENT
-BEGIN:VEVENT
-UID:6ab635f8-2751-5e29-a4c6-dbd4bd0b082c@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Reuse Rummage Sale
-DTSTART:20260822T160000Z
-DTEND:20260822T200000Z
-LOCATION:O'Hara Student Center\, University of Pittsburgh
-DESCRIPTION:A campus rummage/reuse sale hosted by the University of Pittsburgh.\\n\\nhttps://calendar.pitt.edu/
-URL:https://calendar.pitt.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:cc19013b-a694-53e2-a595-7addfb114077@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Bakery Square Pop-Up: Clay Charm Painting
-DTSTART:20260822T140000Z
-DTEND:20260822T160000Z
-LOCATION:Bakery Square Conservatory\, 6425 Penn Ave\, Pittsburgh\, PA
-DESCRIPTION:A hands-on pop-up event with Hype Her Up PGH and Charm Revival PGH to paint custom clay charms.\\n\\nhttps://www.bakery-square.com/events
-URL:https://www.bakery-square.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:865a156a-5d16-5102-a77b-423df3f74255@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Free Community Yoga
-DTSTART:20260822T143000Z
-DTEND:20260822T153000Z
-LOCATION:Bakery Square\, 6425 Penn Ave\, Pittsburgh\, PA
-DESCRIPTION:A free weekly outdoor yoga session held at Bakery Square.\\n\\nhttps://www.bakery-square.com/events
-URL:https://www.bakery-square.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:04b36382-8f9b-5a50-ae79-61cf26ac3c45@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Mile High Society Run Club
-DTSTART:20260823T113000Z
-DTEND:20260823T133000Z
-LOCATION:6425 Penn Ave\, Bakery Square\, Pittsburgh\, PA
-DESCRIPTION:A community run club session held near Bakery Square.\\n\\nhttps://www.bakery-square.com/events
-URL:https://www.bakery-square.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:9353c626-564b-59a1-ab4d-177a896579ec@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Lantern Night 2026
-DTSTART:20260824T001500Z
-DTEND:20260824T021500Z
-LOCATION:Cathedral of Learning Lawn (between Heinz Chapel and Commons Room)\, University of Pittsburgh
-DESCRIPTION:A University of Pittsburgh tradition welcoming students with a candlelit lantern-lighting ceremony on the Cathedral lawn.\\n\\nhttps://calendar.pitt.edu/
-URL:https://calendar.pitt.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:817bb0bf-bd9d-51d7-ae31-7950dd1e3d5c@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:"Three Stories" (Comedy/Drama/Talks & Poetry)
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-LOCATION:Pittsburgh Cultural District (Pittsburgh Cultural Trust)
-DESCRIPTION:A live comedy/drama and spoken-word performance presented as part of the Pittsburgh Cultural Trust's calendar.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Pittsburgh Cultural Trust venue (Cultural District\, Downtown Pittsburgh)
+DESCRIPTION:A comedy/drama and spoken-word talks & poetry program presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:b4f565be-5eba-5a7f-907d-fd1fcf887266@pghwidget
-DTSTAMP:20260823T010858Z
-SUMMARY:Rogue Artists Theatre & Doctuh Mistuh Productions – Broadway & Musical Theater Show
-DTSTART;VALUE=DATE:20260822
+UID:47fddf36-2083-5802-9c9b-daf6efe0c71c@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Rogue Artists Theatre & Doctuh Mistuh Productions Show
+DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-LOCATION:Greer Cabaret Theater\, Pittsburgh\, PA
-DESCRIPTION:A musical theater production staged by Rogue Artists Theatre of Pittsburgh and Doctuh Mistuh Productions.
+LOCATION:Greer Cabaret Theater\, Downtown Pittsburgh
+DESCRIPTION:A Broadway & Musical Theater production presented by Rogue Artists Theatre of Pittsburgh and Doctuh Mistuh Productions.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8042a7e1-cabf-506b-913b-1a409eb8bc89@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Local Legends Card Show
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+LOCATION:Monroeville Convention Center
+DESCRIPTION:A trading card and collectibles show returning to the Monroeville Convention Center.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc7eaa2-24f0-5fb3-83cb-39bf9989a9c0@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:MCG Jazz at Arts Landing
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:A free jazz performance presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f6962de9-eba4-5040-bd63-6fba61c77854@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Harris Theater Film Series (Trust Film Program)
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260904
+LOCATION:Harris Theater\, Pittsburgh Cultural Trust
+DESCRIPTION:An ongoing film screening series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:76d90441-09a3-5a78-bd64-44462759b9e6@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Trust Magic at Liberty Magic
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260830
+LOCATION:Liberty Magic\, Downtown Pittsburgh
+DESCRIPTION:An ongoing magic show series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ff559611-4e1d-500c-8001-562ac28e7261@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Arts Landing – Pittsburgh Ballet Theatre Workshops & Classes
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260927
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:Free workshops and classes presented by the Pittsburgh Ballet Theatre.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b7942d5b-dc7f-5e0d-b59e-278968741ab2@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+LOCATION:Highmark Stadium\, Station Square\, Pittsburgh
+DESCRIPTION:Riverhounds home match on August 29.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:477bb662-9754-5cee-8dbf-1596ee86a55c@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:BaconBurgh
+DTSTART:20260830T160000Z
+DTEND:20260830T220000Z
+LOCATION:SouthSide Works\, Pittsburgh
+DESCRIPTION:A bacon-themed food and drink festival at SouthSide Works.\\n\\nhttps://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/10-awesome-august-events-in-pittsburgh-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2ebfd8-d262-5325-8a56-3a53091b30fa@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Fringe Festival
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+LOCATION:Multiple venues throughout Pittsburgh
+DESCRIPTION:A performing arts festival featuring international\, national and local artists including theater\, comedy\, visual arts\, puppetry\, music\, opera\, and spoken word.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/
+URL:https://www.visitpittsburgh.com/events-festivals/annual-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:740b92db-53b6-5133-abd1-88bcdfe3023c@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Renaissance Festival – Children's Weekend
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260908
+LOCATION:West Newton\, PA
+DESCRIPTION:Themed weekend featuring live performances and games\, including Labor Day.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:2dce7f59-ce77-508b-b3aa-ed4335fb56c4@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Irish Festival
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+LOCATION:Carrie Furnace\, Rankin/Swissvale\, PA
+DESCRIPTION:One of the largest heritage festivals in the region\, held annually each September.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:dae874ae-dfae-53b1-b96e-892c3dd3a0b2@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Renaissance Festival – Pirate Invasion Weekend
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+LOCATION:West Newton\, PA
+DESCRIPTION:Themed weekend at the Pittsburgh Renaissance Festival.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:b783f737-7d35-57f2-894a-81704df4a660@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh International Jazz Festival
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+LOCATION:Highmark Stadium\, Pittsburgh
+DESCRIPTION:The city's premier music festival\, hosting live music with renowned artists from around the world.\\n\\nhttps://www.visitpittsburgh.com/blog/music-festivals/
+URL:https://www.visitpittsburgh.com/blog/music-festivals/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d05d9d-7c9b-55b3-87e1-a82f449395da@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Covered Bridge Festival
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+LOCATION:Mingo Creek County Park\, Washington & Greene Counties\, PA
+DESCRIPTION:Features pop-up vendors at numerous covered bridges throughout the county\, with Mingo Creek County Park as a flagship stop featuring hundreds of artisans.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad2c02a2-ea00-5cf4-b609-581da6f1eb07@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Renaissance Festival – Wine Revelry and Romance Weekend
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+LOCATION:West Newton\, PA
+DESCRIPTION:Themed weekend at the Pittsburgh Renaissance Festival.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:edea6e20-2fbf-5e73-9fa6-4d34447ef052@pghwidget
+DTSTAMP:20260823T203352Z
+SUMMARY:Pittsburgh Renaissance Festival – Time Travelers Weekend
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+LOCATION:West Newton\, PA
+DESCRIPTION:Closes out the Pittsburgh Renaissance Festival's themed weekend season.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 END:VCALENDAR
