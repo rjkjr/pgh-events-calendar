@@ -6,144 +6,204 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d8276b4f-3f1f-55a2-9913-d47ff38652d6@pghwidget
-DTSTAMP:20260825T095633Z
+UID:c73cefb2-2e20-5e77-ae99-f1e3a1136abe@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Free Concert (MCG Jazz Partnership Series)
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:A free live-music concert presented by the Pittsburgh Cultural Trust in partnership with MCG Jazz.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:612c307b-0de0-5323-a9f5-7292b45eadc6@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Tray Wellington w/ David Newbould
 DTSTART:20260827T000000Z
 DTEND:20260827T020000Z
-LOCATION:Club Cafe\, Pittsburgh\, PA
-DESCRIPTION:A live bluegrass/roots concert pairing banjoist Tray Wellington with singer-songwriter David Newbould at the South Side's Club Cafe.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+LOCATION:Club Cafe\, Pittsburgh
+DESCRIPTION:A live music performance featuring bluegrass/banjo artist Tray Wellington with support from David Newbould.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
 URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:abdc5155-4a0a-584f-ae27-5683669fc1f4@pghwidget
-DTSTAMP:20260825T095633Z
+UID:135ad1dd-a9a2-58f5-9c58-124253c4098a@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Exceptional Artists Family Event
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+LOCATION:Heinz Hall\, Pittsburgh Cultural District
+DESCRIPTION:A family-oriented performance presented by Exceptional Artists at Heinz Hall.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:57cee883-5ec6-50fb-bd7e-76225141ec69@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Ray Zawodni (Comedy)
 DTSTART:20260827T230000Z
 DTEND:20260828T010000Z
-LOCATION:Pittsburgh Improv\, Pittsburgh\, PA
-DESCRIPTION:A stand-up comedy performance by Ray Zawodni at the Pittsburgh Improv club.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+LOCATION:Pittsburgh Improv
+DESCRIPTION:A stand-up comedy show at Pittsburgh Improv.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
 URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:ff308e9e-955b-5941-b55f-798c7d72d408@pghwidget
-DTSTAMP:20260825T095633Z
+UID:9c690a80-d739-53ab-b6cf-c2bf289b6638@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Doc Robinson w/ Kelly McCafferty
 DTSTART:20260828T000000Z
 DTEND:20260828T020000Z
-LOCATION:Club Cafe\, Pittsburgh\, PA
-DESCRIPTION:A live music concert featuring local rock act Doc Robinson with opener Kelly McCafferty.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+LOCATION:Club Cafe\, Pittsburgh
+DESCRIPTION:A live music show featuring Pittsburgh-based band Doc Robinson with opener Kelly McCafferty.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
 URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:4f5e6249-848a-5478-96c7-90be2472402c@pghwidget
-DTSTAMP:20260825T095633Z
+UID:fadf8c59-0fb8-5f8a-8117-59ccdcf6b36f@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Bakery Square Live DJ Night
+DTSTART:20260828T220000Z
+DTEND:20260829T010000Z
+LOCATION:Bakery Square Courtyard\, 6425 Penn Ave\, Pittsburgh
+DESCRIPTION:A weekly live DJ session on the lawn to kick off the weekend\, running May through September.\\n\\nhttps://www.bakery-square.com/events
+URL:https://www.bakery-square.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:727cfaf2-8ccb-5a53-b5c3-90ce31d8610d@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Level Red Boxing Outdoor Workout
+DTSTART:20260829T140000Z
+DTEND:20260829T150000Z
+LOCATION:Sally's Path\, 6501 Living Place\, Bakery Square\, Pittsburgh
+DESCRIPTION:A free outdoor boxing-inspired circuit workout with no experience necessary.\\n\\nhttps://www.bakery-square.com/events
+URL:https://www.bakery-square.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:838cd67a-c53e-5435-9420-463730c947f6@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Free Community Yoga
+DTSTART:20260829T143000Z
+DTEND:20260829T153000Z
+LOCATION:Bakery Square\, 6425 Penn Ave\, Pittsburgh
+DESCRIPTION:A free weekly outdoor yoga session open to the community.\\n\\nhttps://www.bakery-square.com/events
+URL:https://www.bakery-square.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:8c36a0ec-2a4d-5728-b7c6-9c40af95f85e@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Live Art Pop-Up
+DTSTART:20260829T210000Z
+DTEND:20260830T010000Z
+LOCATION:The Courtyard\, Bakery Square\, Pittsburgh
+DESCRIPTION:An unfiltered live art pop-up bringing painting and creativity to the streets.\\n\\nhttps://www.bakery-square.com/events
+URL:https://www.bakery-square.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:b7942d5b-dc7f-5e0d-b59e-278968741ab2@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Pittsburgh Riverhounds SC Home Match
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:Highmark Stadium\, Station Square\, Pittsburgh\, PA
-DESCRIPTION:Riverhounds home match at Highmark Stadium.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+LOCATION:Highmark Stadium\, Station Square\, Pittsburgh
+DESCRIPTION:A regular-season professional soccer match for the Pittsburgh Riverhounds\; the team's home dates in August 2026 include the 29th.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:ee9e260d-2d6c-5dde-ac55-79818da6936a@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Four Chord Music Festival 2026
-DTSTART;VALUE=DATE:20260829
+UID:0a9714e0-b031-5341-a7c4-e88b657a7285@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Liberty Magic — Trust Magic Series
+DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260830
-LOCATION:F.N.B. Stadium\, Pittsburgh\, PA
-DESCRIPTION:Multi-band rock/alternative music festival.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
-URL:https://www.bandsintown.com/c/pittsburgh-pa
+LOCATION:Liberty Magic\, Pittsburgh Cultural District
+DESCRIPTION:An ongoing magic show series presented as part of the Pittsburgh Cultural Trust's Liberty Magic programming.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:a779edcb-3cb9-55e8-8e2e-3d15895cdb55@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Pittsburgh Steelers vs. Atlanta Falcons
-DTSTART:20260905T220000Z
-DTEND:20260906T000000Z
-LOCATION:F.N.B. Stadium (Acrisure Stadium)\, Pittsburgh\, PA
-DESCRIPTION:The Pittsburgh Steelers face the Atlanta Falcons.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
-URL:https://www.ticketmaster.com/discover/pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:f64b45ee-c550-5a99-ad12-1ea35374730d@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Pittsburgh Renaissance Festival — Children's Weekend
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260908
-LOCATION:West Newton\, PA
-DESCRIPTION:Opening weekend of the Pittsburgh Renaissance Festival themed for kids\, with live performances and food.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:b9326ebe-f37d-55d4-865a-bad3a34c177b@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Pittsburgh Irish Festival (35th Annual)
+UID:b5c29ed6-3e05-5cc3-b763-d83de89bb7f3@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Pittsburgh Irish Festival
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
-LOCATION:Carrie Blast Furnaces National Historic Landmark\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
-DESCRIPTION:35th Annual Pittsburgh Irish Festival with food\, drinks\, live music and demonstrations.\\n\\nhttps://pghirishfest.org/
+LOCATION:Carrie Blast Furnaces National Historic Landmark\, 801 Carrie Furnace Blvd\, Pittsburgh\, PA 15218
+DESCRIPTION:The 35th Annual Pittsburgh Irish Festival\, one of the largest heritage festivals in the region\, featuring Irish food\, drinks\, live music\, and demonstrations at the Carrie Furnace backdrop.\\n\\nhttps://pghirishfest.org/
 URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:491303bd-eb61-567c-9a3b-fda2e0d482d2@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260922
-LOCATION:Downtown Pittsburgh (Cultural District)
-DESCRIPTION:World-renowned and emerging jazz musicians perform on multiple downtown stages.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:62e8ce63-3c8e-5868-a128-8fc45008daef@pghwidget
-DTSTAMP:20260825T095633Z
+UID:1183e998-3a8f-5158-b2a1-c73aef4867a6@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Allegheny Observatory Fall Open House
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-LOCATION:Allegheny Observatory\, Riverview Park\, Pittsburgh\, PA
-DESCRIPTION:Annual open house offering self-guided tours with possible telescope viewing.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Allegheny Observatory\, Riverview Park\, Pittsburgh
+DESCRIPTION:A self-guided tour event with the possibility to view through the telescopes\, with members of the Amateur Astronomers Association of Pittsburgh on-site.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:d509dc27-b370-53a8-bcd6-83eaa6953049@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:FestPGH (Inaugural Music & Arts Festival)
+UID:6c45ffd3-83da-5ea9-b104-f94008400134@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Pittsburgh International Jazz Festival
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+LOCATION:Multiple stages\, Downtown Pittsburgh
+DESCRIPTION:The Pittsburgh International Jazz Festival brings world-renowned jazz musicians as well as new artists to watch to city stages.\\n\\nhttps://pittsburghjazzfest.org/
+URL:https://pittsburghjazzfest.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6bd532-c85f-5086-8ba0-721615512fad@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:FestPGH Music & Arts Festival
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium\, Pittsburgh\, PA
-DESCRIPTION:Inaugural music and arts festival with headliner Switchfoot\, games\, family fun\, and worship.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+LOCATION:Highmark Stadium\, Station Square\, Pittsburgh
+DESCRIPTION:The inaugural FestPGH music and arts festival will fill Highmark Stadium with music from bands including headliner Switchfoot\, plus games\, family fun\, and worship.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:514e79e0-5ff9-537c-b8d4-0f898be675a5@pghwidget
-DTSTAMP:20260825T095633Z
+UID:70f1fbcc-760d-5206-94cf-e6e134b5bc79@pghwidget
+DTSTAMP:20260825T230225Z
 SUMMARY:Covered Bridge Festival
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-LOCATION:Mingo Creek County Park and covered bridges\, Washington & Greene Counties\, PA
-DESCRIPTION:Festive event with pop-up vendors at numerous covered bridges.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Multiple covered bridges across Washington & Greene Counties\, flagship location Mingo Creek County Park
+DESCRIPTION:A popular event featuring pop-up vendors at numerous covered bridges throughout the county\, with Mingo Creek County Park as the flagship stop due to its two covered bridges and hundreds of artisans.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:f81f5cd4-ac4f-5cc5-a9fd-9294d55f3a1a@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Oktoberfest at Penn Brewery — Weekend 1
+UID:48063271-6c5b-5da0-9a0d-721df21f7e76@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Penn Brewery Oktoberfest
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260922
-LOCATION:Penn Brewery\, Troy Hill/Northside\, Pittsburgh\, PA
-DESCRIPTION:Bavarian-style Oktoberfest celebration with beer\, German food\, and oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, North Side\, Pittsburgh
+DESCRIPTION:Pittsburgh's classic Oktoberfest returns to Penn Brewery's Northside location for fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:0c461dd1-de23-5ba4-a069-d2edf9a56b3e@pghwidget
-DTSTAMP:20260825T095633Z
-SUMMARY:Oktoberfest at Penn Brewery — Weekend 2
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260929
-LOCATION:Penn Brewery\, Troy Hill/Northside\, Pittsburgh\, PA
-DESCRIPTION:Second weekend of Penn Brewery's classic Bavarian-style Oktoberfest celebration.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+UID:4ee94cca-09d4-51cc-ad61-da02b1291109@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Pittsburgh Renaissance Festival
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260928
+LOCATION:West Newton\, PA
+DESCRIPTION:A fall tradition offering live performances and monster turkey drumsticks at the annual Renaissance fair.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d99f3c3-106d-5051-89e5-a5aa1c28c9e7@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Arts Landing / PUMP Series
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260918
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:A free ongoing series presented jointly by the Pittsburgh Cultural Trust and PUMP.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cd907213-f207-5ea8-802f-d5926ef2bceb@pghwidget
+DTSTAMP:20260825T230225Z
+SUMMARY:Cultural District Outdoor Installation
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20261001
+LOCATION:Arts Landing\, Pittsburgh Cultural District
+DESCRIPTION:An ongoing public art/outdoor installation presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
 END:VEVENT
 END:VCALENDAR
