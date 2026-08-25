@@ -6,173 +6,144 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:dcaa3d2e-cb23-5488-ba8d-3eae172fc685@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Summer Flower Show: Alice's Adventures in Wonderland
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260928
-LOCATION:Phipps Conservatory and Botanical Gardens
-DESCRIPTION:Alice's Adventures in Wonderland invites visitors to journey down the rabbit hole\, with beloved storybook scenes brought to life in each room\, plus interactive elements\, topiary creatures\, and unique foliage.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:d8276b4f-3f1f-55a2-9913-d47ff38652d6@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Tray Wellington w/ David Newbould
+DTSTART:20260827T000000Z
+DTEND:20260827T020000Z
+LOCATION:Club Cafe\, Pittsburgh\, PA
+DESCRIPTION:A live bluegrass/roots concert pairing banjoist Tray Wellington with singer-songwriter David Newbould at the South Side's Club Cafe.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f009f3-5404-5a10-83b7-480e2c32fd88@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:French Moderns: Matisse / Renoir / Degas
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20261012
-LOCATION:The Frick Pittsburgh
-DESCRIPTION:The exhibit encompasses realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, exemplifying avant-garde movements that defined modern art in the 19th and 20th centuries.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+UID:abdc5155-4a0a-584f-ae27-5683669fc1f4@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Ray Zawodni (Comedy)
+DTSTART:20260827T230000Z
+DTEND:20260828T010000Z
+LOCATION:Pittsburgh Improv\, Pittsburgh\, PA
+DESCRIPTION:A stand-up comedy performance by Ray Zawodni at the Pittsburgh Improv club.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:d5832431-ce16-5f14-a0d2-d84533932885@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:MCG Jazz Concert (free live music)
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:A free outdoor concert presented in partnership with MCG Jazz as part of the Cultural Trust's summer concert programming.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:ff308e9e-955b-5941-b55f-798c7d72d408@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Doc Robinson w/ Kelly McCafferty
+DTSTART:20260828T000000Z
+DTEND:20260828T020000Z
+LOCATION:Club Cafe\, Pittsburgh\, PA
+DESCRIPTION:A live music concert featuring local rock act Doc Robinson with opener Kelly McCafferty.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:815c13dd-e89e-5173-bc4e-acd8500ffe9d@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Exceptional Artists
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-LOCATION:Heinz Hall
-DESCRIPTION:A family-oriented performance event hosted at Heinz Hall as part of the Cultural Trust's fall calendar.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:4880de4e-4c20-5087-a799-98d61840f8c1@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Trust Magic Series
-DTSTART;VALUE=DATE:20260824
+UID:4f5e6249-848a-5478-96c7-90be2472402c@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Pittsburgh Riverhounds SC Home Match
+DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:Liberty Magic
-DESCRIPTION:A recurring close-up magic show series presented by the Pittsburgh Cultural Trust at its dedicated magic venue.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+LOCATION:Highmark Stadium\, Station Square\, Pittsburgh\, PA
+DESCRIPTION:Riverhounds home match at Highmark Stadium.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-august/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-august/
 END:VEVENT
 BEGIN:VEVENT
-UID:972b4ab0-32bf-567a-b8c3-7059a469cd88@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:AWAACC Visual Arts Exhibit
-DTSTART;VALUE=DATE:20260824
+UID:ee9e260d-2d6c-5dde-ac55-79818da6936a@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Four Chord Music Festival 2026
+DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:August Wilson African American Cultural Center
-DESCRIPTION:A visual arts exhibition running at the August Wilson Cultural Center through late August.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+LOCATION:F.N.B. Stadium\, Pittsburgh\, PA
+DESCRIPTION:Multi-band rock/alternative music festival.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
 END:VEVENT
 BEGIN:VEVENT
-UID:55b2d7fe-e212-5197-955d-0b3eb36b0202@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Cultural Trust & PUMP Series
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260918
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:A free ongoing programming series presented jointly by the Pittsburgh Cultural Trust and PUMP.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
+UID:a779edcb-3cb9-55e8-8e2e-3d15895cdb55@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Pittsburgh Steelers vs. Atlanta Falcons
+DTSTART:20260905T220000Z
+DTEND:20260906T000000Z
+LOCATION:F.N.B. Stadium (Acrisure Stadium)\, Pittsburgh\, PA
+DESCRIPTION:The Pittsburgh Steelers face the Atlanta Falcons.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
+URL:https://www.ticketmaster.com/discover/pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:40d97841-6aaa-5de8-a3a3-9aa4dd840592@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Pittsburgh Fringe Festival
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-LOCATION:Multiple venues throughout Pittsburgh's Cultural District and beyond
-DESCRIPTION:A performing arts festival featuring international\, national and local artists\, including theater\, comedy\, visual arts\, puppetry\, music\, opera\, and spoken word.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/annual-events/
-URL:https://www.visitpittsburgh.com/events-festivals/annual-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:4ef829c8-641d-5df9-a67e-b49fbf0293f0@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Pittsburgh Irish Festival
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260914
-LOCATION:Carrie Furnace\, Rankin/Swissvale
-DESCRIPTION:One of the largest heritage festivals in the region\, offering great Irish food and drinks\, live music and demonstrations\, and dozens of vendors against the backdrop of the historic Carrie Furnace.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+UID:f64b45ee-c550-5a99-ad12-1ea35374730d@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Pittsburgh Renaissance Festival — Children's Weekend
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260908
+LOCATION:West Newton\, PA
+DESCRIPTION:Opening weekend of the Pittsburgh Renaissance Festival themed for kids\, with live performances and food.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:40e10755-2fda-5233-8820-afc25ac077e6@pghwidget
-DTSTAMP:20260825T035051Z
+UID:b9326ebe-f37d-55d4-865a-bad3a34c177b@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Pittsburgh Irish Festival (35th Annual)
+DTSTART:20260911T200000Z
+DTEND:20260911T210000Z
+RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
+LOCATION:Carrie Blast Furnaces National Historic Landmark\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
+DESCRIPTION:35th Annual Pittsburgh Irish Festival with food\, drinks\, live music and demonstrations.\\n\\nhttps://pghirishfest.org/
+URL:https://pghirishfest.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:491303bd-eb61-567c-9a3b-fda2e0d482d2@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Pittsburgh International Jazz Festival
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+LOCATION:Downtown Pittsburgh (Cultural District)
+DESCRIPTION:World-renowned and emerging jazz musicians perform on multiple downtown stages.\\n\\nhttps://pittsburghjazzfest.org/
+URL:https://pittsburghjazzfest.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:62e8ce63-3c8e-5868-a128-8fc45008daef@pghwidget
+DTSTAMP:20260825T095633Z
 SUMMARY:Allegheny Observatory Fall Open House
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-LOCATION:Allegheny Observatory\, Riverview Park
-DESCRIPTION:An annual open house offering self-guided tours of the facility starting every half hour\, with a possible chance to view through the telescopes weather permitting\, alongside members of the Amateur Astronomers Association of Pittsburgh.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Allegheny Observatory\, Riverview Park\, Pittsburgh\, PA
+DESCRIPTION:Annual open house offering self-guided tours with possible telescope viewing.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:b454dc95-4674-5293-bd5b-e012eb0d0b4e@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:Highmark Stadium
-DESCRIPTION:With Pittsburgh's rich jazz history\, the Pittsburgh International Jazz Festival is the city's premier music festival\, hosting live music with renowned artists from around the world.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:3b46d05e-e69f-5ee2-a1e6-a845726bd901@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:FestPGH
+UID:d509dc27-b370-53a8-bcd6-83eaa6953049@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:FestPGH (Inaugural Music & Arts Festival)
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium
-DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, plus games\, family fun\, service opportunities and worship during the inaugural FestPGH music and arts festival.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+LOCATION:Highmark Stadium\, Pittsburgh\, PA
+DESCRIPTION:Inaugural music and arts festival with headliner Switchfoot\, games\, family fun\, and worship.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:efaeda85-35d0-5187-8cde-3946d8713812@pghwidget
-DTSTAMP:20260825T035051Z
+UID:514e79e0-5ff9-537c-b8d4-0f898be675a5@pghwidget
+DTSTAMP:20260825T095633Z
 SUMMARY:Covered Bridge Festival
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-LOCATION:Multiple covered bridges in Washington & Greene Counties (flagship location: Mingo Creek County Park)
-DESCRIPTION:A festive event featuring pop-up vendors at numerous covered bridges throughout the county\, with Mingo Creek County Park serving as a flagship stop due to its two covered bridges and hundreds of artisans.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Mingo Creek County Park and covered bridges\, Washington & Greene Counties\, PA
+DESCRIPTION:Festive event with pop-up vendors at numerous covered bridges.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:2da1fe22-2a52-50f2-871a-5804fec86a27@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Oktoberfest at Penn Brewery
+UID:f81f5cd4-ac4f-5cc5-a9fd-9294d55f3a1a@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Oktoberfest at Penn Brewery — Weekend 1
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260929
-LOCATION:Penn Brewery\, North Side
-DESCRIPTION:Pittsburgh's classic Oktoberfest returns\, featuring fresh beer\, German food\, and live oompah music at the city's oldest craft brewery.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+DTEND;VALUE=DATE:20260922
+LOCATION:Penn Brewery\, Troy Hill/Northside\, Pittsburgh\, PA
+DESCRIPTION:Bavarian-style Oktoberfest celebration with beer\, German food\, and oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:71706bba-5af4-56d6-a584-f38da534f338@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Pittsburgh Renaissance Festival
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20261001
-LOCATION:West Newton\, PA
-DESCRIPTION:A fall tradition offering live performances and monster turkey drumsticks in a Renaissance-fair setting.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:661e7be7-3214-5a2d-b9ba-558d3ba4b2a3@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Wheeler Walker Jr.
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-LOCATION:Roxian Theatre\, McKees Rocks
-DESCRIPTION:A country/comedy music performance at the Roxian Theatre as part of Pittsburgh's 2026 concert lineup.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:b6375025-ba7e-53b2-9d91-300ecd204df7@pghwidget
-DTSTAMP:20260825T035051Z
-SUMMARY:Tedeschi Trucks Band
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-LOCATION:Citizens Live at The Wylie
-DESCRIPTION:A live performance by the blues-rock band as part of Pittsburgh's fall concert schedule.\\n\\nhttps://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/blog/upcoming-concerts-in-pittsburgh/
+UID:0c461dd1-de23-5ba4-a069-d2edf9a56b3e@pghwidget
+DTSTAMP:20260825T095633Z
+SUMMARY:Oktoberfest at Penn Brewery — Weekend 2
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, Troy Hill/Northside\, Pittsburgh\, PA
+DESCRIPTION:Second weekend of Penn Brewery's classic Bavarian-style Oktoberfest celebration.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 END:VCALENDAR
