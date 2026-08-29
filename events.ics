@@ -6,14 +6,42 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f2af7745-12b8-501e-be38-455148ce58e8@pghwidget
-DTSTAMP:20260829T035524Z
-SUMMARY:Pittsburgh Renaissance Festival
-DTSTART:20260905T143000Z
-DTEND:20260905T223000Z
-RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
-LOCATION:"Morelandshire" village\, West Newton\, PA
-DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun. Weekends (Saturdays & Sundays) plus Labor Day.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-
+UID:d6afae58-3f96-5c1b-b4c6-84a90b9a21eb@pghwidget
+DTSTAMP:20260829T120852Z
+SUMMARY:Pittsburgh World's Fair of Money
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+LOCATION:Pittsburgh (David L. Lawrence Convention Center area)
+DESCRIPTION:Family-friendly event featuring more than $100 million of historic rare coins and currency\, including a famous $3 million nickel.\\n\\nhttps://community.pghcitypaper.com/pittsburgh/eventsearch
+URL:https://community.pghcitypaper.com/pittsburgh/eventsearch
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d2bbb0-0c1d-50c9-b5e0-7e14005db9d0@pghwidget
+DTSTAMP:20260829T120852Z
+SUMMARY:PedalPGH
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+LOCATION:Allegheny Commons Park West\, Pittsburgh
+DESCRIPTION:Western Pennsylvania's largest bike ride with 10-mile\, 25-mile\, and 53-mile routes.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa757bb6-b5c2-5625-aef0-1e10a983597b@pghwidget
+DTSTAMP:20260829T120852Z
+SUMMARY:Phipps Conservatory Summer Flower Show: Alice's Adventures in Wonderland
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260928
+LOCATION:Phipps Conservatory and Botanical Gardens
+DESCRIPTION:A journey down the rabbit hole with beloved story book scenes brought to life in each room.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:2930dbc3-838b-5884-8f87-55573f944394@pghwidget
+DTSTAMP:20260829T120852Z
+SUMMARY:French Moderns: Matisse / Renoir / Degas
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261012
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:Exhibition of French Modern art including works by Matisse\, Renoir\, and Degas.
 END:VEVENT
 END:VCALENDAR
