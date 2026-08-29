@@ -6,42 +6,62 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d6afae58-3f96-5c1b-b4c6-84a90b9a21eb@pghwidget
-DTSTAMP:20260829T120852Z
-SUMMARY:Pittsburgh World's Fair of Money
+UID:f375a2a2-5241-500a-af2d-c75922eacbc8@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:Bruno Mars & DJ Pee.Wee
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+LOCATION:Acrisure Stadium\, Pittsburgh
+DESCRIPTION:A major stadium concert headlined by Bruno Mars with support from DJ Pee.Wee.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
+URL:https://allevents.in/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfa6e20-1120-5f8b-85be-1d5e741a84e3@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:Morgan Wade with Special Guest Thomas Edwards
+DTSTART:20260830T000000Z
+DTEND:20260830T020000Z
+LOCATION:Mr. Smalls Theatre\, Pittsburgh (Millvale)
+DESCRIPTION:A live concert by singer-songwriter Morgan Wade with opener Thomas Edwards.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
+URL:https://allevents.in/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:f8fd105b-66bc-5372-bf16-7862c49b77f6@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:BaconBurgh Festival
+DTSTART:20260830T160000Z
+DTEND:20260830T180000Z
+LOCATION:SouthSide Works\, Pittsburgh
+DESCRIPTION:A festival celebrating all things bacon with food\, drink and entertainment.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
+URL:https://allevents.in/pittsburgh/this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:94bbf1a4-280a-5ad1-af34-dd5cb3b331d4@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:UPMC Health Plan PedalPGH 2026
+DTSTART:20260830T120000Z
+DTEND:20260830T190000Z
+LOCATION:Starts at Allegheny Commons Park / North Shore area\, Pittsburgh
+DESCRIPTION:Pittsburgh's largest community bike ride\, offering multiple route lengths through the city.\\n\\nhttps://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
+URL:https://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
+END:VEVENT
+BEGIN:VEVENT
+UID:615facdb-3d2a-5303-9f1b-068cfaa6864f@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:Pittsburgh 2026 World's Fair of Money
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-LOCATION:Pittsburgh (David L. Lawrence Convention Center area)
-DESCRIPTION:Family-friendly event featuring more than $100 million of historic rare coins and currency\, including a famous $3 million nickel.\\n\\nhttps://community.pghcitypaper.com/pittsburgh/eventsearch
-URL:https://community.pghcitypaper.com/pittsburgh/eventsearch
+LOCATION:David L. Lawrence Convention Center\, Pittsburgh (Strip District)
+DESCRIPTION:Families get a chance to explore more than $100 million in historic rare coins and currency at the Pittsburgh 2026 World's Fair of Money\, including a famous $3 million nickel and treasures tied to Colonial-era and early American money.\\n\\nhttps://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
+URL:https://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
 END:VEVENT
 BEGIN:VEVENT
-UID:a4d2bbb0-0c1d-50c9-b5e0-7e14005db9d0@pghwidget
-DTSTAMP:20260829T120852Z
-SUMMARY:PedalPGH
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-LOCATION:Allegheny Commons Park West\, Pittsburgh
-DESCRIPTION:Western Pennsylvania's largest bike ride with 10-mile\, 25-mile\, and 53-mile routes.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:aa757bb6-b5c2-5625-aef0-1e10a983597b@pghwidget
-DTSTAMP:20260829T120852Z
-SUMMARY:Phipps Conservatory Summer Flower Show: Alice's Adventures in Wonderland
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260928
-LOCATION:Phipps Conservatory and Botanical Gardens
-DESCRIPTION:A journey down the rabbit hole with beloved story book scenes brought to life in each room.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:2930dbc3-838b-5884-8f87-55573f944394@pghwidget
-DTSTAMP:20260829T120852Z
-SUMMARY:French Moderns: Matisse / Renoir / Degas
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20261012
-LOCATION:The Frick Pittsburgh
-DESCRIPTION:Exhibition of French Modern art including works by Matisse\, Renoir\, and Degas.
+UID:a56970d0-e5d1-5e97-a02a-6f365f8350a2@pghwidget
+DTSTAMP:20260829T184836Z
+SUMMARY:Free Kids' Book Swap by PGH Book Swap and Vintage Max Bookstore
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+LOCATION:Avalon Park\, Avalon\, PA
+DESCRIPTION:Free kids' book swap event hosted by PGH Book Swap and Vintage Max Bookstore.
 END:VEVENT
 END:VCALENDAR
