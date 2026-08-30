@@ -6,62 +6,293 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f375a2a2-5241-500a-af2d-c75922eacbc8@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:Bruno Mars & DJ Pee.Wee
-DTSTART:20260829T230000Z
-DTEND:20260830T010000Z
-LOCATION:Acrisure Stadium\, Pittsburgh
-DESCRIPTION:A major stadium concert headlined by Bruno Mars with support from DJ Pee.Wee.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
+UID:e1a86f83-4d10-5e53-a154-472d351675d2@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pittsburgh Renaissance Festival
+DTSTART:20260905T143000Z
+DTEND:20260905T223000Z
+RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
+LOCATION:"Morelandshire" village grounds\, West Newton\, PA
+DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:8dfa6e20-1120-5f8b-85be-1d5e741a84e3@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:Morgan Wade with Special Guest Thomas Edwards
-DTSTART:20260830T000000Z
-DTEND:20260830T020000Z
-LOCATION:Mr. Smalls Theatre\, Pittsburgh (Millvale)
-DESCRIPTION:A live concert by singer-songwriter Morgan Wade with opener Thomas Edwards.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
+UID:b9326ebe-f37d-55d4-865a-bad3a34c177b@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pittsburgh Irish Festival (35th Annual)
+DTSTART:20260911T200000Z
+DTEND:20260911T210000Z
+RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
+LOCATION:Carrie Blast Furnaces National Historic Landmark\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
+DESCRIPTION:The Pittsburgh Irish Festival is a 501c3 non-profit with the mission to preserve and promote the Irish culture in the region\, held at the Carrie Blast Furnaces with music\, dance\, food and vendors.\\n\\nhttps://pghirishfest.org/
+URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:f8fd105b-66bc-5372-bf16-7862c49b77f6@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:BaconBurgh Festival
-DTSTART:20260830T160000Z
-DTEND:20260830T180000Z
-LOCATION:SouthSide Works\, Pittsburgh
-DESCRIPTION:A festival celebrating all things bacon with food\, drink and entertainment.\\n\\nhttps://allevents.in/pittsburgh/this-weekend
-URL:https://allevents.in/pittsburgh/this-weekend
+UID:6bf731a3-de2f-5c5f-b7e8-5f800883e904@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pittsburgh International Jazz Festival
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+LOCATION:Downtown Pittsburgh / Strip District\, including August Wilson African American Cultural Center
+DESCRIPTION:Take the streets in the heart of the Strip District to celebrate resilience at the Pittsburgh International Jazz Festival\, featuring more than a dozen artists.\\n\\nhttps://pittsburghjazzfest.org/
+URL:https://pittsburghjazzfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:94bbf1a4-280a-5ad1-af34-dd5cb3b331d4@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:UPMC Health Plan PedalPGH 2026
-DTSTART:20260830T120000Z
-DTEND:20260830T190000Z
-LOCATION:Starts at Allegheny Commons Park / North Shore area\, Pittsburgh
-DESCRIPTION:Pittsburgh's largest community bike ride\, offering multiple route lengths through the city.\\n\\nhttps://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
-URL:https://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
+UID:f04c7c3d-523b-5238-b3ba-873e14815d43@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:FestPGH 2026 (Inaugural)
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+LOCATION:Highmark Stadium
+DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, along with laughter\, games\, family fun\, service opportunities and worship during the inaugural FestPGH music and arts festival.\\n\\nhttps://festpgh.org/
+URL:https://festpgh.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:615facdb-3d2a-5303-9f1b-068cfaa6864f@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:Pittsburgh 2026 World's Fair of Money
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-LOCATION:David L. Lawrence Convention Center\, Pittsburgh (Strip District)
-DESCRIPTION:Families get a chance to explore more than $100 million in historic rare coins and currency at the Pittsburgh 2026 World's Fair of Money\, including a famous $3 million nickel and treasures tied to Colonial-era and early American money.\\n\\nhttps://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
-URL:https://www.kidsburgh.org/your-weekend-guide-aug-28-30-pittsburgh-family-fun-for-every-age-and-budget-including-a-free-book-swap-and-a-celebration-of-currency/
+UID:33161013-0575-503a-bbc8-b702cc9b2a34@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Penn Brewery Oktoberfest
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, Northside\, Pittsburgh
+DESCRIPTION:Pittsburgh's classic Oktoberfest returns to Penn Brewery\, featuring fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:a56970d0-e5d1-5e97-a02a-6f365f8350a2@pghwidget
-DTSTAMP:20260829T184836Z
-SUMMARY:Free Kids' Book Swap by PGH Book Swap and Vintage Max Bookstore
-DTSTART:20260829T140000Z
-DTEND:20260829T160000Z
-LOCATION:Avalon Park\, Avalon\, PA
-DESCRIPTION:Free kids' book swap event hosted by PGH Book Swap and Vintage Max Bookstore.
+UID:0cb50205-1ee4-5d28-9edf-556775626cc4@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Covered Bridge Festival
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+LOCATION:Multiple covered bridges throughout Washington County\; flagship site Mingo Creek County Park
+DESCRIPTION:This festive event features pop-up vendors at numerous covered bridges throughout the county\, with the flagship stop often at Mingo Creek County Park.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c81797c-b112-5cee-a5f0-4d516c5e05f2@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pandafest Pittsburgh 2026
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+LOCATION:Station Square East Lot Parking\, Pittsburgh\, PA
+DESCRIPTION:A multi-day music/arts festival taking place at Station Square's East Lot parking area.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:0898c0ef-a3ec-5da0-a0c7-77a3b3822619@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Four Chord Music Festival 2026
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+LOCATION:F.N.B. Stadium\, Pittsburgh\, PA
+DESCRIPTION:A two-day music festival at F.N.B. Stadium featuring multiple acts.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:23422bdb-4a37-5a96-abf6-7a155656bd8c@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Kacey Musgraves with Flatland Cavalry
+DTSTART:20260908T233000Z
+DTEND:20260909T013000Z
+LOCATION:PPG Paints Arena\, 1001 Fifth Avenue\, Pittsburgh
+DESCRIPTION:Country concert featuring Kacey Musgraves with Flatland Cavalry at PPG Paints Arena.\\n\\nhttps://seatgeek.com/venues/ppg-paints-arena/tickets
+URL:https://seatgeek.com/venues/ppg-paints-arena/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cf199743-9690-5226-9547-abb29d5881ed@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:City Winery Pittsburgh Concert
+DTSTART:20260909T233000Z
+DTEND:20260910T013000Z
+LOCATION:City Winery Pittsburgh
+DESCRIPTION:A featured concert listing at City Winery Pittsburgh (specific artist not named in source).\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:7c955bdd-3fb7-5150-9c5f-0b5220ad6ca8@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Trust Presents Concert
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+LOCATION:Greer Cabaret Theater\, Cultural District
+DESCRIPTION:A concert presented under "Trust Presents" at the Greer Cabaret Theater.\\n\\nhttps://trustarts.org/pct_home/events/groups/other-cultural-district-events
+URL:https://trustarts.org/pct_home/events/groups/other-cultural-district-events
+END:VEVENT
+BEGIN:VEVENT
+UID:4130291c-a388-5f69-830d-298782b6fec6@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:MUNA with hemlocke springs
+DTSTART:20260930T223000Z
+DTEND:20261001T003000Z
+LOCATION:Stage AE\, 400 North Shore Dr.\, North Shore
+DESCRIPTION:MUNA performs with hemlocke springs at Stage AE on the North Shore.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:c41672cf-571b-5b15-95ff-1d7761381de3@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Ecolution Fashion Gala: Pop Couture — Fashion\, Fame and Obsession
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+LOCATION:The Pennsylvanian\, 1100 Liberty Ave.\, Downtown
+DESCRIPTION:A fashion gala titled "Pop Couture: Fashion\, Fame and Obsession" held at The Pennsylvanian in Downtown Pittsburgh.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:395182b8-5e9c-5d59-975f-dc693a36d037@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Randy Feltface: Gimmick (Comedy)
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+LOCATION:Carnegie of Homestead Music Hall\, 510 E. 10th Ave.\, Munhall
+DESCRIPTION:Comedy show "Randy Feltface: Gimmick" at the Carnegie of Homestead Music Hall in Munhall.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:78860b61-e557-5167-bf0d-d43ff6c4d095@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:PNC Broadway in Pittsburgh
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260928
+LOCATION:Benedum Center\, Cultural District
+DESCRIPTION:A PNC Broadway in Pittsburgh production runs at the Benedum Center.\\n\\nhttps://trustarts.org/pct_home/visit/facilities/benedum
+URL:https://trustarts.org/pct_home/visit/facilities/benedum
+END:VEVENT
+BEGIN:VEVENT
+UID:df0bd86c-561d-5c74-ab82-443b47411e00@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Ringling Bros. and Barnum & Bailey Circus
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+LOCATION:PPG Paints Arena
+DESCRIPTION:Multiple performances of the Ringling Bros. and Barnum & Bailey Circus at PPG Paints Arena.\\n\\nhttps://ppg-paints-arena.ticketspittsburgh.org/
+URL:https://ppg-paints-arena.ticketspittsburgh.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf57d9c-f985-5df3-b72d-cb6e975849de@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:NHL Preseason: Pittsburgh Penguins vs. Buffalo Sabres
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+LOCATION:PPG Paints Arena
+DESCRIPTION:Fans can look forward to an action-packed NHL preseason\, with the Pittsburgh Penguins facing the Buffalo Sabres.\\n\\nhttps://www.ppgarenatickets.com/
+URL:https://www.ppgarenatickets.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5e67f2-73b5-576b-8028-cf4c83925ef5@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:NHL Preseason: Pittsburgh Penguins vs. Detroit Red Wings
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+LOCATION:PPG Paints Arena
+DESCRIPTION:The Penguins also face the Detroit Red Wings\, part of the preseason schedule.\\n\\nhttps://www.ppgarenatickets.com/
+URL:https://www.ppgarenatickets.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7859763-ff5d-578e-99b7-1c61981a3f3d@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:AEW Dynamite (Wrestling)
+DTSTART:20260930T230000Z
+DTEND:20261001T010000Z
+LOCATION:Petersen Events Center\, 3719 Terrace St.\, Oakland
+DESCRIPTION:AEW Dynamite wrestling event at the Petersen Events Center in Oakland.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:19589bd4-87de-5fdc-baa8-d7adf16b52cb@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pooches in the Pool
+DTSTART:20260907T200000Z
+DTEND:20260907T223000Z
+LOCATION:North Park Swimming Pool\, Boyce Park Wave Pool\, and Settlers Cabin Park Wave Pool (Allegheny County)
+DESCRIPTION:Allegheny County Parks offers a fun end-of-season event where you can take a dip with your favorite furry friend at three county pools.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb74d87e-4d2e-5ab0-a4b9-13255cb93e4e@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:DreamFest 2026 Block Party
+DTSTART:20260912T160000Z
+DTEND:20260913T000000Z
+LOCATION:The Citizen Science Lab\, Hill District
+DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun in the Hill District.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4efaf52-19bf-5159-bf5a-6a6728fb62f7@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Allegheny Observatory Public Night
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+LOCATION:Allegheny Observatory
+DESCRIPTION:The observatory offers self-guided tours with a possible chance to view through the telescopes\, weather permitting.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf2907f-6be5-51fe-9e2e-552d30e8b14f@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Lantern Night 2026 (University of Pittsburgh)
+DTSTART:20260901T210000Z
+DTEND:20260901T230000Z
+LOCATION:North Oakland
+DESCRIPTION:A University of Pittsburgh community tradition event held in North Oakland.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:c878fc75-0c95-5ac3-90e9-c4f85f4674da@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pitt Fall 2026 Safety Symposium
+DTSTART:20260910T140000Z
+DTEND:20260910T180000Z
+LOCATION:William Pitt Union\, Gallagher Plaza
+DESCRIPTION:A campus safety-focused symposium event hosted at the University of Pittsburgh.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:d079292d-12a4-544a-9d24-8c88a83986ad@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Pitt Campus Bike Week
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+LOCATION:University of Pittsburgh campus
+DESCRIPTION:A campus-wide bicycling awareness and activity event.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf92795-e319-52e7-9e9f-18dc530f50ce@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Rock the Boat Pittsburgh: All White Boat Ride – Labor Day Weekend 2026
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+DESCRIPTION:An all-white attire boat cruise party event held over Labor Day weekend.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/events/
+URL:https://www.eventbrite.com/d/pa--pittsburgh/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:885246b6-4d6f-5751-97ef-37919301bf19@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Garfield's Night Market
+DTSTART:20260904T220000Z
+DTEND:20260905T020000Z
+LOCATION:North Pacific Avenue\, Garfield
+DESCRIPTION:A monthly night market held the first Friday of each month from May through September.\\n\\nhttps://positivelypittsburgh.com/its-time-for-farmers-markets/
+URL:https://positivelypittsburgh.com/its-time-for-farmers-markets/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb93bee-fa07-5797-a9c1-855f62927925@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:Squirrel Hill Night Market
+DTSTART:20260927T220000Z
+DTEND:20260928T020000Z
+LOCATION:Murray Avenue (Forbes Ave to Beacon St.)\, Squirrel Hill
+DESCRIPTION:A pop-up market celebrating its 10th year on Murray Avenue.\\n\\nhttps://www.imadeitmarket.com/i-made-it-market-event-calendar
+URL:https://www.imadeitmarket.com/i-made-it-market-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ac10dd-11fe-57cf-bb39-d74bdd4b0e1d@pghwidget
+DTSTAMP:20260830T070012Z
+SUMMARY:I Made It! Market Pop-Up
+DTSTART:20260919T150000Z
+DTEND:20260919T170000Z
+DESCRIPTION:A pop-up marketplace event featuring local small businesses\, vintage collectors\, and artists.\\n\\nhttps://www.imadeitmarket.com/i-made-it-market-event-calendar
+URL:https://www.imadeitmarket.com/i-made-it-market-event-calendar
 END:VEVENT
 END:VCALENDAR
