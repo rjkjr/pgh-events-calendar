@@ -6,85 +6,235 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:29b1832e-0373-5eea-a948-5a36dbd865e0@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:Four Chord Music Festival 2026
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-LOCATION:F.N.B. Stadium\, Pittsburgh
-DESCRIPTION:A multi-day outdoor music festival held at F.N.B. Stadium featuring a lineup of touring bands.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
-URL:https://www.bandsintown.com/c/pittsburgh-pa
-END:VEVENT
-BEGIN:VEVENT
-UID:95fc512f-953c-54e9-a0e6-40a97c9700f1@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:Rock The Boat Pittsburgh: All White Boat Ride – Labor Day Weekend 2026
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260908
-LOCATION:Pittsburgh (boat cruise)
-DESCRIPTION:An all-white attire boat party cruise held over Labor Day weekend.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/events--next-month/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/events--next-month/
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee94cca-09d4-51cc-ad61-da02b1291109@pghwidget
-DTSTAMP:20260904T205427Z
+UID:c1c0e610-0a4b-51ba-84d0-69e9de93610f@pghwidget
+DTSTAMP:20260905T044135Z
 SUMMARY:Pittsburgh Renaissance Festival
 DTSTART:20260905T143000Z
 DTEND:20260905T223000Z
 RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
-LOCATION:West Newton\, PA
-DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun\, with themed weekends like Children's weekend\, Pirate Invasion Weekend\, Wine Revelry and Romance Weekend\, and Time Travelers Weekend.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:The festival runs Saturdays\, Sundays and Labor Day Monday from 10:30 a.m. to 6:30 p.m. in West Newton\, featuring jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:ba5f476e-af65-53fe-be7b-e83bc928a4ce@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:Pittsburgh Irish Festival (35th Annual)
+UID:3c7c3544-ed44-5935-ae3b-35312adeca39@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Pittsburgh Irish Festival (35th Annual Celtic Celebration)
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
 LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
-DESCRIPTION:Celebrate Irish music\, dance\, food and culture at the 35th annual Pittsburgh Irish Festival\, a three-day event that returns to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage in a historic Pittsburgh setting.\\n\\nhttps://pghirishfest.org/
+DESCRIPTION:A three-day event returning to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage in a historic Pittsburgh setting.\\n\\nhttps://pghirishfest.org/
 URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:72602e2d-e1ab-5ff8-a8ac-b66025b66eac@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:Downtown Pittsburgh (Liberty Avenue / August Wilson African American Cultural Center)
-DESCRIPTION:A multi-day jazz festival featuring performances downtown\; the 16th edition considers the semiquincentennial of the Declaration of Independence\, with jazz framed as freedom of expression and unity in creativity.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
+UID:b081b688-1104-592a-956e-23cd72c37b99@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:DreamFest 2026 Block Party
+DTSTART:20260912T160000Z
+DTEND:20260913T000000Z
+LOCATION:The Citizen Science Lab\, Hill District\, Pittsburgh
+DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops throughout the day.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:080d3d34-0619-5c05-af22-6347ca148b10@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:FestPGH (Inaugural)
+UID:a226e8dd-e567-557e-a73c-d4ca157f25b0@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:FestPGH 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium
+LOCATION:Highmark Stadium\, Pittsburgh
 DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, as well as laughter\, games\, family fun\, service opportunities and worship during the inaugural FestPGH music and arts festival.\\n\\nhttps://festpgh.org/
 URL:https://festpgh.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:4f0a17f4-3fa2-5b64-af9c-dd1f3efc8020@pghwidget
-DTSTAMP:20260904T205427Z
+UID:95f837a6-4e50-5451-9388-09689f4fc196@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Oktoberfest at Penn Brewery
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, Northside\, Pittsburgh
+DESCRIPTION:Pittsburgh's classic Oktoberfest returns to Penn Brewery's Northside location for fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:0049d14e-5637-549a-9c2c-8fcd70885a13@pghwidget
+DTSTAMP:20260905T044135Z
 SUMMARY:Pooches in the Pool
 DTSTART:20260907T200000Z
 DTEND:20260907T223000Z
-LOCATION:North Park swimming pool\, Boyce Park wave pool\, and Settlers Cabin Park wave pool
-DESCRIPTION:An Allegheny County Parks end-of-season event where you can take a dip with your dog at three county pools (noted as sold out).\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:North Park Pool\, Boyce Park Wave Pool\, and Settlers Cabin Park Wave Pool (Allegheny County)
+DESCRIPTION:An end-of-season event where you can take a dip with your favorite furry friend at three county pools\, with tickets covering one dog and two guardians (event is now sold out for 2026).\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:bb74d87e-4d2e-5ab0-a4b9-13255cb93e4e@pghwidget
-DTSTAMP:20260904T205427Z
-SUMMARY:DreamFest 2026 Block Party
-DTSTART:20260912T160000Z
-DTEND:20260913T000000Z
-LOCATION:The Citizen Science Lab\, Hill District
-DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops\; admission is free.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+UID:e6d00cb7-ecfd-5ae6-a0a2-857a47984512@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Full Day Youth Art Workshop: French Moderns
+DTSTART:20260918T160000Z
+DTEND:20260918T210000Z
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:Students in grades 2-5 will spend the day exploring art and history through The Frick's collections while building creative skills with teaching artists\, with a focus on artwork inspired by the movements featured in "French Moderns."\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:17fa757f-e168-5b24-82f8-8074a4afc2a9@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Symphony of Nature Concert: Fall Sound Bath Concert
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+LOCATION:The Frick Pittsburgh (lawn)
+DESCRIPTION:Unwind on The Frick's lawn during this 75-minute crystal bowl sound bath with sound healer and musician Brooke Smokelin.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4476f99-46b6-5647-b76d-6ae9b3328e7b@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Cathedral of Learning Cinematic Light Show
+DTSTART:20260926T010000Z
+DTEND:20260926T011500Z
+LOCATION:Cathedral of Learning\, University of Pittsburgh
+DESCRIPTION:A featured campus light show event marking a celebratory moment for the Cathedral of Learning\, per the University of Pittsburgh events calendar.\\n\\nhttps://calendar.pitt.edu/
+URL:https://calendar.pitt.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:75b8abfc-354a-51fe-884e-69804dd01573@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Ecolution Fashion Gala: Pop Couture — Fashion\, Fame and Obsession
+DTSTART:20260930T220000Z
+DTEND:20261001T000000Z
+LOCATION:The Pennsylvanian\, 1100 Liberty Ave.\, Downtown Pittsburgh
+DESCRIPTION:A fashion event held at The Pennsylvanian in Downtown Pittsburgh\, part of the city's September arts and entertainment calendar.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:3961eb07-fe2d-5354-a015-920a15970196@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Beatles Vs. Stones (tribute concert)
+DTSTART:20260909T233000Z
+DTEND:20260910T013000Z
+LOCATION:City Winery Pittsburgh
+DESCRIPTION:A live tribute concert pitting the music of The Beatles against The Rolling Stones\, per Bandsintown's Pittsburgh concert listings.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:cbaa8aae-30ca-50c4-a147-b170e3416b61@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Humbird
+DTSTART:20260909T233000Z
+DTEND:20260910T013000Z
+LOCATION:Carnegie Library of Homestead Music Hall
+DESCRIPTION:A live indie/folk performance listed on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:28b9e3fb-46b9-5f2c-a6eb-4e85cce0c7d5@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:$uicideboy$
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+LOCATION:Pittsburgh (venue not specified in source)
+DESCRIPTION:One of the highest-profile concert dates in Pittsburgh this month.\\n\\nhttps://www.eventworld.com/pittsburgh-pa/concerts/september
+URL:https://www.eventworld.com/pittsburgh-pa/concerts/september
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b1b5c5-9450-522d-be47-28d4a15b9849@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:John Craigie
+DTSTART:20260910T230000Z
+DTEND:20260911T010000Z
+LOCATION:Thunderbird Café & Music Hall
+DESCRIPTION:A singer-songwriter performance listed on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:d74e0f1f-e8ca-57d1-bacc-4a22a0f2a125@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Tombs
+DTSTART:20260911T000000Z
+DTEND:20260911T020000Z
+LOCATION:Thunderbird Café & Music Hall
+DESCRIPTION:A live metal/rock show listed on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:950f5b56-a90f-50f4-a70f-b1e0e640abe0@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Gozu
+DTSTART:20260911T230000Z
+DTEND:20260912T010000Z
+LOCATION:Thunderbird Café & Music Hall
+DESCRIPTION:A live rock performance listed on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:d40c18dc-adcd-5ace-88b0-fc4f883eb8d9@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Witching
+DTSTART:20260911T230000Z
+DTEND:20260912T010000Z
+LOCATION:Thunderbird Café & Music Hall
+DESCRIPTION:A live music performance listed alongside Gozu on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:40d53d1f-9cde-590c-a169-6336c7017718@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Sweet Tooth
+DTSTART:20260912T000000Z
+DTEND:20260912T020000Z
+LOCATION:Mr. Smalls Theatre\, Funhouse & Café\, Millvale
+DESCRIPTION:A live music show listed on Bandsintown's Pittsburgh concert calendar.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:b44c797f-b056-56e7-8acf-4b4aa180838e@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Four Chord Music Festival 2026
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+LOCATION:F.N.B. Stadium\, Pittsburgh
+DESCRIPTION:A featured multi-day music festival taking place at F.N.B. Stadium in Pittsburgh.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:d567752a-de40-588f-bf86-8b24fb296253@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Pittsburgh Symphony Orchestra Concert
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+LOCATION:Heinz Hall
+DESCRIPTION:A classical concert performance by the Pittsburgh Symphony Orchestra\, part of its regular Heinz Hall season.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:abc33494-0bc9-5689-986d-d855da260dfe@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Pittsburgh Speakers Series
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+LOCATION:Heinz Hall
+DESCRIPTION:A speaker series event hosted at Heinz Hall as listed on the Pittsburgh Symphony's official calendar.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b250affd-d0ac-539f-a85d-216e93dc9d51@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261001
+LOCATION:Pittsburgh (venue not specified in source)
+DESCRIPTION:One of the highest-profile concert dates in this window\, with back-to-back shows on consecutive nights.\\n\\nhttps://www.eventworld.com/pittsburgh-pa/concerts/september
+URL:https://www.eventworld.com/pittsburgh-pa/concerts/september
+END:VEVENT
+BEGIN:VEVENT
+UID:abcd3b41-817e-5f2d-a8fc-d69035b5c20f@pghwidget
+DTSTAMP:20260905T044135Z
+SUMMARY:Pittsburgh Steelers Home Game vs. Cincinnati Bengals
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+LOCATION:Acrisure Stadium\, Pittsburgh
+DESCRIPTION:September is always a great month in Pittsburgh sports as it is the return of football season\, with the Steelers playing September 27th against the Bengals.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 END:VCALENDAR
