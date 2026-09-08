@@ -6,356 +6,84 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:dfd09e0c-1f62-55f7-b81d-4c5e2cd84614@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Steelers Run and Walk
-DTSTART:20260907T120000Z
-DTEND:20260907T140000Z
-LOCATION:Acrisure Stadium\, North Shore\, Pittsburgh
-DESCRIPTION:A fundraiser 5K/3.1-mile run benefiting the Art Rooney Scholarship Fund and Chuck Noll Foundation\, finishing on the Acrisure Stadium warning track\, with a Kids Fun Run also offered.\\n\\nhttps://nextpittsburgh.com/events/10-things-to-do-over-labor-day-weekend-in-pittsburgh/
-URL:https://nextpittsburgh.com/events/10-things-to-do-over-labor-day-weekend-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:966dd007-198d-5d2c-b8ac-af679d266a14@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Acrisure Stadium Kickoff and Rib Festival
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260908
-LOCATION:North Shore\, Pittsburgh
-DESCRIPTION:A free festival celebrating the start of football season with rib vendors and entertainment on the North Shore.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:0049d14e-5637-549a-9c2c-8fcd70885a13@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pooches in the Pool
-DTSTART:20260907T200000Z
-DTEND:20260907T223000Z
-LOCATION:North Park Pool\, Boyce Park Wave Pool\, and Settlers Cabin Park Wave Pool (Allegheny County)
-DESCRIPTION:An end-of-season county pool event letting dogs and their owners take a final summer swim together (this year's event is sold out).\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:c4f48e06-d8a6-50d2-9c3c-ef517858ea6b@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Britsburgh Festival
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260914
-LOCATION:Various locations\, Pittsburgh
-DESCRIPTION:A citywide celebration of British culture including afternoon teas\, cask ale tapping\, Shakespeare performances\, and even a polo match.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:51a03820-1965-584b-8832-d4effb55325e@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:ReelAbilities Film Festival
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260914
-LOCATION:Pittsburgh Playhouse\, Pittsburgh
-DESCRIPTION:A film festival\, presented by Film Pittsburgh\, spotlighting stories of disability through independent cinema.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:27f25706-3118-53b3-8857-6e73fcae5ec2@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh Shakespeare in the Parks: "Merry Wives"
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261001
-LOCATION:Various city parks\, Pittsburgh
-DESCRIPTION:A free adaptation of "The Merry Wives of Windsor" featuring live music and Pittsburgh references\, touring city parks.\\n\\nhttps://nextpittsburgh.com/events/10-things-to-do-over-labor-day-weekend-in-pittsburgh/
-URL:https://nextpittsburgh.com/events/10-things-to-do-over-labor-day-weekend-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:cfe3c454-f4f2-5864-95dc-710fb6407bf0@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh Renaissance Festival
-DTSTART:20260912T143000Z
-DTEND:20260912T223000Z
-RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
-LOCATION:West Newton\, PA (Morelandshire village)
-DESCRIPTION:A medieval-themed festival with jousting\, costumed performers\, artisan vendors\, rides\, and games.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:3d5d4987-343d-50d1-a5db-9d060c72427f@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:$uicideboy$ Concert
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-LOCATION:Pittsburgh area
-DESCRIPTION:A hip-hop concert listed among the highest-profile September 2026 Pittsburgh concert dates.\\n\\nhttps://www.eventworld.com/pittsburgh-pa/concerts/september
-URL:https://www.eventworld.com/pittsburgh-pa/concerts/september
-END:VEVENT
-BEGIN:VEVENT
-UID:9624d379-fbdf-5857-a136-8bd2065ef74d@pghwidget
-DTSTAMP:20260907T173901Z
+UID:15f65554-62bf-59fe-a92f-b24e1f8e6ef8@pghwidget
+DTSTAMP:20260908T175114Z
 SUMMARY:Pittsburgh Irish Festival
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
-LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd\, Pittsburgh\, PA 15218
-DESCRIPTION:The 35th annual heritage festival celebrating Irish music\, dance\, food\, and culture on four stages.\\n\\nhttps://pghirishfest.org/
+LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
+DESCRIPTION:A three-day heritage festival with Irish live music\, dance\, food and cultural vendors on the grounds of the historic Carrie Blast Furnaces.\\n\\nhttps://pghirishfest.org/
 URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:1f618ca5-e504-59a9-918d-a3c66395f35b@pghwidget
-DTSTAMP:20260907T173901Z
+UID:e0e45835-49be-511e-b2ce-c3077161d3b2@pghwidget
+DTSTAMP:20260908T175114Z
+SUMMARY:Britsburgh Festival
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260914
+LOCATION:Multiple locations around Pittsburgh
+DESCRIPTION:A city-wide celebration of British culture with afternoon teas and cask tapping to Shakespeare performances and even a polo match.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:02ca9ea8-3053-5f6c-b24a-28499fdafc8f@pghwidget
+DTSTAMP:20260908T175114Z
+SUMMARY:ReelAbilities Film Festival
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260914
+LOCATION:Pittsburgh Playhouse (in-person kickoff)\, then virtual
+DESCRIPTION:A film festival showcasing stories centered on disability\, with artwork and special guests to bring the themes of community and shared human experience to the forefront.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbac6ab-449a-5e30-8b0c-2a30bb616254@pghwidget
+DTSTAMP:20260908T175114Z
 SUMMARY:Clemente Bridge Fest
 DTSTART:20260911T190000Z
 DTEND:20260911T230000Z
-LOCATION:Roberto Clemente Bridge\, Pittsburgh
-DESCRIPTION:A festival closing the iconic yellow bridge to traffic for music\, food\, and community celebration.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+LOCATION:Roberto Clemente Bridge
+DESCRIPTION:A festival held on the closed-to-traffic Clemente Bridge downtown\, part of the September events lineup.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:89a76a0f-f83a-55ef-a304-b3d1aecf3481@pghwidget
-DTSTAMP:20260907T173901Z
+UID:a700110e-a285-5099-a884-09f10cc4a514@pghwidget
+DTSTAMP:20260908T175114Z
 SUMMARY:Pittsburgh Taco Festival
 DTSTART:20260912T163000Z
 DTEND:20260912T230000Z
-LOCATION:The Stacks at 3 Crossings\, Strip District\, Pittsburgh
-DESCRIPTION:The city's longest-running taco festival featuring 25+ food trucks and vendors\, benefiting Casa San Jose and the Pittsburgh Hispanic Development Corporation.\\n\\nhttps://nextpittsburgh.com/eatdrink/14-pittsburgh-summer-food-festivals-to-satisfy-your-every-craving/
-URL:https://nextpittsburgh.com/eatdrink/14-pittsburgh-summer-food-festivals-to-satisfy-your-every-craving/
+LOCATION:The Stacks at 3 Crossings
+DESCRIPTION:An outdoor taco festival with food vendors\, drinks and music.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:49ba5354-80a9-5ac7-b1ec-a70db9a84b4c@pghwidget
-DTSTAMP:20260907T173901Z
+UID:9ea8ad51-5845-584f-81cb-5424233df404@pghwidget
+DTSTAMP:20260908T175114Z
+SUMMARY:Original Pittsburgh Taco Festival
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+LOCATION:Strip District
+DESCRIPTION:Called the Burgh's longest-running taco extravaganza celebrating culture and community.\\n\\nhttps://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:374a48cf-46ee-54fb-86f9-cc574d8abd7a@pghwidget
+DTSTAMP:20260908T175114Z
 SUMMARY:Pittsburgh County Fair
 DTSTART:20260912T150000Z
 DTEND:20260912T210000Z
-LOCATION:Allegheny Commons Park West\, Pittsburgh
-DESCRIPTION:A free county-fair-style community event in Allegheny Commons Park.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+LOCATION:Allegheny Commons Park West
+DESCRIPTION:A free\, family-friendly county-fair-style event in the North Side park.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:b081b688-1104-592a-956e-23cd72c37b99@pghwidget
-DTSTAMP:20260907T173901Z
+UID:bb74d87e-4d2e-5ab0-a4b9-13255cb93e4e@pghwidget
+DTSTAMP:20260908T175114Z
 SUMMARY:DreamFest 2026 Block Party
 DTSTART:20260912T160000Z
 DTEND:20260913T000000Z
-LOCATION:The Citizen Science Lab\, Hill District\, Pittsburgh
-DESCRIPTION:A free outdoor block party with youth STEM activities\, live DJs\, local vendors\, and science workshops.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a9e0c1-8536-568a-be0a-8c3d2148e707@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh Riverhounds SC vs. Loudoun United FC
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:The Riverhounds' final home match of the season as they wind down their USL Championship campaign.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:52887450-1d01-545a-9596-9e930d37753c@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Sean Derry: Thingum (art exhibition)
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260913
-LOCATION:Concept Art Gallery\, Pittsburgh
-DESCRIPTION:A gallery exhibition of works by artist Sean Derry.\\n\\nhttps://www.conceptgallery.com/exhibitions/
-URL:https://www.conceptgallery.com/exhibitions/
-END:VEVENT
-BEGIN:VEVENT
-UID:e7c30d26-1593-58f2-a7c3-7a3b93163416@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:AAP New Member Exhibition
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260921
-LOCATION:The Westmoreland Museum of American Art\, 221 N. Main Street\, Greensburg\, PA
-DESCRIPTION:An exhibition of new members of the Associated Artists of Pittsburgh\, juried by Kimberly Diana Jacobs and David Stanger.\\n\\nhttps://www.aapgh.org/exhibitions-current-former
-URL:https://www.aapgh.org/exhibitions-current-former
-END:VEVENT
-BEGIN:VEVENT
-UID:5015c7b0-7491-5213-bc7d-6dd47a7f43e5@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:French Moderns: Matisse / Renoir / Degas
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261012
-LOCATION:The Frick Pittsburgh\, Point Breeze\, Pittsburgh
-DESCRIPTION:An exhibition encompassing realism\, impressionism\, post-impressionism\, symbolism\, Fauvism\, cubism and surrealism\, exemplifying the avant-garde movements that defined modern art in the nineteenth and twentieth centuries.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:ee0b8462-0677-55b9-b7a0-18495e41e476@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Phipps Conservatory Summer Flower Show: Alice's Adventures in Wonderland
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260928
-LOCATION:Phipps Conservatory and Botanical Gardens\, Pittsburgh
-DESCRIPTION:An interactive flower show bringing storybook scenes from "Alice in Wonderland" to life with topiary creatures and colorful foliage.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:8190917e-0f6e-5b23-861c-1da010cf191f@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Full Day Youth Art Workshop: French Moderns
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-LOCATION:The Frick Pittsburgh\, Pittsburgh
-DESCRIPTION:A youth art workshop tied to the museum's French Moderns exhibition.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:8c47b797-2a79-5929-a59d-87c247954d3c@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Allegheny Observatory Open House
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-LOCATION:Allegheny Observatory\, Pittsburgh
-DESCRIPTION:An annual ticketed open house offering self-guided tours and a possible chance to view through the telescopes with members of the Amateur Astronomers Association of Pittsburgh on-site.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:c24532fe-53ea-5fce-b4ae-87b704c6f430@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:The 16th edition of this jazz festival\, held in a year marking the 250th anniversary of the Declaration of Independence.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:afb3825d-13af-5c78-a2fd-3107f9a068b2@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Panda Fest
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260921
-LOCATION:Station Square parking lot\, 73 East Carson Street\, Pittsburgh
-DESCRIPTION:A touring festival celebrating Asian street food and culture\, bringing more than 80 food vendors\, a marketplace of over 30 artisan sellers\, and a 15-foot inflatable panda to the riverfront.\\n\\nhttps://hoodline.com/2026/09/panda-fest-descends-on-station-square-with-200-plus-dishes-15-foot-panda/
-URL:https://hoodline.com/2026/09/panda-fest-descends-on-station-square-with-200-plus-dishes-15-foot-panda/
-END:VEVENT
-BEGIN:VEVENT
-UID:722ab4c4-1599-5649-98a3-3fcf25e49d51@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Penn Brewery Oktoberfest
-DTSTART:20260918T210000Z
-DTEND:20260918T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260920T210000Z
-LOCATION:Penn Brewery\, Troy Hill\, Pittsburgh
-DESCRIPTION:The city's largest Oktoberfest celebration featuring fresh beer\, German food\, and live oompah music at Pittsburgh's oldest craft brewery. Also occurs September 25-27.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:2dc9ecdf-9d04-52fb-b2de-fa199cfb922c@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:FestPGH
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Highmark Stadium\, Pittsburgh
-DESCRIPTION:An inaugural music and arts festival at Highmark Stadium featuring bands including headliner Switchfoot\, plus laughter\, games\, family fun\, service opportunities and worship.\\n\\nhttps://festpgh.org/
-URL:https://festpgh.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:c443b7e5-66b2-58ce-a521-831b7614086e@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Covered Bridge Festival
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-LOCATION:Multiple covered bridges throughout Washington & Greene Counties (flagship stop: Mingo Creek County Park)
-DESCRIPTION:A popular festival featuring pop-up vendors at numerous covered bridges\, with hundreds of artisans selling handmade goods.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:14cb2db2-b84f-5fbe-83c0-b709ca5325e8@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Andy Warhol Museum Evening Event
-DTSTART:20260923T000000Z
-DTEND:20260923T020000Z
-LOCATION:The Andy Warhol Museum\, Pittsburgh
-DESCRIPTION:An evening ticketed event at the Andy Warhol Museum (details on programming available via the museum's calendar).\\n\\nhttps://www.warhol.org/
-URL:https://www.warhol.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:8930d15a-290e-52cc-8ba9-3127082d2faa@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Hispanic Heritage Celebration
-DTSTART:20260926T150000Z
-DTEND:20260926T190000Z
-LOCATION:The Andy Warhol Museum\, Pittsburgh
-DESCRIPTION:A family-friendly celebration of Hispanic Heritage Month presented by Carnegie Museums of Pittsburgh.\\n\\nhttps://carnegiemuseums.org/
-URL:https://carnegiemuseums.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:6d9bf332-2b4b-54cf-9144-37e1bde5956c@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh Symphony Orchestra Concert
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-LOCATION:Heinz Hall\, Pittsburgh
-DESCRIPTION:A classical concert performance by the Pittsburgh Symphony Orchestra.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:8cb29a83-ea9e-5efb-96d5-0dd1cd5ff15c@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Drum Fest 2026
-DTSTART:20260926T170000Z
-DTEND:20260927T010000Z
-LOCATION:Herr's Island\, Pittsburgh
-DESCRIPTION:A Pittsburgh Women's Wellness Drum Circle event with free admission for the community\, featuring live music\, local vendors\, food trucks\, and interactive drum circles for all ages.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:333545b2-7188-5afb-9991-df359213b934@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Two-Day Rock Festival at F.N.B. Stadium
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-LOCATION:F.N.B. Stadium\, Station Square\, Pittsburgh
-DESCRIPTION:A music festival celebrating 12 years of rock\, returning to Pittsburgh for a weekend celebration of pop-punk\, emo\, ska\, hardcore\, and melodic rock fans.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-END:VEVENT
-BEGIN:VEVENT
-UID:c9fdea71-2ae8-5c20-a01c-6b78461d3ab6@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Steelers vs. Bengals
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-LOCATION:Acrisure Stadium\, Pittsburgh
-DESCRIPTION:A regular-season NFL home game for the Pittsburgh Steelers.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:40a9660b-8898-54a6-bf77-10de52b68dbf@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Richard S. Caliguiri City of Pittsburgh Great Race
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-LOCATION:Pittsburgh\, PA (course finishing Downtown)
-DESCRIPTION:A major 10-kilometer foot race organized annually by the City of Pittsburgh Department of Parks and Recreation (Citiparks)\, named in honor of former mayor Richard S. Caliguiri.\\n\\nhttps://en.wikipedia.org/wiki/Pittsburgh_Great_Race
-URL:https://en.wikipedia.org/wiki/Pittsburgh_Great_Race
-END:VEVENT
-BEGIN:VEVENT
-UID:67341cb3-3260-53ee-962c-4573344231eb@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Pittsburgh Symphony: Pittsburgh Speakers Series
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-LOCATION:Heinz Hall\, Pittsburgh
-DESCRIPTION:A speaker series event held at Heinz Hall.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:67e08485-1804-5511-b0f7-d64ac341dfe0@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Symphony of Nature Concert: Fall Sound Bath
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-LOCATION:The Frick Pittsburgh lawn\, Pittsburgh
-DESCRIPTION:A crystal bowl sound bath concert on The Frick's lawn led by sound healer and musician Brooke Smock/Smola\, part of a nature-themed concert series.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:1425036d-4e64-5de8-906d-b00983cb4c4a@pghwidget
-DTSTAMP:20260907T173901Z
-SUMMARY:Olivia Rodrigo: The Unraveled Tour
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261001
-LOCATION:Pittsburgh area
-DESCRIPTION:A two-night stop of Olivia Rodrigo's arena tour\, listed among the highest-profile Pittsburgh concert dates for the month.\\n\\nhttps://www.eventworld.com/pittsburgh-pa/concerts/september
-URL:https://www.eventworld.com/pittsburgh-pa/concerts/september
+LOCATION:The Citizen Science Lab\, Hill District
+DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun with youth STEM activities and live DJs.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-
 END:VEVENT
 END:VCALENDAR
