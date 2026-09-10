@@ -6,59 +6,152 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:11692d24-a7ae-5e5b-ba19-c8a015441b64@pghwidget
-DTSTAMP:20260910T122133Z
-SUMMARY:Pittsburgh Irish Festival (35th Annual Celtic Celebration)
+UID:15f65554-62bf-59fe-a92f-b24e1f8e6ef8@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh Irish Festival
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260913T200000Z
-LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd\, Pittsburgh\, PA 15218
-DESCRIPTION:This three-day event returns to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage in a historic Pittsburgh setting.\\n\\nhttps://pghirishfest.org/
+LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
+DESCRIPTION:Celebrate Irish music\, dance\, food and culture at the 35th annual Pittsburgh Irish Festival\, a three-day event returning to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage.\\n\\nhttps://pghirishfest.org/
 URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:064dc71c-a147-5164-ac65-6b0159f242f8@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Britsburgh Festival
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+LOCATION:Multiple locations across Pittsburgh
+DESCRIPTION:The 2026 Britsburgh Festival is chockablock with events from afternoon teas and cask tapping to Shakespeare performances and even a polo match\, all designed to bring people together over a shared love of all things British.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:c31fb0b9-861a-57f5-b422-ac883e04db5f@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:ReelAbilities Film Festival
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+LOCATION:Pittsburgh Playhouse (in-person)\; virtual thereafter
+DESCRIPTION:A film festival from Film Pittsburgh spotlighting stories of disability and inclusion\, with an all-access pass available.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5dbd2bf0-d3ab-52b5-b780-90dbbde44612@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh Renaissance Festival
+DTSTART:20260912T143000Z
+DTEND:20260912T223000Z
+RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
+LOCATION:West Newton\, PA (village of Morelandshire)
+DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd476e6-eb07-58e4-badd-2c66e7e8234e@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh International Jazz Festival
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+LOCATION:August Wilson African American Cultural Center
+DESCRIPTION:A multi-day jazz festival featuring ticketed and free performances downtown.\\n\\nhttps://pittsburghjazzfest.org/
+URL:https://pittsburghjazzfest.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3bc540-2afe-5950-8bcd-8fbb09382097@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Penn Brewery Oktoberfest
+DTSTART:20260918T210000Z
+DTEND:20260918T230000Z
+RRULE:FREQ=DAILY;UNTIL=20260927T210000Z
+LOCATION:Penn Brewery\, Troy Hill
+DESCRIPTION:Pittsburgh's classic Oktoberfest is back at Penn Brewery\, featuring fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:7945d23e-b2dd-5bec-b97e-d756bc212ce4@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh Brewing Co. Oktoberfest
+DTSTART:20260912T160000Z
+DTEND:20260913T020000Z
+LOCATION:Pittsburgh Brewing Company\, Creighton (150 Ferry St.)
+DESCRIPTION:A craft-beer Oktoberfest celebration hosted at Pittsburgh Brewing Company's Creighton location.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbac6ab-449a-5e30-8b0c-2a30bb616254@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Clemente Bridge Fest
+DTSTART:20260911T190000Z
+DTEND:20260911T230000Z
+LOCATION:Roberto Clemente Bridge
+DESCRIPTION:A pedestrian bridge festival with food\, drink and entertainment overlooking the Allegheny River.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:a700110e-a285-5099-a884-09f10cc4a514@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh Taco Festival
+DTSTART:20260912T163000Z
+DTEND:20260912T230000Z
+LOCATION:The Stacks at 3 Crossings
+DESCRIPTION:A food festival celebrating tacos from local vendors and restaurants.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:374a48cf-46ee-54fb-86f9-cc574d8abd7a@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Pittsburgh County Fair
+DTSTART:20260912T150000Z
+DTEND:20260912T210000Z
+LOCATION:Allegheny Commons Park West
+DESCRIPTION:A free\, family-friendly county-fair-style event in the park.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:bb74d87e-4d2e-5ab0-a4b9-13255cb93e4e@pghwidget
-DTSTAMP:20260910T122133Z
+DTSTAMP:20260910T182647Z
 SUMMARY:DreamFest 2026 Block Party
 DTSTART:20260912T160000Z
 DTEND:20260913T000000Z
 LOCATION:The Citizen Science Lab\, Hill District
-DESCRIPTION:Dream big in the Hill District during this free outdoor block party filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops throughout the day.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops throughout the day.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:274ef75b-7357-5211-85da-818db3562a68@pghwidget
-DTSTAMP:20260910T122133Z
+UID:741e6ec2-b653-52e9-af1f-2d08bcff2314@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Fall Fest & The Great Pup-Kin Race
+DTSTART:20260913T170000Z
+DTEND:20260913T210000Z
+LOCATION:The Waterfront
+DESCRIPTION:A free fall-themed family festival featuring a costumed dog race ("Pup-Kin Race").\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d00cb7-ecfd-5ae6-a0a2-857a47984512@pghwidget
+DTSTAMP:20260910T182647Z
 SUMMARY:Full Day Youth Art Workshop: French Moderns
+DTSTART:20260918T160000Z
+DTEND:20260918T210000Z
+LOCATION:The Frick Pittsburgh
+DESCRIPTION:Students in grades 2-5 will spend the day exploring art and history through The Frick's collections while building creative skills with teaching artists\, focused on artwork inspired by the movements featured in "French Moderns."\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:34d5ff84-a460-5e0e-a6a4-4dbf0a8d2010@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Allegheny Observatory Open House
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DESCRIPTION:A full-day youth art workshop themed around French Modern art\, part of Pittsburgh's September family programming lineup.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+LOCATION:Allegheny Observatory
+DESCRIPTION:The observatory offers self-guided tours of the facility with a possible chance to view through the telescopes (weather permitting) and members of the Amateur Astronomers Association of Pittsburgh on-site.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:0c93f6f2-c301-59d4-be6a-8d727884bfcf@pghwidget
-DTSTAMP:20260910T122133Z
-SUMMARY:Pittsburgh International Jazz Festival
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260921
-LOCATION:Downtown Pittsburgh
-DESCRIPTION:A multi-day jazz festival featuring live performances across Pittsburgh venues.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:c4476f99-46b6-5647-b76d-6ae9b3328e7b@pghwidget
-DTSTAMP:20260910T122133Z
-SUMMARY:Cathedral of Learning Cinematic Light Show
-DTSTART:20260926T010000Z
-DTEND:20260926T011500Z
-LOCATION:Cathedral of Learning\, University of Pittsburgh
-DESCRIPTION:A special cinematic light show projected on Pitt's iconic Cathedral of Learning\, part of the university's fall event calendar.\\n\\nhttps://calendar.pitt.edu/
-URL:https://calendar.pitt.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:3e8173d9-fdf4-5f81-bc8f-45d802f97a55@pghwidget
-DTSTAMP:20260910T122133Z
-SUMMARY:FestPGH (inaugural music and arts festival)
+UID:080d3d34-0619-5c05-af22-6347ca148b10@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:FestPGH (Inaugural)
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 LOCATION:Highmark Stadium
@@ -66,13 +159,12 @@ DESCRIPTION:Highmark Stadium will resound with the music of bands including head
 URL:https://festpgh.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:d5704fea-c2ec-5f00-a1ae-6399bb546cb0@pghwidget
-DTSTAMP:20260910T122133Z
-SUMMARY:Drum Fest 2026 (Pittsburgh Women's Wellness Drum Circle)
-DTSTART:20260926T170000Z
-DTEND:20260927T010000Z
-LOCATION:Herr's Island
-DESCRIPTION:Presented with free admission for the community\, this vibrant event features live music\, local vendors\, and food trucks.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
-URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+UID:c4476f99-46b6-5647-b76d-6ae9b3328e7b@pghwidget
+DTSTAMP:20260910T182647Z
+SUMMARY:Cathedral of Learning Cinematic Light Show
+DTSTART:20260926T010000Z
+DTEND:20260926T011500Z
+LOCATION:Cathedral of Learning\, University of Pittsburgh
+DESCRIPTION:A special evening light-show display projected on the Cathedral of Learning.
 END:VEVENT
 END:VCALENDAR
