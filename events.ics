@@ -6,230 +6,220 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d7dac4ed-7bb6-526d-8b90-aab5bca63082@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Pittsburgh Irish Festival
+UID:ca9dc36f-0106-5cfe-bc28-514ea1b9f887@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh Irish Festival (35th Annual)
 DTSTART:20260912T150000Z
 DTEND:20260912T210000Z
 RRULE:FREQ=DAILY;UNTIL=20260913T150000Z
 LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Blvd.\, Pittsburgh\, PA 15218
-DESCRIPTION:The 35th annual Pittsburgh Irish Festival returns to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage.\\n\\nhttps://pghirishfest.org/
+DESCRIPTION:A three-day celebration of Irish music\, dance\, food and culture returning to the Carrie Blast Furnaces with live performances\, cultural activities\, vendors and plenty of chances to explore Irish heritage.\\n\\nhttps://pghirishfest.org/
 URL:https://pghirishfest.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:cfcb0077-b321-574a-b336-ce7172d5f970@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:A Fair in the Park (57th Annual)
-DTSTART:20260912T170000Z
-DTEND:20260912T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260913T170000Z
-LOCATION:Mellon Park at Fifth & Shady\, Shadyside
-DESCRIPTION:Roughly 85 artists set up their wares for this fine craft festival run by the Craftsmen's Guild of Pittsburgh\, featuring ceramics\, glass\, jewelry\, fiber\, leather\, metal and woodwork plus food trucks.\\n\\nhttps://www.pittwire.pitt.edu/features-articles/2026/08/27/free-september-events-pittsburgh
+UID:29c0c8c0-e845-5300-84a5-ef62545983bd@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:A Fair in the Park
+DTSTART:20260912T140000Z
+DTEND:20260912T210000Z
+RRULE:FREQ=DAILY;UNTIL=20260913T140000Z
+LOCATION:Mellon Park\, Pittsburgh
+DESCRIPTION:Roughly 85 artists set up their wares for this 57-year-old fine craft festival run by the Craftsmen's Guild of Pittsburgh\, featuring ceramics\, glass\, jewelry\, fiber\, leather\, metal and woodwork plus food trucks.\\n\\nhttps://www.pittwire.pitt.edu/features-articles/2026/08/27/free-september-events-pittsburgh
 URL:https://www.pittwire.pitt.edu/features-articles/2026/08/27/free-september-events-pittsburgh
 END:VEVENT
 BEGIN:VEVENT
-UID:78fb24b7-aa82-589e-a3c4-60dd89b5ad09@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Pittsburgh Mega Reptile Expo
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-LOCATION:Monroeville Convention Center
-DESCRIPTION:The Pittsburgh Mega Reptile Expo is turning FIVE this year\, having started as a reptile show.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:e5748e11-46e6-568e-81d5-b4646f79298f@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Pittsburgh Renaissance Festival — Pirate Invasion Weekend
-DTSTART:20260912T143000Z
-DTEND:20260912T223000Z
-RRULE:FREQ=DAILY;UNTIL=20260913T143000Z
-LOCATION:Morelandshire village site\, West Newton\, PA
-DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games and food\, with Pirate Invasion Weekend happening September 12th and 13th.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
 UID:bb74d87e-4d2e-5ab0-a4b9-13255cb93e4e@pghwidget
-DTSTAMP:20260912T173638Z
+DTSTAMP:20260912T234150Z
 SUMMARY:DreamFest 2026 Block Party
 DTSTART:20260912T160000Z
 DTEND:20260913T000000Z
 LOCATION:The Citizen Science Lab\, Hill District
-DESCRIPTION:A free outdoor block party filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+DESCRIPTION:A free outdoor block party in the Hill District filled with hands-on science\, music\, food and family fun\, with youth STEM activities\, live DJs\, local vendors and mini science workshops throughout the day.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:2ae59f5f-0684-51f2-9df6-9c78f8e09e35@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Pittsburgh International Jazz Festival (16th Annual)
+UID:08eba20f-204c-5c83-afbc-0d33cc848f23@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh Renaissance Festival — Pirate Invasion Weekend
+DTSTART:20260912T143000Z
+DTEND:20260912T223000Z
+RRULE:FREQ=DAILY;UNTIL=20260913T143000Z
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:The festival runs Saturdays and Sundays with jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun\; this weekend is themed 'Pirate Invasion Weekend'.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:0c93f6f2-c301-59d4-be6a-8d727884bfcf@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh International Jazz Festival
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
-LOCATION:August Wilson African American Cultural Center and Liberty Avenue
-DESCRIPTION:The 16th Annual Pittsburgh International Jazz Festival features Lalah Hathaway\, Terri Lyne Carrington\, and a Lifetime Achievement Award presentation to Bernard "Pretty" Purdie.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+LOCATION:Downtown Pittsburgh
+DESCRIPTION:The festival runs four days\, with free outdoor programming on Saturday and Sunday and ticketed events on Thursday and Friday.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
 URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:e6d00cb7-ecfd-5ae6-a0a2-857a47984512@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Full Day Youth Art Workshop: French Moderns
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-LOCATION:The Frick Pittsburgh
-DESCRIPTION:A youth art workshop themed around French Modern art\, part of the Frick's family programming.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:c505b5ee-a4ff-5621-a821-786c254f9d7e@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Turnstile (concert)
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-LOCATION:Stage AE
-DESCRIPTION:Fresh off two 2026 Grammy wins for Best Rock Album and Best Metal Performance\, Turnstile headlines Stage AE for the first time.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:1fb1b8cf-b06b-5dd5-b2c4-96e289789f18@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Penn Brewery Oktoberfest (Weekend 1)
-DTSTART:20260918T210000Z
-DTEND:20260918T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260920T210000Z
-LOCATION:Troy Hill (Penn Brewery)
-DESCRIPTION:A Bavarian-style beer and food festival at Pittsburgh's oldest craft brewery.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:9a166ade-b250-5976-8c27-549a4da0a675@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Penn Brewery Oktoberfest (Weekend 2)
-DTSTART:20260925T210000Z
-DTEND:20260925T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260927T210000Z
-LOCATION:Troy Hill (Penn Brewery)
-DESCRIPTION:A Bavarian-style beer and food festival at Pittsburgh's oldest craft brewery.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:4f551fc9-906d-5a67-b2db-02a5c8e72b6c@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:FestPGH (Inaugural Music & Arts Festival)
+UID:080d3d34-0619-5c05-af22-6347ca148b10@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:FestPGH (Inaugural)
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 LOCATION:Highmark Stadium
-DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, as well as laughter\, games\, family fun\, service opportunities and worship during the inaugural FestPGH music and arts festival.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+DESCRIPTION:Highmark Stadium will resound with the music of bands including headliner Switchfoot\, plus laughter\, games\, family fun\, service opportunities and worship during the inaugural music and arts festival.\\n\\nhttps://festpgh.org/
+URL:https://festpgh.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:70ad0f12-2f16-5559-8b43-a38d7d3dbe82@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Oktoberfest at Penn Brewery
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260929
+LOCATION:Penn Brewery\, North Side\, Pittsburgh
+DESCRIPTION:Pittsburgh's classic Oktoberfest returns to Penn's Northside location for fresh beer\, German food\, and live oompah music.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:f1f32dd3-69b1-58cc-8444-9ba4ed27628b@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Covered Bridge Festival
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-LOCATION:Washington & Greene Counties\, flagship stop at Mingo Creek County Park
-DESCRIPTION:This festive event typically takes place the third weekend in September\, featuring pop-up vendors at numerous covered bridges throughout the county\, with the flagship stop often Mingo Creek County Park due to its two covered bridges and hundreds of artisans.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:2f2b051f-ed82-563f-8f78-4da614d15147@pghwidget
-DTSTAMP:20260912T173638Z
+UID:6df92417-be9c-5917-abeb-1db83c0d1793@pghwidget
+DTSTAMP:20260912T234150Z
 SUMMARY:Pittsburgh Renaissance Festival — Wine Revelry and Romance Weekend
 DTSTART:20260919T143000Z
 DTEND:20260919T223000Z
 RRULE:FREQ=DAILY;UNTIL=20260920T143000Z
-LOCATION:West Newton\, PA
-DESCRIPTION:A themed weekend of the Renaissance Festival celebrating wine and romance.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:Wine Revelry and Romance Weekend takes place September 19th and 20th as part of the ongoing Renaissance Festival.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:db0a702b-6be9-5375-8afb-e7a95b8b4ffc@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Four Chord Music Festival
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260927
-LOCATION:F.N.B. Stadium
-DESCRIPTION:Four Chord 12 is a confirmed two-day event\, with Friday headlined by Knocked Loose and Saturday by Pierce the Veil.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+UID:3d99d27e-66d0-5be2-b26b-a7f08686bfe3@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Bryson Tiller ft. Majid Jordan — Neo Trapsoul Tour
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+LOCATION:The Pavilion at Star Lake\, 665 Rt. 18\, Burgettstown\, PA
+DESCRIPTION:The Neo Trapsoul Tour brings Tiller back to the Pittsburgh market with a stacked supporting bill including Majid Jordan and Ty Dolla $ign.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
 URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:7875ba02-9dda-54a1-8af6-8e10f7eb2e11@pghwidget
-DTSTAMP:20260912T173638Z
+UID:8909a00e-681d-574a-afbd-63fa2e96af89@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Four Chord Music Festival
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+LOCATION:Pittsburgh\, PA
+DESCRIPTION:A two-day festival with Knocked Loose headlining Friday and Pierce the Veil headlining Saturday.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:8590167a-0306-5c59-a896-b2577f07733d@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Haunted Three Rivers Cruise
+DTSTART:20260925T223000Z
+DTEND:20260926T000000Z
+RRULE:FREQ=DAILY;UNTIL=20261030T223000Z
+LOCATION:Departs from Station Square
+DESCRIPTION:A spooky evening trip along Pittsburgh's three rivers accompanied by ghost stories\, spooky crewmates and Tarot card readings.\\n\\nhttps://www.pittsburghmagazine.com/pittsburgh-fall-things-to-do-autumn-2026/
+URL:https://www.pittsburghmagazine.com/pittsburgh-fall-things-to-do-autumn-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd80a0a-7d10-5231-ac78-d282e938f4a0@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Zombies of the Corn
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+LOCATION:282 Rochester Rd.\, Freedom\, PA
+DESCRIPTION:Ride a specialized Zombie Fighting Vehicle to "open fire" and eliminate zombie creatures with an insatiable hunger for human flesh.\\n\\nhttps://www.pittsburghmagazine.com/pittsburgh-fall-things-to-do-autumn-2026/
+URL:https://www.pittsburghmagazine.com/pittsburgh-fall-things-to-do-autumn-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb29a83-ea9e-5efb-96d5-0dd1cd5ff15c@pghwidget
+DTSTAMP:20260912T234150Z
 SUMMARY:Drum Fest 2026
 DTSTART:20260926T170000Z
 DTEND:20260927T010000Z
-LOCATION:Herr's Island
-DESCRIPTION:Presented by the Pittsburgh Women's Wellness Drum Circle with free admission\, this vibrant event features live music\, local vendors\, food trucks\, and interactive drum circles for all ages.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+LOCATION:Herr's Island\, Pittsburgh
+DESCRIPTION:Presented by the Pittsburgh Women's Wellness Drum Circle with free admission for the community\, featuring live music\, local vendors\, food trucks and more.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:92d2adc0-4266-5367-ad70-86cd59b3710a@pghwidget
-DTSTAMP:20260912T173638Z
+UID:b8a3f670-5810-5d4a-a2e6-51044187f47d@pghwidget
+DTSTAMP:20260912T234150Z
 SUMMARY:Pittsburgh Renaissance Festival — Time Travelers Weekend
 DTSTART:20260926T143000Z
 DTEND:20260926T223000Z
 RRULE:FREQ=DAILY;UNTIL=20260927T143000Z
-LOCATION:West Newton\, PA
-DESCRIPTION:The season finale themed weekend of the Pittsburgh Renaissance Festival.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:The festival 'finishes the season with Time Travelers Weekend'.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
 URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:d5ddaa0c-964b-5c55-94eb-4b8cd426064d@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:MUNA (concert)
+UID:3e8c2b6f-4ba5-51e0-b4ce-d274c219fdb2@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh Steelers vs. Cincinnati Bengals
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+LOCATION:Acrisure Stadium\, North Shore
+DESCRIPTION:September is always a great month in Pittsburgh sports as it is the return of football season\, with the Steelers playing against the Bengals.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
+URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:636aec18-8cf8-57bf-bf01-a4214200192b@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Ecolution Fashion Gala: Pop Couture – Fashion\, Fame and Obsession
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+LOCATION:The Pennsylvanian\, 1100 Liberty Ave.\, Downtown Pittsburgh
+DESCRIPTION:A sustainability-focused fashion gala and runway event held downtown at The Pennsylvanian.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2377cd-0101-5a7f-8065-0ab48056cc5e@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Olivia Rodrigo — The Unraveled Tour
 DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-LOCATION:Stage AE
-DESCRIPTION:The Gets So Hot Tour\, with Hemlocke Springs opening.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+DTEND;VALUE=DATE:20261001
+LOCATION:PPG Paints Arena\, 1001 Fifth Ave.\, Pittsburgh
+DESCRIPTION:Rodrigo's Pittsburgh debut follows her third album\, which opened at No. 1 on the Billboard charts\; Wolf Alice opens the shows.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
 URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:cbb6acf8-c325-51a3-9c11-8a3c98d3d094@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Olivia Rodrigo — The Unraveled Tour (Night One)
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-LOCATION:PPG Paints Arena\, 1001 Fifth Ave.
-DESCRIPTION:Olivia Rodrigo's Pittsburgh debut on The Unraveled Tour\, supporting her album You Seem Pretty Sad For A Girl So In Love.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+UID:5707bc60-eb9e-54f9-81dd-a05fb3a0e91c@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh Renaissance Festival — Season Finale Weekend
+DTSTART:20261003T143000Z
+DTEND:20261003T223000Z
+RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:The festival runs Saturdays\, Sundays and Labor Day Monday from 10:30 a.m. to 6:30 p.m.\, through October 4.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
 END:VEVENT
 BEGIN:VEVENT
-UID:9639fc81-57ab-5af3-9ca5-b8c72168c166@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Olivia Rodrigo — The Unraveled Tour (Night Two)
-DTSTART:20260930T230000Z
-DTEND:20261001T010000Z
-LOCATION:PPG Paints Arena\, 1001 Fifth Ave.
-DESCRIPTION:The Unraveled Tour\, Night Two\, with Wolf Alice opening.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:3325978c-3ab6-5d4a-b76c-1e92b34d5f4b@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:PNC Broadway in Pittsburgh
+UID:cc3c8dd8-106b-53b1-ba71-eb824e14d674@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Broadway in Pittsburgh Production
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260928
-LOCATION:Benedum Center
-DESCRIPTION:A Broadway & musical theater production run presented as part of the PNC Broadway in Pittsburgh series.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Benedum Center\, Downtown
+DESCRIPTION:A multi-week run of a touring Broadway production presented by PNC Broadway in Pittsburgh (specific show title not listed in source).\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:025f9fb6-fdc2-546d-9604-8a640e63b5e2@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Trust Magic (Liberty Magic)
+UID:09687945-bf7e-57c1-b323-0df991f083b1@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Trust Magic Show
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260927
-LOCATION:Liberty Magic
-DESCRIPTION:An ongoing magic show series presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
+LOCATION:Liberty Magic\, Downtown
+DESCRIPTION:An ongoing intimate magic show presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:6f38be33-d21a-508b-8629-ea8e5cfabdaa@pghwidget
-DTSTAMP:20260912T173638Z
-SUMMARY:Pittsburgh Ballet Theatre Workshops & Classes
+UID:ff194811-7791-50af-8e64-0b3ff50305da@pghwidget
+DTSTAMP:20260912T234150Z
+SUMMARY:Pittsburgh Ballet Theatre Free Workshops & Classes
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260927
 LOCATION:Arts Landing
-DESCRIPTION:Free workshops and classes presented by Pittsburgh Ballet Theatre.\\n\\nhttps://trustarts.org/calendar
+DESCRIPTION:Free workshops and classes offered by Pittsburgh Ballet Theatre as part of the Cultural Trust's Arts Landing programming.\\n\\nhttps://trustarts.org/calendar
 URL:https://trustarts.org/calendar
 END:VEVENT
 END:VCALENDAR
