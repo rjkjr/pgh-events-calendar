@@ -6,352 +6,175 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:fb442f7c-5ad8-56a4-ad2d-876f9b8a3460@pghwidget
-DTSTAMP:20260920T102118Z
+UID:10530dcc-3471-5bf9-a179-a645c19ab9fc@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Pittsburgh Renaissance Festival
+DTSTART:20260926T143000Z
+DTEND:20260926T223000Z
+RRULE:FREQ=DAILY;UNTIL=20261004T143000Z
+LOCATION:Village of Morelandshire\, West Newton\, PA
+DESCRIPTION:Step into the village of Morelandshire for jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d02e948-5232-5f91-8d7c-5ca4064efa3b@pghwidget
+DTSTAMP:20260920T163255Z
 SUMMARY:Pittsburgh International Jazz Festival
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
-LOCATION:Liberty Avenue & August Wilson African American Cultural Center\, Downtown Pittsburgh
-DESCRIPTION:16th Annual Pittsburgh International Jazz Festival featuring Lalah Hathaway\, Terri Lyne Carrington\, and a Lifetime Achievement Award for Bernard "Pretty" Purdie.\\n\\nhttps://pittsburghjazzfest.org/
-URL:https://pittsburghjazzfest.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:6bf5e3d1-1a32-5e72-9ea6-9b291d93d599@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Renaissance Festival - Wine Revelry and Romance Weekend
-DTSTART:20260919T143000Z
-DTEND:20260919T223000Z
-RRULE:FREQ=DAILY;UNTIL=20260920T143000Z
-LOCATION:West Newton\, PA
-DESCRIPTION:Themed weekend at the Renaissance Festival featuring jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:3afcc58c-791f-5d1a-bc16-6b5921d4daf9@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Renaissance Festival - Time Travelers Weekend
-DTSTART:20260926T143000Z
-DTEND:20260926T223000Z
-RRULE:FREQ=DAILY;UNTIL=20260927T143000Z
-LOCATION:West Newton\, PA
-DESCRIPTION:Final weekend of the season\, featuring jousting\, costumed performers\, artisan vendors\, medieval rides\, games\, food and themed weekend fun.\\n\\nhttps://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-URL:https://www.kidsburgh.org/your-september-2026-pittsburgh-family-fun-guide-15-awesome-events-many-of-them-free/
-END:VEVENT
-BEGIN:VEVENT
-UID:996ff7c6-d7ee-59b1-b17c-ce7ec36ddcc6@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Penn Brewery Oktoberfest
-DTSTART:20260925T210000Z
-DTEND:20260925T230000Z
-RRULE:FREQ=DAILY;UNTIL=20260927T210000Z
-LOCATION:Penn Brewery\, Troy Hill / Northside\, Pittsburgh
-DESCRIPTION:Classic Bavarian-style celebration with beer\, German food\, and live oompah music.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+LOCATION:August Wilson African American Cultural Center / Liberty Avenue\, Downtown
+DESCRIPTION:Pittsburgh International Jazz Festival with times varying\, ticketed and free events.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:28c64415-a84e-5304-8195-422d6a6d304a@pghwidget
-DTSTAMP:20260920T102118Z
+UID:2016992e-3142-5329-b5eb-1abda134986c@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Penn Brewery Oktoberfest (second weekend)
+DTSTART:20260925T210000Z
+DTEND:20260925T230000Z
+RRULE:FREQ=DAILY;UNTIL=20260927T210000Z
+LOCATION:Penn Brewery\, Troy Hill
+DESCRIPTION:A German-style beer festival with fresh brews\, food and oompah music at Penn Brewery's Northside location.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:c478ac73-4506-5370-92fb-7eb2c817a2f8@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Pittsburgh Brewing Co. Oktoberfest
+DTSTART:20260926T160000Z
+DTEND:20260927T020000Z
+LOCATION:Pittsburgh Brewing Co. (PBC)
+DESCRIPTION:Pittsburgh Brewing Co. Oktoberfest\, noon-10pm\, $15+.\\n\\nhttps://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+URL:https://www.axios.com/local/pittsburgh/2026/08/31/september-events-festivals-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fb55aa46-6514-57c0-a879-ed0701d562bc@pghwidget
+DTSTAMP:20260920T163255Z
 SUMMARY:Four Chord Music Festival
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
-LOCATION:F.N.B. Stadium\, Station Square\, Pittsburgh
-DESCRIPTION:12th edition of the two-day music festival\, headlined by Knocked Loose and Pierce the Veil.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+LOCATION:F.N.B. Stadium at Station Square
+DESCRIPTION:Four Chord Music Festival returns for its 12th edition as a two-day event\, headlined by Knocked Loose and Pierce the Veil.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
 URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
 END:VEVENT
 BEGIN:VEVENT
-UID:8cb29a83-ea9e-5efb-96d5-0dd1cd5ff15c@pghwidget
-DTSTAMP:20260920T102118Z
+UID:7875ba02-9dda-54a1-8af6-8e10f7eb2e11@pghwidget
+DTSTAMP:20260920T163255Z
 SUMMARY:Drum Fest 2026
 DTSTART:20260926T170000Z
 DTEND:20260927T010000Z
-LOCATION:Herr's Island\, Pittsburgh
-DESCRIPTION:Pittsburgh Women's Wellness Drum Circle event with live music\, local vendors\, food trucks\, and interactive drum circles for all ages.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
+LOCATION:Herr's Island
+DESCRIPTION:Pittsburgh Women's Wellness Drum Circle presents Drum Fest 2026 featuring live music\, local vendors\, food trucks\, and interactive drum circles for all ages.\\n\\nhttps://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 URL:https://www.visitpittsburgh.com/blog/pittsburgh-summer-festivals/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b4b98c1-95ef-56d6-800e-08edebe5b76e@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Oktoberfest Pittsburgh (Downtown)
-DTSTART:20261001T160000Z
-DTEND:20261002T000000Z
-RRULE:FREQ=DAILY;UNTIL=20261011T160000Z
-LOCATION:Downtown Pittsburgh
-DESCRIPTION:German-inspired celebration of food\, music\, and community with free general admission.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
+UID:c4964bd5-1e2a-55e5-8ceb-f200cfc04205@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:The Great Race (Richard S. Caliguiri City of Pittsburgh Great Race)
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+LOCATION:Schenley Park to Point State Park\, Pittsburgh
+DESCRIPTION:A beloved tradition that has kept Pittsburghers moving through the city's streets for 49 years.\\n\\nhttps://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:a9d5cbd0-87aa-556f-ad1a-c427db35b8cc@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Renaissance Fair (Northland Library)
-DTSTART:20261003T140000Z
-DTEND:20261003T190000Z
-LOCATION:Northland Library
-DESCRIPTION:Renaissance-themed community fair.\\n\\nhttps://www.northernconnectionmag.com/post/happenings-september-2026
+UID:a967d9b8-b6cd-53d2-be88-e6d99213207f@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Pittsburgh County Fair (4th edition)
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+LOCATION:Pittsburgh
+DESCRIPTION:Back with new attractions\, the fourth edition celebrates urban agriculture and "all things homemade and handmade." Meet farm animals\, join the cast-iron skillet toss and bean threshing stomp\, and find out who grows the best tomatoes in Pittsburgh.\\n\\nhttps://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
+URL:https://nextpittsburgh.com/events/12-september-events-for-welcoming-fall-in-pittsburgh-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:c061d899-bf50-5ef8-a3f8-5497af115abc@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Rainbow Kitten Surprise
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+LOCATION:Stage AE
+DESCRIPTION:Indie-rock band Rainbow Kitten Surprise performs with opener Cigarettes @ Sunset.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea8ef56-835e-5f84-8dd9-593a47021625@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Olivia Rodrigo — The Unraveled Tour
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261001
+LOCATION:PPG Paints Arena
+DESCRIPTION:Olivia Rodrigo makes her Pittsburgh debut with two nights at PPG Paints Arena\, supported by Wolf Alice on The Unraveled Tour.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e3a9eb-2a32-583c-addd-f7e0598d8d17@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:MUNA — Gets So Hot Tour
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+LOCATION:Stage AE
+DESCRIPTION:The Gets So Hot Tour\, with Hemlocke Springs opening\, offers a focused club experience.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fca8f1-f61d-5984-a021-70c8bb75459a@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Luna (Sound Series)
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+LOCATION:The Andy Warhol Museum\, 117 Sandusky St.
+DESCRIPTION:Indie rockers Luna perform at the Warhol Museum on their fall tour as part of the ongoing Sound Series.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
+URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ea345e-4f8a-5908-a77b-1b5fa186de88@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:PNC Broadway in Pittsburgh
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260928
+LOCATION:Benedum Center\, Pittsburgh Cultural District
+DESCRIPTION:PNC Broadway in Pittsburgh - Broadway & Musical Theater.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:48d580a9-e46c-5fc2-ab88-d6d0cd396ca9@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Trust Magic (Liberty Magic residency show)
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260927
+LOCATION:Liberty Magic\, Pittsburgh Cultural District
+DESCRIPTION:Trust Magic - Magic show residency.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c41672cf-571b-5b15-95ff-1d7761381de3@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Ecolution Fashion Gala: Pop Couture — Fashion\, Fame and Obsession
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+LOCATION:The Pennsylvanian\, 1100 Liberty Ave.\, Downtown
+DESCRIPTION:Ecolution Fashion Gala Pop Couture: Fashion\, Fame and Obsession. VIP entry 6 p.m.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c10d7e6-4004-5247-aa84-52b22b5f9cb2@pghwidget
+DTSTAMP:20260920T163255Z
+SUMMARY:Hope Grows Uncorked & Skewered
+DTSTART:20260925T213000Z
+DTEND:20260926T000000Z
+LOCATION:Iris Respite House\, 183 Shafer Rd.\, Moon Township
+DESCRIPTION:Hope Grows Uncorked & Skewered event.\\n\\nhttps://www.northernconnectionmag.com/post/happenings-september-2026
 URL:https://www.northernconnectionmag.com/post/happenings-september-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cc47c412-c9d4-55f6-b531-d2b128fe86e6@pghwidget
-DTSTAMP:20260920T102118Z
+DTSTAMP:20260920T163255Z
 SUMMARY:Inclusive Nature Sensory Walk
 DTSTART:20260926T150000Z
 DTEND:20260926T160000Z
 LOCATION:Frick Park Environmental Center
-DESCRIPTION:Nature sensory walk program for inclusive audiences.\\n\\nhttps://www.northernconnectionmag.com/post/happenings-september-2026
+DESCRIPTION:Inclusive Nature Sensory Walk at Frick Park Environmental Center.\\n\\nhttps://www.northernconnectionmag.com/post/happenings-september-2026
 URL:https://www.northernconnectionmag.com/post/happenings-september-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:170c5675-5868-5e0a-8c49-8407bdf5a86b@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Rainbow Kitten Surprise
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-LOCATION:Stage AE\, North Shore
-DESCRIPTION:Rainbow Kitten Surprise with Cigarettes @ Sunset.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:89cc52de-cf89-5d67-8cea-0ab39fe916a6@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Luna (Sound Series)
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-LOCATION:The Andy Warhol Museum\, 117 Sandusky St.\, Pittsburgh
-DESCRIPTION:Indie rockers Luna perform on their fall tour\, coinciding with a vinyl reissue of Romantica.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:45701516-b9bb-5c07-aec6-14411c60411c@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Olivia Rodrigo: The Unraveled Tour
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261001
-LOCATION:PPG Paints Arena\, Downtown Pittsburgh
-DESCRIPTION:Olivia Rodrigo's Pittsburgh debut with two nights\, supported by Wolf Alice.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:783d950d-eba4-53f2-b14c-8b5c588bd8a2@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:MUNA
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-LOCATION:Stage AE
-DESCRIPTION:MUNA performs the same night as Olivia Rodrigo and Public Image Ltd.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:f7eb7c0f-4a94-5a72-85f4-b52ded1de362@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Public Image Ltd.
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DESCRIPTION:Performing the same night as Olivia Rodrigo and MUNA in Pittsburgh.\\n\\nhttps://resources.onestowatch.com/best-concerts-pittsburgh-september/
-URL:https://resources.onestowatch.com/best-concerts-pittsburgh-september/
-END:VEVENT
-BEGIN:VEVENT
-UID:b86ce48f-b818-5a75-93a6-f3aed4261312@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Role Model - Chuck On Tour (Venue Opening Night)
-DTSTART:20261001T233000Z
-DTEND:20261002T013000Z
-LOCATION:Citizens Live at The Wylie\, 1201 Wylie Ave.\, Pittsburgh
-DESCRIPTION:Role Model opens the new venue on the first night of October\, doubling as venue debut and tour stop.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:7274eb99-f1ad-51ea-844c-31a325dddb2c@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Wiz Khalifa
-DTSTART:20261002T233000Z
-DTEND:20261003T013000Z
-LOCATION:Citizens Live at The Wylie\, Pittsburgh
-DESCRIPTION:Wiz Khalifa performs at Citizens Live at The Wylie.\\n\\nhttps://allevents.in/pittsburgh/october
-URL:https://allevents.in/pittsburgh/october
-END:VEVENT
-BEGIN:VEVENT
-UID:f0b580fa-4413-5d24-8978-1c9ef583edf9@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:glaive - God Save the Three Tour
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Mr Smalls Theatre\, Millvale\, PA
-DESCRIPTION:glaive with Tiffany Day and Kurtains.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:fc0aa48b-85c0-550f-bc48-c3a4aaf62692@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Smashing Pumpkins
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-DESCRIPTION:Part of a three-show conflict night in Pittsburgh.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:85b772ac-7292-597f-b0d9-9d1eaf5385aa@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Interpol (with DIIV)
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-DESCRIPTION:Part of a three-show conflict night in Pittsburgh.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:7fb28a9e-2276-514d-a853-53c71c80384e@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Two Door Cinema Club
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-DESCRIPTION:Part of a three-show conflict night in Pittsburgh.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:936cde6a-b4e5-507f-bf9b-23dc39708787@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Soccer Mommy
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DESCRIPTION:One of four priority October shows in Pittsburgh's concert calendar.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:9806c30d-4b9d-5fa6-b616-cfe15a77be78@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Sturgill Simpson (as Johnny Blue Skies) - Mutiny for the Masses Tour
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-LOCATION:Petersen Events Center\, Oakland
-DESCRIPTION:Sturgill Simpson performing as Johnny Blue Skies on the Mutiny for the Masses tour.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:f2eeb04c-8f2b-5f6c-9585-102903145192@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Chance the Rapper
-DTSTART:20261011T230000Z
-DTEND:20261012T010000Z
-LOCATION:Citizens Live at The Wylie\, Pittsburgh
-DESCRIPTION:Chance the Rapper performs at Citizens Live at The Wylie.\\n\\nhttps://allevents.in/pittsburgh/october
-URL:https://allevents.in/pittsburgh/october
-END:VEVENT
-BEGIN:VEVENT
-UID:468da6c3-67a3-521c-ba3c-9dce7ad70ecc@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Ringling Bros and Barnum and Bailey
-DTSTART:20261016T230000Z
-DTEND:20261017T010000Z
-LOCATION:PPG Paints Arena\, Downtown Pittsburgh
-DESCRIPTION:Circus performance at PPG Paints Arena.\\n\\nhttps://allevents.in/pittsburgh/october
-URL:https://allevents.in/pittsburgh/october
-END:VEVENT
-BEGIN:VEVENT
-UID:9ead1059-d247-587c-b906-49c9b78aeb8f@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Rod Wave (with FRIDAYY)
-DTSTART:20261024T043000Z
-DTEND:20261024T063000Z
-LOCATION:PPG Paints Arena\, Downtown Pittsburgh
-DESCRIPTION:Rod Wave with FRIDAYY performs at PPG Paints Arena.\\n\\nhttps://allevents.in/pittsburgh/october
-URL:https://allevents.in/pittsburgh/october
-END:VEVENT
-BEGIN:VEVENT
-UID:825ed5f7-1b36-5ea8-adfc-391792bc56bc@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:PNC Broadway in Pittsburgh
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260928
-LOCATION:Benedum Center\, Cultural District\, Downtown Pittsburgh
-DESCRIPTION:Broadway & Musical Theater production run.\\n\\nhttps://www.culturaldistrict.org/calendar
-URL:https://www.culturaldistrict.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:563f1d33-4442-51ab-8d26-614223e687ad@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Cultural Trust Film Program
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Harris Theater\, Cultural District
-DESCRIPTION:Film program presented by the Pittsburgh Cultural Trust.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:48d04c49-a43d-5367-9803-c2041dde97cb@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Family/Live Music Event at Arts Landing
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-LOCATION:Arts Landing\, Cultural District
-DESCRIPTION:Free family and live music variety event.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:55af3209-7e00-5198-a390-e6eb795c7591@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:August Wilson Cultural Center Weekend Program
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-LOCATION:August Wilson African American Cultural Center
-DESCRIPTION:Weekend programming\, part of Jazz Fest weekend.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:532c5fb3-f8dd-558c-bdf9-53a36878ea3f@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:City Theatre Mainstage Production
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20261012
-LOCATION:City Theatre Mainstage
-DESCRIPTION:City Theatre mainstage production run.\\n\\nhttps://trustarts.org/calendar
-URL:https://trustarts.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:f905e786-8541-5336-9837-9382a61df454@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Symphony Orchestra Classical Concert
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-LOCATION:Heinz Hall\, Downtown Pittsburgh
-DESCRIPTION:Classical concert series with live music.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:1141dedf-8405-5b6e-bc3e-66fd0da63c0c@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Speakers Series
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-LOCATION:Heinz Hall\, Downtown Pittsburgh
-DESCRIPTION:Pittsburgh Speakers Series event.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:d567752a-de40-588f-bf86-8b24fb296253@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Symphony Orchestra Concert
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-LOCATION:Heinz Hall
-DESCRIPTION:Concert with live music by the Pittsburgh Symphony Orchestra.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:973ceaae-f69e-5b33-8297-a758900c6639@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Ecolution Fashion Gala: Pop Couture
-DTSTART:20260930T233000Z
-DTEND:20261001T013000Z
-LOCATION:The Pennsylvanian\, 1100 Liberty Ave.\, Downtown Pittsburgh
-DESCRIPTION:Fashion gala themed "Pop Couture: Fashion\, Fame and Obsession\," VIP entry at 6 p.m.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/the-big-pittsburgh-september-event-guide/
-END:VEVENT
-BEGIN:VEVENT
-UID:f5b1c8ff-0740-5dfb-9f20-f7e328d55a92@pghwidget
-DTSTAMP:20260920T102118Z
-SUMMARY:Pittsburgh Steelers Home Game vs. Cincinnati Bengals
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-LOCATION:Acrisure Stadium\, North Shore\, Pittsburgh
-DESCRIPTION:Steelers home game against the Bengals.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-september/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-september/
 END:VEVENT
 END:VCALENDAR
