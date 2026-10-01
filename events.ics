@@ -6,507 +6,514 @@ X-WR-CALNAME:Pittsburgh Events
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:b9ec5d91-06a3-57ea-baeb-b53a9e4bf2d1@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Oktoberfest Pittsburgh
-DTSTART:20261001T160000Z
-DTEND:20261002T000000Z
-RRULE:FREQ=DAILY;UNTIL=20261011T160000Z
-LOCATION:Downtown Pittsburgh\, Fort Duquesne Boulevard from Stanwix Street to 7th Street\, including the 6th Street Bridge
-DESCRIPTION:Taking place over 11 days\, this event celebrates German-inspired culture\, food\, music\, and community.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
-URL:https://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
+UID:52019d35-8522-5be5-802f-03e27396bb0e@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:The Red Clay Strays (with The Revivalists & Haley Reinhart)
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+LOCATION:PPG Paints Arena\, Downtown Pittsburgh
+DESCRIPTION:Southern rock band headlines an arena show with support acts The Revivalists and Haley Reinhart.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:82a0f4d7-80be-58c3-914b-7578264559d1@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Festival of Combustion
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Boulevard\, Pittsburgh
-DESCRIPTION:This festival returns to Carrie Blast Furnaces with hands-on demonstrations\, tours of the property\, live music\, craft beer\, and food trucks.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+UID:4e6fa99e-56b3-50d9-ac7d-196525254163@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Role Model — Chuck On Tour (with SAMIA)
+DTSTART:20261001T223000Z
+DTEND:20261002T003000Z
+LOCATION:Citizens Live at The Wylie\, Lower Hill District\, Pittsburgh
+DESCRIPTION:Role Model — Chuck On Tour stop with support from SAMIA.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 END:VEVENT
 BEGIN:VEVENT
-UID:9804ed45-addf-596a-9d3e-a551cf23e1fa@pghwidget
-DTSTAMP:20261001T062917Z
+UID:d2e88d6b-a103-5426-9cdd-6f1d66294ebf@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Messer Chups
+DTSTART:20261001T233000Z
+DTEND:20261002T013000Z
+LOCATION:Crafthouse Stage & Grill\, Pittsburgh
+DESCRIPTION:Surf/horror-rock instrumental band plays a club date.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa7b671-b0ae-54d9-a460-295013c1ae4c@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Maggie Rose — Half Moon Tour
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+LOCATION:Thunderbird Café & Music Hall\, Pittsburgh
+DESCRIPTION:Nashville singer-songwriter performs on her Half Moon tour.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d382ef34-1972-5f06-b76e-1a93197d46c8@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:SAMIA
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Singer-songwriter performs as support/co-headliner.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:a38079ff-adc6-525e-90a1-33036f4aed7b@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Cryptid Summer (with Hemlock for Socrates)
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+LOCATION:Spirit Lodge\, Pittsburgh
+DESCRIPTION:Indie rock show with local opener Hemlock for Socrates.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7274eb99-f1ad-51ea-844c-31a325dddb2c@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Wiz Khalifa
+DTSTART:20261002T233000Z
+DTEND:20261003T013000Z
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Pittsburgh-native rapper performs a hometown show.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:bdafc603-7f34-5d9b-986e-022fed4379d0@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:The Linda Lindas (with Deux Visages)
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+LOCATION:Mr. Smalls Theatre\, Millvale\, PA
+DESCRIPTION:Teen punk-rock band plays a club show with support from Deux Visages.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:600b4997-06b3-5d2e-8a3a-796231c2c557@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Michael Franti Trio (with Wheeland Brothers)
+DTSTART:20261003T000000Z
+DTEND:20261003T020000Z
+LOCATION:Roxian Theatre\, McKees Rocks\, PA
+DESCRIPTION:Acoustic trio set from the Spearhead frontman.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:59debd1d-5977-5073-932f-8b9705c3d870@pghwidget
+DTSTAMP:20261001T123305Z
 SUMMARY:Confluence PumpkinFest
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-LOCATION:Confluence\, PA\, along Routes 281 and 523
-DESCRIPTION:A Fall Foliage celebration including a Pumpkinfest Queen Pageant\, a 5K run/walk\, an antique and classic auto show\, a parade\, and a largest pumpkin contest.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+LOCATION:Confluence\, PA (Routes 281 and 523)
+DESCRIPTION:Festival featuring Pumpkinfest Queen Pageant\, 5K run/walk\, antique auto show\, parade and largest pumpkin contest.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:f14d6244-11bc-52ce-86f6-b8f9e3323880@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Reel Q Film Festival (41st Annual)
+UID:8d8e16e7-33c5-58e9-b647-3170fa77c360@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Reel Q Pittsburgh LGBTQ Film Festival
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261011
-LOCATION:Multiple locations\, including Carnegie Mellon University
-DESCRIPTION:The 41st annual Reel Q Film Festival highlights queer filmmakers and stories\, taking over Carnegie Mellon University with new film premieres and local short films.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+LOCATION:Multiple locations\, including Carnegie Mellon University\, Pittsburgh
+DESCRIPTION:41st annual Reel Q Film Festival highlighting queer filmmakers and stories.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:ad275d36-13bf-50b3-86bb-97080a5d52ed@pghwidget
-DTSTAMP:20261001T062917Z
+DTSTAMP:20261001T123305Z
 SUMMARY:Jack O'Lantern Extravaganza
 DTSTART:20261002T223000Z
 DTEND:20261003T020000Z
 RRULE:FREQ=DAILY;UNTIL=20261101T233000Z
 LOCATION:Pittsburgh Zoo & Aquarium\, 7370 Baker Street\, Pittsburgh
-DESCRIPTION:The Zoo will illuminate the city with thousands of artistically carved pumpkins glowing on a night walk\; ZooBoo trick-or-treating also returns during daytime hours the last two weekends of October.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+DESCRIPTION:Thousands of artistically carved pumpkins glowing on a night walk through this display.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:6714986c-df5a-5e3a-91bb-82515256d46e@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Leechburg Annual Fall Festival
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Leechburg Riverfront Park\, Kiski Avenue\, Leechburg
-DESCRIPTION:A community fall festival at the riverfront park in Leechburg.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:db8f7e13-ceaf-5dda-bd88-c52db608aec6@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Freedom Farms Fall Fest
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Freedom Farms\, 434 Overbrook Road\, Valencia
-DESCRIPTION:Fall activities like tractor rides\, a corn maze\, a hay mountain\, a petting zoo\, pick-your-own flowers\, and pumpkin carving and decorating.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:ab762513-df1f-5658-be84-d070fd5fb3d3@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Autumnfest at Seven Springs
-DTSTART:20261003T150000Z
-DTEND:20261003T210000Z
-RRULE:FREQ=DAILY;UNTIL=20261018T150000Z
-LOCATION:Seven Springs Mountain Resort\, Champion\, PA
-DESCRIPTION:Enjoy the beauty of the season and tons of activities for families including the Alpine Slide and Kids Zone at Seven Springs Mountain Resort.\\n\\nhttps://www.pittsburghparent.com/best-events-october-2026/
-URL:https://www.pittsburghparent.com/best-events-october-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:00ba1c75-7a7f-5afe-865e-de7d93fc9221@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Annual Country Fall Festival (Zelienople)
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-LOCATION:Downtown Zelienople\, various locations
-DESCRIPTION:Two days of musical entertainment\, three towers of paranormal ghost walks\, pumpkin and costume contests\, chainsaw carving\, a petting zoo\, free horse-drawn wagon rides\, and historic encampments.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:d6b73a2f-b9df-5de0-81c7-133e303f9134@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Fall Flower Show: Alice's Adventures in Autumn
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261102
-LOCATION:Phipps Conservatory & Botanical Gardens\, 1 Schenley Park\, Pittsburgh
-DESCRIPTION:Combines the whimsy of Phipps' unique take on Lewis Carroll's story with stunning chrysanthemums — and a few spooky surprises.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:855a94f2-0b1d-531f-807f-111260bca45d@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Allentown Night Market
-DTSTART:20261010T230000Z
-DTEND:20261011T030000Z
-LOCATION:Allentown neighborhood\, Pittsburgh
-DESCRIPTION:A night of fun in Pittsburgh's Allentown neighborhood.\\n\\nhttps://www.discovertheburgh.com/visit-pittsburgh-in-october/
-URL:https://www.discovertheburgh.com/visit-pittsburgh-in-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:8ca8d753-ece8-522e-851b-db0292c8a078@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Dormont Street and Music Festival
-DTSTART:20261010T170000Z
-DTEND:20261011T000000Z
-LOCATION:Dormont\, PA
-DESCRIPTION:An all-ages festival offering a full day of live music across three stages with bands\, food\, arts and crafts\, and activities for all.\\n\\nhttps://www.pittsburghparent.com/free-events-oct-2026/
-URL:https://www.pittsburghparent.com/free-events-oct-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:7a41f649-6dee-5bb8-9ad6-45811982ef76@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Pittsburgh Monster Pumpkins Festival
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-LOCATION:Strip District\, Pittsburgh
-DESCRIPTION:Pittsburgh's signature Fall event\, drawing tens of thousands of spectators over two days to see the 'Greatest Growth on Earth' — giant pumpkins.\\n\\nhttps://monsterpumpkins.com/
-URL:https://monsterpumpkins.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:1ff1796f-faf1-5c28-97f2-1f72a5c4ed32@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Mission of Mercy Pittsburgh 2026
-DTSTART:20261016T100000Z
-DTEND:20261016T120000Z
-RRULE:FREQ=DAILY;UNTIL=20261017T100000Z
-LOCATION:David L. Lawrence Convention Center\, 960 Fort Duquesne Blvd\, Downtown
-DESCRIPTION:A two-day free dental and hearing clinic held at the convention center.\\n\\nhttps://www.pittsburghparent.com/free-events-oct-2026/
-URL:https://www.pittsburghparent.com/free-events-oct-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:b1f67cf3-8c4a-5e3d-91f6-416c1313a6d2@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Bitchcraft Fair: Magickal Marketplace of Makers and Mystics
-DTSTART:20261004T160000Z
-DTEND:20261004T220000Z
-LOCATION:David L. Lawrence Convention Center\, 960 Fort Duquesne Blvd\, Downtown
-DESCRIPTION:A market of magickal makers and mystics held downtown.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:aebeb8b3-1b48-5cba-be57-6fc1b52335d5@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Spooky Spirits Walk
-DTSTART:20261015T220000Z
-DTEND:20261015T233000Z
-LOCATION:The Frick Pittsburgh\, 7227 Reynolds St.\, Point Breeze
-DESCRIPTION:A themed evening walking tour through The Frick's historic grounds.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:158a0545-6aa5-5646-aa52-4b36c13696f7@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Howl-O-Ween Spooktacular 5K Family Fun Run
-DTSTART:20261015T130000Z
-DTEND:20261015T150000Z
-LOCATION:White Oak Park\, McKeesport
-DESCRIPTION:A family-friendly Halloween-themed 5K run.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:4ca82651-1939-5c06-a80e-ee13f364a26c@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Gemini Children's Theater presents Legend of Sleepy Hollow
-DTSTART:20261001T230000Z
-DTEND:20261002T010000Z
-RRULE:FREQ=DAILY;UNTIL=20261004T230000Z
-LOCATION:Ryan Arts and Culture Center\, 420 Chartiers Ave.\, McKees Rocks
-DESCRIPTION:A children's theater production of the classic Halloween tale.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:a7fd7652-3142-5047-9e15-62dfab4d4485@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Vampyr with the Andrew Alden Ensemble
-DTSTART:20261015T230000Z
-DTEND:20261016T010000Z
-LOCATION:Harris Theater\, 809 Liberty Ave.\, Downtown
-DESCRIPTION:A silent film screening with live musical accompaniment.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
-END:VEVENT
-BEGIN:VEVENT
-UID:81af46db-b67f-58f6-b830-967b279f97fc@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Scary Tales Tours at the Hoyt
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-LOCATION:Historic Hoyt Period House\, New Castle\, PA
-DESCRIPTION:A ticketed Halloween event that embraces five winning original terrors written by locals and inspired by rooms inside the historic house.\\n\\nhttps://cumberlink.com/life-entertainment/community/article_2c30600f-0865-5419-87ec-528a4dcd799e.html
-URL:https://cumberlink.com/life-entertainment/community/article_2c30600f-0865-5419-87ec-528a4dcd799e.html
-END:VEVENT
-BEGIN:VEVENT
-UID:63cad4ed-0018-5a3d-b2ed-b592df12d76a@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Living Dead Weekend: Re-Animated
-DTSTART:20261016T160000Z
-DTEND:20261016T180000Z
-LOCATION:Oak Hill\, Monroeville Mall
-DESCRIPTION:A horror/zombie-themed fan convention weekend.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:8de0f36c-4454-5640-b471-30b4c090e8bb@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Pittsburgh Coffee & Chocolate Festival
-DTSTART:20261017T140000Z
-DTEND:20261017T160000Z
-LOCATION:Monroeville Convention and Events Center\, Oak Hill
-DESCRIPTION:A festival celebrating coffee and chocolate vendors and tastings.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cde0db52-353a-50dc-9ae6-60efa2fee40d@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:A Bookish Affair - Romantasy Masquerade 2026
-DTSTART:20261024T210000Z
-DTEND:20261024T230000Z
-LOCATION:Broken Plow Martial Arts\, West Tarentum
-DESCRIPTION:A masquerade-themed book-lovers event celebrating the romantasy genre.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:4f552a55-51b7-5bd3-8d4f-e0acba4280a7@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Garfield Community Farm 2026 Fall Fundraiser
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-LOCATION:Tree Pittsburgh
-DESCRIPTION:A fun and cozy evening filled with great food\, drinks\, and local art celebrating and supporting the impact of Garfield Community Farm.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:6d132b90-6ec6-5a10-aff0-72e148a4713e@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Shadyside House Tour
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Winchester Thurston\, Shadyside
-DESCRIPTION:A self-guided journey through private and historic homes celebrating enduring craftsmanship.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:749a6201-9dbb-5a22-8df0-fd3fd6496a95@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Metabolic Reset Summit | Pittsburgh\, PA
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-LOCATION:DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown
-DESCRIPTION:A 2-day health summit to reset body\, mind\, and finances\, with top coaches and leaders.\\n\\nhttps://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-URL:https://www.eventbrite.com/d/pa--pittsburgh/pittsburgh-october-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:932406e4-ac5a-5e6b-be05-a6b4ebe2458e@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Jubilee on the Green: AW Community Day
-DTSTART:20261003T160000Z
-DTEND:20261003T180000Z
-LOCATION:Hazelwood Green Plaza
-DESCRIPTION:A free community day event at Hazelwood Green.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:19465127-eae2-59e8-9fa4-dddce0ceb397@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Pupsburgh
-DTSTART:20261003T160000Z
-DTEND:20261003T180000Z
-LOCATION:PNC Park
-DESCRIPTION:A dog-friendly community event held at PNC Park.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:5453205b-3053-58b7-a0b4-13a36c3bbd50@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Legends Expo: Pittsburgh PA
-DTSTART:20261003T150000Z
-DTEND:20261003T170000Z
-LOCATION:David L. Lawrence Convention Center
-DESCRIPTION:A pop-culture/collectibles and celebrity autograph expo.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:b95b5b85-a985-5b83-9dfd-106f5e0a3e38@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:COLDCUTS FEST 7
-DTSTART:20261003T160000Z
-DTEND:20261003T180000Z
-LOCATION:Millvale Riverfront Park
-DESCRIPTION:A riverfront music and arts festival in Millvale.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:d3e45ea7-fe83-502a-ae14-2d4cfc626af5@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Antique Skyscrapers Rooftop Tours
-DTSTART:20261003T140000Z
-DTEND:20261003T160000Z
-LOCATION:Koppers Building\, Downtown Pittsburgh
-DESCRIPTION:A guided rooftop tour of one of Pittsburgh's historic downtown skyscrapers.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:4954954d-d15f-5241-8936-aea8ba6b5d5b@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Bolt Bash 2026
-DTSTART:20261003T140000Z
-DTEND:20261003T160000Z
-LOCATION:2250 Noblestown Rd\, Pittsburgh\, PA 15205
-DESCRIPTION:A community fitness/running or automotive event (exact theme per listing).\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:b1b9bcc3-a78e-5bca-87b1-94d3d83a3048@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Riverview Park Day
-DTSTART:20261003T193000Z
-DTEND:20261003T213000Z
-LOCATION:Riverview Avenue\, Pittsburgh
-DESCRIPTION:A free community celebration day at Riverview Park.\\n\\nhttps://allevents.in/pittsburgh/2026-10-03
-URL:https://allevents.in/pittsburgh/2026-10-03
-END:VEVENT
-BEGIN:VEVENT
-UID:15a49654-abbd-56df-b048-9f02f2ad8300@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:PGX 2026 - Pittsburgh Gaming Expo
-DTSTART:20261002T140000Z
-DTEND:20261002T160000Z
-LOCATION:Monroeville Convention Center
-DESCRIPTION:A gaming and pop-culture expo featuring panels and vendors.\\n\\nhttps://arcane.city/
-URL:https://arcane.city/
-END:VEVENT
-BEGIN:VEVENT
-UID:582906d2-1056-5137-b9e5-a41d9937fac3@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Role Model — Chuck On Tour (with Samia)
-DTSTART:20261001T223000Z
-DTEND:20261002T035900Z
-LOCATION:Citizens Live at The Wylie\, Lower Hill District
-DESCRIPTION:A priority OnesToWatch pick for October 2026 in Pittsburgh.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
-URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:e5f59681-f198-5d55-9d6e-ef01529ace50@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:The Red Clay Strays (with The Revivalists and Haley Reinhart)
-DTSTART:20261002T000000Z
-DTEND:20261002T020000Z
-LOCATION:PPG Paints Arena\, Downtown
-DESCRIPTION:A major touring rock/Americana concert.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
-URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:9ac438d5-fbd3-5dda-8102-20d48551eac6@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Maggie Rose — Half Moon Tour
-DTSTART:20261002T000000Z
-DTEND:20261002T020000Z
-LOCATION:Thunderbird Café & Music Hall
-DESCRIPTION:A country/soul singer-songwriter concert.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
-URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:678c5093-302b-5184-afd2-b8c14e66907c@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Cryptid Summer (with Hemlock for Socrates)
-DTSTART:20261002T000000Z
-DTEND:20261002T020000Z
-LOCATION:Spirit Lodge\, Lawrenceville
-DESCRIPTION:An artrock/post-punk/goth show.\\n\\nhttps://arcane.city/
-URL:https://arcane.city/
-END:VEVENT
-BEGIN:VEVENT
-UID:08b7d713-36ff-5c6a-8a9b-8e0100ff589a@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Wiz Khalifa
-DTSTART:20261003T000000Z
-DTEND:20261003T020000Z
-LOCATION:Citizens Live at The Wylie
-DESCRIPTION:Pittsburgh hometown rapper Wiz Khalifa performs a hometown show.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
-URL:https://www.ticketmaster.com/discover/pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:9a30f119-c2aa-54cb-b701-2e6295e32ba7@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Robin Trower
-DTSTART:20261003T000000Z
-DTEND:20261003T020000Z
-LOCATION:Palace Theatre
-DESCRIPTION:A classic rock guitar legend performs live.\\n\\nhttps://www.ticketmaster.com/discover/pittsburgh
-URL:https://www.ticketmaster.com/discover/pittsburgh
-END:VEVENT
-BEGIN:VEVENT
-UID:b5f9eddc-c93e-5ed4-9299-e7a234a7abb3@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:The Linda Lindas (with Deux Visages)
-DTSTART:20261003T000000Z
-DTEND:20261003T020000Z
-LOCATION:Mr. Smalls Theatre\, Millvale
-DESCRIPTION:A punk rock band performs live.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
-URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:9ed29952-10d4-5438-a670-ca4aabf534d5@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Michael Franti Trio (with Wheeland Brothers)
-DTSTART:20261003T000000Z
-DTEND:20261003T020000Z
-LOCATION:Roxian Theatre\, McKees Rocks
-DESCRIPTION:A reggae/folk-rock concert.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
-URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:4dda4688-e6fe-520d-a7ca-000ce01a7015@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:glaive — GOD SAVE THE THREE TOUR (with Tiffany Day and Kurtains)
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-LOCATION:Mr Smalls Theatre\, Millvale\, PA
-DESCRIPTION:A priority show highlighted by OnesToWatch as part of its coverage of Pittsburgh's October concert calendar.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-END:VEVENT
-BEGIN:VEVENT
-UID:6dcc403a-8fd6-5176-b910-24cf370c3d13@pghwidget
-DTSTAMP:20261001T062917Z
+UID:ee060b62-5d03-57fd-821f-d337c5aca3dd@pghwidget
+DTSTAMP:20261001T123305Z
 SUMMARY:Styx (with The Outlaws)
 DTSTART:20261004T000000Z
 DTEND:20261004T020000Z
-LOCATION:Citizens Live at The Wylie
-DESCRIPTION:Classic rock band Styx performs live with support from The Outlaws.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Classic rock mainstay brings a catalog-spanning set to the venue's first weekend.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:d098b7cb-2910-5148-b410-4ac7d4e85c23@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:glaive — GOD SAVE THE THREE TOUR (with Tiffany Day & Kurtains)
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Mr Smalls Theatre\, Millvale\, PA
+DESCRIPTION:GOD SAVE THE THREE TOUR stop with support from Tiffany Day and Kurtains.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:03001ce3-c26f-58de-b3ff-9203ce506f93@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Paul Oakenfold with The Crystal Method
+DTSTART:20261004T000000Z
+DTEND:20261004T020000Z
+LOCATION:Roxian Theatre\, McKees Rocks\, PA
+DESCRIPTION:Legendary electronic DJs share the bill for a dance-music night.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
 URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:689b8ca8-1b79-5f12-a564-f25ff1032b12@pghwidget
-DTSTAMP:20261001T062917Z
+DTSTAMP:20261001T123305Z
 SUMMARY:Count Basie Orchestra with Nnenna Freelon
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 LOCATION:MCG Jazz\, Pittsburgh
-DESCRIPTION:An MCG Jazz concert featuring the Count Basie Orchestra with vocalist Nnenna Freelon.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+DESCRIPTION:Count Basie Orchestra with vocalist Nnenna Freelon performs an MCG Jazz concert.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 END:VEVENT
 BEGIN:VEVENT
-UID:c059755c-6545-5eba-8204-cf3894616f05@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Pittsburgh Symphony Orchestra: Gerstein Plays Brahms
-DTSTART;VALUE=DATE:20261002
+UID:38f90c3e-1b92-5109-9061-360cb077b022@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:156/Silence and Revocation
+DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-LOCATION:Heinz Hall\, Downtown
-DESCRIPTION:Pianist Kirill Gerstein performs Brahms with the Pittsburgh Symphony Orchestra.\\n\\nhttps://pittsburghsymphony.org/calendar
-URL:https://pittsburghsymphony.org/calendar
+LOCATION:Preserving Underground\, New Kensington\, PA
+DESCRIPTION:Both acts appear during the first weekend of October.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 END:VEVENT
 BEGIN:VEVENT
-UID:13e6508c-3196-5055-929d-3463f3061351@pghwidget
-DTSTAMP:20261001T062917Z
+UID:07660b2a-c25b-5237-88d9-7eea2ac3111b@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Coldcuts Fest 7
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Millvale Riverfront Park\, Millvale\, PA
+DESCRIPTION:Local music festival on the riverfront featuring multiple acts.\\n\\nhttps://www.bandsintown.com/c/pittsburgh-pa
+URL:https://www.bandsintown.com/c/pittsburgh-pa
+END:VEVENT
+BEGIN:VEVENT
+UID:475044b1-c77e-5f06-a869-9fdae53ab5f5@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:WQED Preview – Rigoletto
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+LOCATION:WQED-FM 89.3
+DESCRIPTION:Radio preview broadcast ahead of Pittsburgh Opera's Rigoletto run.\\n\\nhttps://pittsburghopera.org/calendar/
+URL:https://pittsburghopera.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:82a0f4d7-80be-58c3-914b-7578264559d1@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Festival of Combustion
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Carrie Blast Furnaces\, 801 Carrie Furnace Boulevard\, Pittsburgh
+DESCRIPTION:Fall festival with hands-on demonstrations\, tours\, live music\, craft beer\, and food trucks.\\n\\nhttps://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+URL:https://www.visitpittsburgh.com/blog/fall-fairs-festivals-and-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:c78cc532-6dfd-54a2-90c1-441d53bdccc6@pghwidget
+DTSTAMP:20261001T123305Z
 SUMMARY:Foster The People — Good Mourning Sunshine Tour (with Goth Babe)
 DTSTART:20261005T000000Z
 DTEND:20261005T020000Z
-LOCATION:Citizens Live at The Wylie
-DESCRIPTION:Foster The People's return to Pittsburgh suits the new room's sightlines and sound\, with Goth Babe adding a notable support draw.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Foster The People's return to Pittsburgh\, with Goth Babe as support.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
 END:VEVENT
 BEGIN:VEVENT
-UID:65c26fb1-ff94-556e-8997-0d15dae95c4e@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Benjamin Tod (with Candi Jenkins)
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-LOCATION:Roxian Theatre\, McKees Rocks
-DESCRIPTION:A country/folk singer-songwriter concert.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
-URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+UID:b1d67a1c-b3a2-5392-a2a8-9fc0051a4dd1@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Goodbye June
+DTSTART:20261004T233000Z
+DTEND:20261005T013000Z
+LOCATION:Crafthouse Stage & Grill\, Pittsburgh
+DESCRIPTION:Southern rock band plays a club date.\\n\\nhttps://www.wyep.org/wyep-pittsburgh-concert-calendar
+URL:https://www.wyep.org/wyep-pittsburgh-concert-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:eb571f7b-e3f0-5f31-9801-02fa8ab023c5@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Medium Build and Ken Yates
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-LOCATION:Mr. Smalls Theatre\, Millvale
-DESCRIPTION:An indie folk-rock double bill.\\n\\nhttps://www.songkick.com/metro-areas/22443-us-pittsburgh/october-2026
-URL:https://www.songkick.com/metro-areas/22443-us-pittsburgh/october-2026
+UID:76979689-a489-59aa-9d37-d7f73db76e9e@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Vampyr with the Andrew Alden Ensemble
+DTSTART:20261004T230000Z
+DTEND:20261005T010000Z
+LOCATION:Harris Theater\, 809 Liberty Ave.\, Downtown Pittsburgh
+DESCRIPTION:Silent horror film screening accompanied by live score from the Andrew Alden Ensemble.\\n\\nhttps://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
+URL:https://www.pghcitypaper.com/arts-entertainment-2/spooky-october-events-in-pittsburgh/
 END:VEVENT
 BEGIN:VEVENT
-UID:954047a4-7830-54ad-831b-92e90c8a1edf@pghwidget
-DTSTAMP:20261001T062917Z
-SUMMARY:Starbomb featuring DJ Commander Meouch — Probably The Only Tour Ever
+UID:f2f4aa56-3f44-5cc5-90a5-99205b4ee294@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Starbomb featuring DJ Commander Meouch
 DTSTART:20261006T000000Z
 DTEND:20261006T020000Z
-LOCATION:Citizens Live at The Wylie
-DESCRIPTION:A comedy-music hybrid act bringing a devoted online audience into a physical room.
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Comedy-music hybrid act bringing a devoted online audience into a physical room.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:f788449e-2546-5d53-bb0f-89ebf59792b7@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Jeff Goldblum & The Mildred Snitzer Orchestra with Pittsburgh Symphony POPS
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+LOCATION:Heinz Hall\, Downtown Pittsburgh
+DESCRIPTION:The Mildred Snitzer Orchestra joined by the Pittsburgh Symphony Orchestra.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:804f0dda-eb66-586a-9b2b-6e2eae91f027@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Smashing Pumpkins
+DTSTART:20261007T000000Z
+DTEND:20261007T020000Z
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Rock band performs as part of a crowded night of major shows.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:4a974d4f-773d-507c-bf06-d9dc8fcd10cb@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Interpol (with DIIV)
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+LOCATION:Stage AE\, Pittsburgh
+DESCRIPTION:One of three major shows across different venues and genres on this date.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb28a9e-2276-514d-a853-53c71c80384e@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Two Door Cinema Club
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DESCRIPTION:Part of three major shows spanning different genres on October 6.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:36a44b76-06b5-596d-90a2-b0e7b3dfab1c@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Soccer Mommy — The S&M Tour
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+LOCATION:Roxian Theatre Presented By Citizens\, McKees Rocks\, PA
+DESCRIPTION:Soccer Mommy's S&M Tour stops at the Roxian Theatre.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cdea10-ce70-52b5-848d-1e73abfa746e@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Chelsea Wolfe
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+LOCATION:Carnegie of Homestead Music Hall\, Homestead\, PA
+DESCRIPTION:Chelsea Wolfe performs at Carnegie of Homestead Music Hall.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5a60ad-8466-5d35-9c9f-3f8f190a3fd1@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Sturgill Simpson (as Johnny Blue Skies) — Mutiny for the Masses 2026 Tour
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+LOCATION:Petersen Events Center\, Pittsburgh
+DESCRIPTION:Sturgill Simpson\, performing as Johnny Blue Skies.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:69de6a9c-364f-5722-88a3-395e6e175e75@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Dan + Shay
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Country duo plays an arena date in their fall tour.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6ad920-3d2b-5d04-8a16-ee7a56d59929@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Pittsburgh Symphony POPS: Everything I Know: Mandy Gonzalez Sings Lin-Manuel Miranda
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+LOCATION:Heinz Hall\, Downtown Pittsburgh
+DESCRIPTION:Mandy Gonzalez sings Lin-Manuel Miranda with Pittsburgh Symphony POPS.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:aef1ffde-c531-5707-aa2a-35e1d39f73bb@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Agnostic Front
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+LOCATION:Crafthouse Stage & Grill\, Pittsburgh
+DESCRIPTION:Agnostic Front plays Crafthouse Stage & Grill.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:cce3733d-a369-5416-929a-c7305acd0c95@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Chance the Rapper
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Chicago rapper performs a headline show at the new venue.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:2c043cbd-da66-5550-933e-6714dda359c1@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Rigoletto (Pittsburgh Opera)
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261019
+LOCATION:Benedum Center\, Downtown Pittsburgh
+DESCRIPTION:Pittsburgh Opera stages Verdi's Rigoletto at the Benedum Center.\\n\\nhttps://pittsburghopera.org/calendar/
+URL:https://pittsburghopera.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:7763e47f-ee50-50d7-abd4-77fe54319744@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:MC Lyte
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+LOCATION:City Winery Pittsburgh
+DESCRIPTION:MC Lyte performs at City Winery Pittsburgh.\\n\\nhttps://pittsburgh.tablemagazine.com/blog/best-pittsburgh-concerts-oct-dec-2026/
+URL:https://pittsburgh.tablemagazine.com/blog/best-pittsburgh-concerts-oct-dec-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:6c166caf-2aa5-5147-b449-47f1b503ce54@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Jazz at Lincoln Center Orchestra with Wynton Marsalis
+DTSTART:20261017T233000Z
+DTEND:20261018T013000Z
+LOCATION:Byham Theater\, Downtown Pittsburgh
+DESCRIPTION:Part of the Pittsburgh Cultural Trust's Dentons Cohen Grigsby Cabaret Series.\\n\\nhttps://trustarts.org/calendar
+URL:https://trustarts.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:dd61ad02-35b7-5483-b0e5-16bd89280bee@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:PSO360: Alisa Weilerstein
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Heinz Hall\, Downtown Pittsburgh
+DESCRIPTION:Cellist Alisa Weilerstein joins the Pittsburgh Symphony's PSO360 series.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:60644785-4324-5c05-af99-ee8e0e009f30@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Pittsburgh Symphony Orchestra: Romantic Rachmaninoff
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+LOCATION:Heinz Hall\, Downtown Pittsburgh
+DESCRIPTION:Classical program featuring Rachmaninoff works performed by the full orchestra.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2cebd6-bc4c-520f-bb7d-bb5ae695e1ab@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Boyz II Men
+DTSTART:20261016T233000Z
+DTEND:20261017T013000Z
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Legendary R&B vocal group performs a greatest-hits set.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:c2b1fa33-66a5-58b0-8e2b-4131e076aefb@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Tedeschi Trucks Band
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:Blues-rock collective led by Susan Tedeschi and Derek Trucks plays a headline set.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:98dc0893-c99d-5272-adbf-6518549f1eaa@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Smokey Robinson — Legacy of Love Tour
+DTSTART:20261024T000000Z
+DTEND:20261024T020000Z
+LOCATION:Citizens Live at The Wylie\, Pittsburgh
+DESCRIPTION:The Motown legend plays one of the early shows at the newly constructed venue.\\n\\nhttps://pittsburgh.tablemagazine.com/blog/best-pittsburgh-concerts-oct-dec-2026/
+URL:https://pittsburgh.tablemagazine.com/blog/best-pittsburgh-concerts-oct-dec-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d15ddae-e96c-5f4c-9fd2-186d264a3440@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Pittsburgh Symphony Orchestra: Barnatan Plays Beethoven
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+LOCATION:Heinz Hall\, Downtown Pittsburgh
+DESCRIPTION:Pianist Inon Barnatan performs Beethoven with the Pittsburgh Symphony.\\n\\nhttps://pittsburghsymphony.org/calendar
+URL:https://pittsburghsymphony.org/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:086b2f60-4a0c-543e-9bf3-6df165479da9@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Outside the Salon "Sip & Sing"
+DTSTART:20261023T220000Z
+DTEND:20261024T010000Z
+LOCATION:Bitz Opera Factory\, Hahn Rehearsal Hall and Costume Shop\, Pittsburgh
+DESCRIPTION:Pittsburgh Opera community event series combining drinks and group singing.\\n\\nhttps://pittsburghopera.org/calendar/
+URL:https://pittsburghopera.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc33c1f-55bf-5350-9e6c-34886359cdb5@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Giselle (Pittsburgh Ballet Theatre)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+LOCATION:Benedum Center\, Downtown Pittsburgh
+DESCRIPTION:Pittsburgh Ballet Theatre presents Giselle at the Benedum Center.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6a517a-1169-526c-8f80-b967500cfe46@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Rod Wave with FRIDAYY
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+LOCATION:PPG Paints Arena\, Pittsburgh
+DESCRIPTION:Chart-topping R&B/rap artist headlines an arena show with support from FRIDAYY.\\n\\nhttps://allevents.in/pittsburgh/october
+URL:https://allevents.in/pittsburgh/october
+END:VEVENT
+BEGIN:VEVENT
+UID:9870c056-4350-50d0-8b4d-1b7106778a33@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:October Song Shop
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+LOCATION:George R. White Opera Studio\, Bitz Opera Factory\, 2425 Liberty Avenue\, Pittsburgh
+DESCRIPTION:Pittsburgh Opera vocal workshop/performance event.\\n\\nhttps://pittsburghopera.org/calendar/
+URL:https://pittsburghopera.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:36361e4e-98f6-5108-b076-306ca1e1cbab@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Jonas Brothers — The Burning Up Tour: All Over Again (with Magnus Ferrell & Deleasa)
+DTSTART:20261026T233000Z
+DTEND:20261027T013000Z
+LOCATION:PPG Paints Arena\, Downtown Pittsburgh
+DESCRIPTION:45-city North American arena run includes a Pittsburgh stop performing the 2008 breakthrough album in full alongside newer material.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa90a16f-e7d9-56c0-826e-8e593a9b17e3@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Hadestown (Non-Equity)
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261102
+LOCATION:Benedum Center\, Downtown Pittsburgh
+DESCRIPTION:Hadestown (Non-Equity) runs at the Benedum Center.\\n\\nhttps://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+URL:https://resources.onestowatch.com/best-concerts-in-pittsburgh-october/
+END:VEVENT
+BEGIN:VEVENT
+UID:09ad6e66-b5dd-52f3-b1ae-7ba2cc83ccac@pghwidget
+DTSTAMP:20261001T123305Z
+SUMMARY:Oktoberfest Pittsburgh
+DTSTART:20261001T160000Z
+DTEND:20261002T020000Z
+RRULE:FREQ=DAILY;UNTIL=20261011T160000Z
+LOCATION:Downtown Pittsburgh (Fort Duquesne Blvd.\, Stanwix St. to 7th St.\, incl. 6th St. Bridge)
+DESCRIPTION:11-day celebration of culture\, food\, music\, and community with German-inspired activities for all ages.\\n\\nhttps://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
+URL:https://www.visitpittsburgh.com/events-festivals/oktoberfest-pittsburgh/
 END:VEVENT
 END:VCALENDAR
